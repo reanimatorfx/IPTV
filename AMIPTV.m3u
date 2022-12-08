@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="247Retro.us" tvg-logo="https://i.imgur.com/QqQL7ss.png" group-title="",247 Retro TV (432p) [Not 24/7]
 http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
 
+#EXTINF:-1 tvg-id="A&E.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png" group-title="",A&E
+https://list.iptvcat.com/my_list/s/4332f678d75e3398d8a845520b0953f8.m3u8
+
 #EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="",Adult Swim Aqua Teen Hunger Force (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 
