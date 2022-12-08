@@ -78,6 +78,9 @@ http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:-1 tvg-id="AdultSwimYourPrettyFaceIsGoingToHell.us" tvg-logo="https://i.imgur.com/uLoRE4F.png" group-title="",Adult Swim Your Pretty Face Is Going To Hell (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 
+#EXTINF:-1 tvg-id="AMCHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="",AMC HD
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145914
+
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="",AMC East (720p)
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
 
@@ -167,6 +170,9 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145956
 
 #EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="",Glory Kickboxing (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1200px-Hallmark_Channel.svg.png" group-title="",HALLMARK CHANNEL
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145962
 
 #EXTINF:-1 tvg-id="HumorMill.us" tvg-logo="https://i.imgur.com/lYqcF1P.png" group-title="",Humor Mill (1080p) [Not 24/7]
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
