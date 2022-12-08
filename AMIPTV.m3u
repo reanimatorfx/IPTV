@@ -288,10 +288,10 @@ https://comedy-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedboxRush.us" tvg-logo="https://i.imgur.com/pA6g3iH.jpg" group-title="",Redbox 3: Rush (1080p)
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Reelz.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="Documentary",Reelz Channel
+#EXTINF:-1 tvg-id="Reelz.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="",Reelz Channel
 https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ReelzChannelXUMO.us" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="Documentary",Reelz Channel (XUMO) (720p)
+#EXTINF:-1 tvg-id="ReelzChannelXUMO.us" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="",Reelz Channel (XUMO) (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="",Retro TV (720p)
@@ -306,10 +306,10 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="SundanceTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png" group-title="",Sundance East (720p)
 https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="General",TBS East (720p) 
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="",TBS East (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="General",TBS West (720p) 
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="",TBS West (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="",TCM East (720p) 
@@ -318,10 +318,10 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1
 #EXTINF:-1 tvg-id="TCMWest.us" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="",TCM West (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="General",TNT East (720p) 
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="",TNT East (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="General",TNT West (720p) 
+#EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="",TNT West (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="truTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="",truTV East (720p) 
@@ -345,7 +345,7 @@ https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8
 #EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" group-title="",TVS Drive In Movie (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSFamilyChannel.us" tvg-logo="https://i.imgur.com/iuQyJ7f.jpg" group-title="Family",TVS Family Channel (360p)
+#EXTINF:-1 tvg-id="TVSFamilyChannel.us" tvg-logo="https://i.imgur.com/iuQyJ7f.jpg" group-title="",TVS Family Channel (360p)
 https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSFilmNoirNetwork.us" tvg-logo="https://i.imgur.com/A4yWhQw.png" group-title="",TVS Film Noir Network (720p)
@@ -375,7 +375,7 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
 #EXTINF:-1 tvg-id="TVSQuizShowNetwork.us" tvg-logo="https://i.imgur.com/f6wNKHW.png" group-title="",TVS Quiz Show Network (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSSelectNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="General",TVS Select Network (720p)
+#EXTINF:-1 tvg-id="TVSSelectNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="",TVS Select Network (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSSports.us" tvg-logo="https://i.imgur.com/OFO86K5.jpg" group-title="",TVS Sports (720p) [Not 24/7]
@@ -387,7 +387,7 @@ https://rpn1.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
 #EXTINF:-1 tvg-id="TVSTavern.us" tvg-logo="https://i.imgur.com/5UjqDht.jpg" group-title="",TVS Tavern (480p)
 https://rpn1.bozztv.com/36bay2/gusa-tavern/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="General",TVS Television Network (480p)
+#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="",TVS Television Network (480p)
 https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSTodayHomeEntertainmentNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="",TVS Today Home Entertainment Network (720p) [Not 24/7]
