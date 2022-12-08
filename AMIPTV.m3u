@@ -159,12 +159,6 @@ https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FunnyorDie.us" tvg-logo="https://i.imgur.com/PMMsywm.png" group-title="",Funny or Die (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FX.us" tvg-logo="https://www.clipartmax.com/png/small/345-3452629_fx-network-fx-channel-logo-png.png" group-title="",FX
-https://list.iptvcat.com/my_list/s/77282b3d020a34a0a24e63348230fa52.m3u8
-
-#EXTINF:-1 tvg-id="TVSMainstreet.us" tvg-logo="https://www.clipartmax.com/png/small/345-3452629_fx-network-fx-channel-logo-png.png" group-title="",FX Movie Channel
-https://list.iptvcat.com/my_list/s/0cedc3209a806287f4c076a987cda654.m3u8
-
 #EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="",Glory Kickboxing (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 
