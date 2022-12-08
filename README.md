@@ -1,3 +1,3 @@
 # IPTV
 
-https://reanimatorfx.github.io/AMIPTV.m3u
+https://reanimatorfx.github.io/IPTV/AMIPTV.m3u
