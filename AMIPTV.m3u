@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="247Retro.us" tvg-logo="https://i.imgur.com/QqQL7ss.png" group-title="",247 Retro TV (432p) [Not 24/7]
 http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A&E.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png" group-title="",A&E
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145912
-
 #EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="",Adult Swim Aqua Teen Hunger Force (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 
@@ -165,20 +162,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u
 #EXTINF:-1 tvg-id="Fx.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="",FX
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145954
 
-#EXTINF:-1 tvg-id="Fx.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="",FX Movie Channel
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fx.movie.channel.us.m3u8
-
-#EXTINF:-1 tvg-id="Fx.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="",FX Network (West)
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fxpacific.us.m3u8
-
-#EXTINF:-1 tvg-id="Fx.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="",FX Networks (East)
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fx.networks.east.coast.us.m3u8
-
 #EXTINF:-1 tvg-id="Fx.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="",FXX
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145956
-
-#EXTINF:-1 tvg-id="Fx.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="",FXX (East)
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fxx.usa.eastern.us.m3u8
 
 #EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="",Glory Kickboxing (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
@@ -209,12 +194,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playli
 
 #EXTINF:-1 tvg-id="lifetime.us" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/4/2021/03/11131921/Lifetime_Logo_Rosex500.png" group-title="",LIFETIME
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145975
-
-#EXTINF:-1 tvg-id="lifetime.us" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/4/2021/03/11131921/Lifetime_Logo_Rosex500.png" group-title="",Lifetime Movies (East)
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/lifetime.movies.east.us.m3u8
-
-#EXTINF:-1 tvg-id="lifetime.us" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/4/2021/03/11131921/Lifetime_Logo_Rosex500.png" group-title="",Lifetime Network (East)
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/lifetime.network.us.eastern.us.m3u8
 
 #EXTINF:-1 tvg-id="LoneStar.us" tvg-logo="https://od.lk/s/MF8yMzMxMzM1NzJf/LoneStar_250x250.png" group-title="",Lone Star (1080p)
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
