@@ -1,0 +1,438 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-id="I600.34313.zap2it.com" tvg-name="TSN 1 HD" tvg-logo="" ,group-title="Sports",TSN 1 HD
+http://megatv.me:5890/1122334455/1122334455/216118
+
+#EXTINF:-1 tvg-id="I602.61474.zap2it.com" tvg-name="TSN 2 HD" tvg-logo="" ,group-title="Sports",TSN 2 HD
+http://megatv.me:5890/1122334455/1122334455/216119
+
+#EXTINF:-1 tvg-id="I603.90119.zap2it.com" tvg-name="TSN 3 HD" tvg-logo="" ,group-title="Sports",TSN 3 HD
+http://megatv.me:5890/1122334455/1122334455/216120
+
+#EXTINF:-1 tvg-id="I604.90123.zap2it.com" tvg-name="TSN 4 HD" tvg-logo="" ,group-title="Sports",TSN 4 HD
+http://megatv.me:5890/1122334455/1122334455/216121
+
+#EXTINF:-1 tvg-id="I605.90125.zap2it.com" tvg-name="TSN 5 HD" tvg-logo="" ,group-title="Sports",TSN 5 HD
+http://megatv.me:5890/1122334455/1122334455/216122
+
+#EXTINF:-1 tvg-id="I619.68946.zap2it.com" tvg-name="AT&T Sportsnet South HD" tvg-logo="" group-title="Sports",AT&T Sportsnet South HD
+http://megatv.me:5890/1122334455/1122334455/216123
+
+#EXTINF:-1 tvg-id="I616.68859.zap2it.com" tvg-name="Sportsnet One HD" tvg-logo="" group-title="Sports",Sportsnet One HD
+http://megatv.me:5890/1122334455/1122334455/216124
+
+#EXTINF:-1 tvg-id="I612.62111.zap2it.com" tvg-name="Sportsnet Ontario HD" tvg-logo="" group-title="Sports",Sportsnet Ontario HD
+http://megatv.me:5890/1122334455/1122334455/216125
+
+#EXTINF:-1 tvg-id="I614.61714.zap2it.com" tvg-name="Sportsnet Pacific HD" tvg-logo="" group-title="Sports",Sportsnet Pacific HD
+http://megatv.me:5890/1122334455/1122334455/216126
+
+#EXTINF:-1 tvg-id="I615.49952.zap2it.com" tvg-name="Sportsnet 360 HD" tvg-logo="" group-title="Sports",Sportsnet 360 HD
+http://megatv.me:5890/1122334455/1122334455/216127
+
+#EXTINF:-1 tvg-id="I610.62109.zap2it.com" tvg-name="Sportsnet East HD" tvg-logo="" group-title="Sports",Sportsnet East HD
+http://megatv.me:5890/1122334455/1122334455/216128
+
+#EXTINF:-1 tvg-id="I613.61742.zap2it.com" tvg-name="Sportsnet West HD" tvg-logo="" group-title="Sports",Sportsnet West HD
+http://megatv.me:5890/1122334455/1122334455/216129
+
+#EXTINF:-1 tvg-id="I639.48099.zap2it.com" tvg-name="Fight Network HD" tvg-logo="" group-title="Sports",Fight Network HD
+http://megatv.me:5890/1122334455/1122334455/216130
+
+#EXTINF:-1 tvg-id="I623.76955.zap2it.com" tvg-name="BeIN Sports HD" tvg-logo="" group-title="Sports",BeIN Sports HD
+http://megatv.me:5890/1122334455/1122334455/216131
+
+#EXTINF:-1 tvg-id="" tvg-name="Tva Sports 1 HD" tvg-logo="" group-title="Sports",Tva Sports 1 HD
+http://megatv.me:5890/1122334455/1122334455/216132
+
+#EXTINF:-1 tvg-id="I632.53242.zap2it.com" tvg-name="NBA TV HD (R)" tvg-logo="" group-title="Sports",NBA TV HD (R)
+http://megatv.me:5890/1122334455/1122334455/216133
+
+#EXTINF:-1 tvg-id="I620.83116.zap2it.com" tvg-name="NFL Network HD" tvg-logo="" group-title="Sports",NFL Network HD
+http://megatv.me:5890/1122334455/1122334455/216135
+
+#EXTINF:-1 tvg-id="I445.44794.zap2it.com" tvg-name="Discovery Velocity HD" tvg-logo="" group-title="Canada",Discovery Velocity HD
+http://megatv.me:5890/1122334455/1122334455/216136
+
+#EXTINF:-1 tvg-id="I540.76799.zap2it.com" tvg-name="Investigation Discovery HD" tvg-logo="" group-title="Canada",Investigation Discovery HD
+http://megatv.me:5890/1122334455/1122334455/216137
+
+#EXTINF:-1 tvg-id="I410.20362.zap2it.com" tvg-name="FOX 29 (WUTV) Buffalo" tvg-logo="" group-title="Canada",FOX 29 (WUTV) Buffalo
+http://megatv.me:5890/1122334455/1122334455/216139
+
+#EXTINF:-1 tvg-id="I545.81208.zap2it.com" tvg-name="H2 HD" tvg-logo="" group-title="Canada",H2 HD
+http://megatv.me:5890/1122334455/1122334455/216141
+
+#EXTINF:-1 tvg-id="I429.65619.zap2it.com" tvg-name="History HD" tvg-logo="" group-title="Canada",History HD
+http://megatv.me:5890/1122334455/1122334455/216142
+
+#EXTINF:-1 tvg-id="I446.54743.zap2it.com" tvg-name="Nat Geo HD" tvg-logo="" group-title="Canada",Nat Geo HD
+http://megatv.me:5890/1122334455/1122334455/216143
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET PPV" tvg-logo="" group-title="Canada",SPORTSNET PPV
+http://megatv.me:5890/1122334455/1122334455/216144
+
+#EXTINF:-1 tvg-id="I455.76792.zap2it.com" tvg-name="E! Entertainment HD" tvg-logo="" group-title="Canada",E! Entertainment HD
+http://megatv.me:5890/1122334455/1122334455/216145
+
+#EXTINF:-1 tvg-id="I419.73467.zap2it.com" tvg-name="Food Network HD" tvg-logo="" group-title="Canada",Food Network HD
+http://megatv.me:5890/1122334455/1122334455/216146
+
+#EXTINF:-1 tvg-id="I449.52745.zap2it.com" tvg-name="Love Nature HD" tvg-logo="" group-title="Canada",Love Nature HD
+http://megatv.me:5890/1122334455/1122334455/216147
+
+#EXTINF:-1 tvg-id="I507.76222.zap2it.com" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Canada",Cartoon Network HD
+http://megatv.me:5890/1122334455/1122334455/216148
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="http://showflix.art:5890/images/0237aea03ef924f486fae0da496a0c6f.JPG" group-title="Canada",Disney Channel HD
+http://megatv.me:5890/1122334455/1122334455/216149
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="http://showflix.art:5890/images/5345114efe3d68f8e6b121985b83d473.png" group-title="Canada",Disney Junior HD
+http://megatv.me:5890/1122334455/1122334455/216150
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo="http://showflix.art:5890/images/8c492ec592c68c3f3d9d2cf3586fe30b.jpg" group-title="Canada",Disney XD HD
+http://megatv.me:5890/1122334455/1122334455/216151
+#EXTINF:-1 tvg-id="" tvg-name="Family Jr HD" tvg-logo="http://showflix.art:5890/images/38d2ca85845562e08314d8e359a48cba.png" group-title="Canada",Family Jr HD
+http://megatv.me:5890/1122334455/1122334455/216152
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="http://showflix.art:5890/images/0c61d037db1e3d58141db8a8309a8e68.jpg" group-title="Canada",Nickelodeon HD
+http://megatv.me:5890/1122334455/1122334455/216153
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation HD" tvg-logo="http://showflix.art:5890/images/17cd2524dae9c4e68f403d62da087694.png" group-title="Canada",Crime & Investigation HD
+http://megatv.me:5890/1122334455/1122334455/216154
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://showflix.art:5890/images/fa5c442c54c296fae0507a1c210893e6.png" group-title="Canada",Discovery Channel HD
+http://megatv.me:5890/1122334455/1122334455/216155
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="http://showflix.art:5890/images/2df9aea04058407d3704e9aa1ab9736a.jpg" group-title="Canada",Discovery Science HD
+http://megatv.me:5890/1122334455/1122334455/216156
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD" tvg-logo="http://showflix.art:5890/images/5889b9b1b87081581d98e2898105e30e.png" group-title="Canada",Golf Channel HD
+http://megatv.me:5890/1122334455/1122334455/216157
+#EXTINF:-1 tvg-id="" tvg-name="CTV SCI-FI" tvg-logo="http://showflix.art:5890/images/91349bd99620997deff8a200c4a625ba.jpg" group-title="Canada",CTV SCI-FI
+http://megatv.me:5890/1122334455/1122334455/216158
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="http://showflix.art:5890/images/d035a8b2a3add9fd9c000a4327bd0f0d.jpg" group-title="Canada",Nat Geo Wild HD
+http://megatv.me:5890/1122334455/1122334455/216159
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://showflix.art:5890/images/d7ad515a4a03fe76a5948e39b84e2b83.png" group-title="Canada",A&E HD
+http://megatv.me:5890/1122334455/1122334455/216160
+#EXTINF:-1 tvg-id="" tvg-name="CBC WINDSOR HD" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_Local_WSR_4CLR.jpg" group-title="Canada",CBC WINDSOR HD
+http://megatv.me:5890/1122334455/1122334455/216278
+#EXTINF:-1 tvg-id="" tvg-name="V Montreal HD" tvg-logo="https://www.monmobo.com/assets/images/television/canal/base/vtele.png" group-title="Canada",V Montreal HD
+http://megatv.me:5890/1122334455/1122334455/216279
+#EXTINF:-1 tvg-id="" tvg-name="CBC EDMONTON HD" tvg-logo="https://subscriptions.cbc.ca/newsletter_static/images/1581432976501-cbc-edmonton.png" group-title="Canada",CBC EDMONTON HD
+http://megatv.me:5890/1122334455/1122334455/216280
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Canada",Love Nature HD
+http://megatv.me:5890/1122334455/1122334455/216281
+#EXTINF:-1 tvg-id="" tvg-name="YTV E" tvg-logo="https://assets.ytv.com/wp-content/uploads/2021/04/09154027/Social_YTV_Logo.png" group-title="Canada",YTV E
+http://megatv.me:5890/1122334455/1122334455/216282
+#EXTINF:-1 tvg-id="" tvg-name="YTV" tvg-logo="https://assets.ytv.com/wp-content/uploads/2021/04/09154027/Social_YTV_Logo.png" group-title="Canada",YTV
+http://megatv.me:5890/1122334455/1122334455/216283
+#EXTINF:-1 tvg-id="" tvg-name="YES TV" tvg-logo="https://assets-global.website-files.com/5b3e246651a97b4052760e33/5b3e2d63f5523c81d1d4f155_Yes%20TV%20logo%20GREEN.png" group-title="Canada",YES TV
+http://megatv.me:5890/1122334455/1122334455/216284
+#EXTINF:-1 tvg-id="" tvg-name="WSBK" tvg-logo="https://static.wikia.nocookie.net/alternate-universes/images/a/a3/WSBK_%28TU%29_%282006%29.png/revision/latest?cb=20190720202857" group-title="Canada",WSBK
+http://megatv.me:5890/1122334455/1122334455/216285
+#EXTINF:-1 tvg-id="" tvg-name="Wild TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Wild_TV_logo_2020.png" group-title="Canada",Wild TV
+http://megatv.me:5890/1122334455/1122334455/216286
+#EXTINF:-1 tvg-id="" tvg-name="WGN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1200px-WGN_9_logo.svg.png" group-title="Canada",WGN
+http://megatv.me:5890/1122334455/1122334455/216287
+#EXTINF:-1 tvg-id="" tvg-name="WFN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/World_Fishing_Network_logo.png" group-title="Canada",WFN
+http://megatv.me:5890/1122334455/1122334455/216288
+#EXTINF:-1 tvg-id="" tvg-name="W NETWORK" tvg-logo="https://mpossibleevents.com/wp-content/uploads/2019/01/logos_tv_womenfamily_wnetwork.png" group-title="Canada",W NETWORK
+http://megatv.me:5890/1122334455/1122334455/216289
+#EXTINF:-1 tvg-id="" tvg-name="VISION" tvg-logo="https://www.visiontv.ca/6365fc30d25a3588e55fe53689c7af1f.png" group-title="Canada",VISION
+http://megatv.me:5890/1122334455/1122334455/216290
+#EXTINF:-1 tvg-id="" tvg-name="TVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/1200px-TVO_logo.svg.png" group-title="Canada",TVO
+http://megatv.me:5890/1122334455/1122334455/216291
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4" tvg-logo="http://showflix.art:5890/images/cae44468364c156e86286998b81a0421.png" group-title="Canada",TSN 4
+http://megatv.me:5890/1122334455/1122334455/216292
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="http://showflix.art:5890/images/abeffb0cac63beee1a2955fd815af126.png" group-title="Canada",TSN 3
+http://megatv.me:5890/1122334455/1122334455/216293
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="http://showflix.art:5890/images/60df5171280ba8ddb5063288f1e2ce6d.png" group-title="Canada",TSN 2
+http://megatv.me:5890/1122334455/1122334455/216294
+#EXTINF:-1 tvg-id="" tvg-name="TREEHOUSE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Treehouse_TV_logo.svg/800px-Treehouse_TV_logo.svg.png" group-title="Canada",TREEHOUSE
+http://megatv.me:5890/1122334455/1122334455/216295
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL ESCAPE" tvg-logo="https://broadcasting-history.com/assets/travelescape.jpg" group-title="Canada",TRAVEL ESCAPE
+http://megatv.me:5890/1122334455/1122334455/216296
+#EXTINF:-1 tvg-id="" tvg-name="THE WEATHER NETWORK" tvg-logo="https://images.safe.com/logos/customers/the-weather-network.png" group-title="Canada",THE WEATHER NETWORK
+http://megatv.me:5890/1122334455/1122334455/216297
+#EXTINF:-1 tvg-id="" tvg-name="THE MOVIE NETWORK 4" tvg-logo="https://seeklogo.com/images/T/the-movie-network-logo-0412E730D6-seeklogo.com.png" group-title="Canada",THE MOVIE NETWORK 4
+http://megatv.me:5890/1122334455/1122334455/216298
+#EXTINF:-1 tvg-id="" tvg-name="THE MOVIE NETWORK 3" tvg-logo="https://seeklogo.com/images/T/the-movie-network-logo-0412E730D6-seeklogo.com.png" group-title="Canada",THE MOVIE NETWORK 3
+http://megatv.me:5890/1122334455/1122334455/216299
+#EXTINF:-1 tvg-id="" tvg-name="THE MOVIE NETWORK 2" tvg-logo="https://seeklogo.com/images/T/the-movie-network-logo-0412E730D6-seeklogo.com.png" group-title="Canada",THE MOVIE NETWORK 2
+http://megatv.me:5890/1122334455/1122334455/216300
+#EXTINF:-1 tvg-id="" tvg-name="THE MOVIE NETWORK 1 HD" tvg-logo="https://seeklogo.com/images/T/the-movie-network-logo-0412E730D6-seeklogo.com.png" group-title="Canada",THE MOVIE NETWORK 1 HD
+http://megatv.me:5890/1122334455/1122334455/216301
+#EXTINF:-1 tvg-id="" tvg-name="TELE TOON EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Teletoon_2011.PNG" group-title="Canada",TELETOON EAST
+http://megatv.me:5890/1122334455/1122334455/216302
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="Canada",TCM
+http://megatv.me:5890/1122334455/1122334455/216303
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHANNEL VAULT" tvg-logo="https://www.superchannel.ca/images/brands/general/channels/sc-vault-lrg.png" group-title="Canada",SUPER CHANNEL VAULT
+http://megatv.me:5890/1122334455/1122334455/216304
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHANNEL HEART & HOME" tvg-logo="https://www.superchannel.ca/images/brands/general/channels/sc-hah-lrg.png" group-title="Canada",SUPER CHANNEL HEART & HOME
+http://megatv.me:5890/1122334455/1122334455/216305
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHANNEL FUSE HD" tvg-logo="https://www.superchannel.ca/images/brands/general/channels/sc-fuse-lrg.png" group-title="Canada",SUPER CHANNEL FUSE HD
+http://megatv.me:5890/1122334455/1122334455/216306
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET PACIFIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/SportsnetPacific2011.png/500px-SportsnetPacific2011.png" group-title="Canada",SPORTSNET PACIFIC
+http://megatv.me:5890/1122334455/1122334455/216307
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Sportsnet_One_2011.svg/1280px-Sportsnet_One_2011.svg.png" group-title="Canada",SPORTSNET ONE HD
+http://megatv.me:5890/1122334455/1122334455/216308
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSMAN CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Sportsman_Channel_Canada.png" group-title="Canada",SPORTSMAN CHANNEL
+http://megatv.me:5890/1122334455/1122334455/216309
+#EXTINF:-1 tvg-id="" tvg-name="SPIKE TV / PARAMOUNT" tvg-logo="https://variety.com/wp-content/uploads/2018/01/spike-logo.jpg?w=1000" group-title="Canada",SPIKE TV / PARAMOUNT
+http://megatv.me:5890/1122334455/1122334455/216310
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://static.wikia.nocookie.net/stargate/images/d/de/SPACE_logo.png/revision/latest/scale-to-width-down/200?cb=20090923171820" group-title="Canada",SPACE
+http://megatv.me:5890/1122334455/1122334455/216311
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN HD" tvg-logo="http://www.smithsonianchannel.ca/wp-content/uploads/2018/10/smithsonian-logo-header.png" group-title="Canada",SMITHSONIAN HD
+http://megatv.me:5890/1122334455/1122334455/216312
+#EXTINF:-1 tvg-id="" tvg-name="SLICE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Slice_logo_%282017%29.svg/1200px-Slice_logo_%282017%29.svg.png" group-title="Canada",SLICE
+http://megatv.me:5890/1122334455/1122334455/216313
+#EXTINF:-1 tvg-id="" tvg-name="SILVER SCREEN CLASSICS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Silverscreenclassics.svg/1200px-Silverscreenclassics.svg.png" group-title="Canada",SILVER SCREEN CLASSICS
+http://megatv.me:5890/1122334455/1122334455/216314
+#EXTINF:-1 tvg-id="" tvg-name="SHOWCASE EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Showcase2009.svg/150px-Showcase2009.svg.png" group-title="Canada",SHOWCASE EAST
+http://megatv.me:5890/1122334455/1122334455/216315
+#EXTINF:-1 tvg-id="" tvg-name="SERIES Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Series_Plus_2020_logo_Hi_Res.png" group-title="Canada",SERIES Plus
+http://megatv.me:5890/1122334455/1122334455/216317
+#EXTINF:-1 tvg-id="" tvg-name="PRISE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/1200px-Prise_2_logo_%282018%29.svg.png" group-title="Canada",PRISE
+http://megatv.me:5890/1122334455/1122334455/216318
+#EXTINF:-1 tvg-id="" tvg-name="PEACH TREE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/WPCH-TV_logo.svg/1200px-WPCH-TV_logo.svg.png" group-title="Canada",PEACH TREE
+http://megatv.me:5890/1122334455/1122334455/216319
+#EXTINF:-1 tvg-id="" tvg-name="PBS EAST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s33453_h15_ad.png" group-title="Canada",PBS EAST
+http://megatv.me:5890/1122334455/1122334455/216320
+#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Canada",OWN
+http://megatv.me:5890/1122334455/1122334455/216321
+#EXTINF:-1 tvg-id="" tvg-name="OUTTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Logo-3d.png" group-title="Canada",OUTTV
+http://megatv.me:5890/1122334455/1122334455/216322
+#EXTINF:-1 tvg-id="" tvg-name="ONE" tvg-logo="https://www.onetv.ca/9aa3dd6ea4f26d61e6255976eb8e5333.png" group-title="Canada",ONE
+http://megatv.me:5890/1122334455/1122334455/216323
+#EXTINF:-1 tvg-id="" tvg-name="OMNI 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlTP-lG4dMIFoUtTrtfOy9Mvs20JE1L2KuxSfcljT9pRRCguIeXNMAN5xSoPVY9IGomaQ&usqp=CAU" group-title="Canada",OMNI 2
+http://megatv.me:5890/1122334455/1122334455/216324
+#EXTINF:-1 tvg-id="" tvg-name="OMNI 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlTP-lG4dMIFoUtTrtfOy9Mvs20JE1L2KuxSfcljT9pRRCguIeXNMAN5xSoPVY9IGomaQ&usqp=CAU" group-title="Canada",OMNI 1
+http://megatv.me:5890/1122334455/1122334455/216325
+#EXTINF:-1 tvg-id="" tvg-name="OLN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/OLN_logo_2012.png" group-title="Canada",OLN
+http://megatv.me:5890/1122334455/1122334455/216326
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="Canada",NTV
+http://megatv.me:5890/1122334455/1122334455/216327
+#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/1200px-Nick_Jr._Channel_logo.svg.png" group-title="Canada",NICK
+http://megatv.me:5890/1122334455/1122334455/216328
+#EXTINF:-1 tvg-id="" tvg-name="NBC WEST" tvg-logo="https://images.hobbydb.com/processed_uploads/subject_photo/subject_photo/image/17911/1481662852-17796-5188/NBC_20Peacock_20logo_large.jpg" group-title="Canada",NBC WEST
+http://megatv.me:5890/1122334455/1122334455/216329
+#EXTINF:-1 tvg-id="" tvg-name="NBC EAST" tvg-logo="https://images.hobbydb.com/processed_uploads/subject_photo/subject_photo/image/17911/1481662852-17796-5188/NBC_20Peacock_20logo_large.jpg" group-title="Canada",NBC EAST
+http://megatv.me:5890/1122334455/1122334455/216330
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/06/NBA-Tv-Logo.png" group-title="Sports",NBA TV
+http://megatv.me:5890/1122334455/1122334455/216331
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://i.natgeofe.com/n/4da26b5c-18ee-413f-96dd-4cf3fb4a68a0/2fl-white.png" group-title="Canada",NAT GEO
+http://megatv.me:5890/1122334455/1122334455/216332
+#EXTINF:-1 tvg-id="" tvg-name="MUCH MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Much_-_2013_logo.svg/1200px-Much_-_2013_logo.svg.png" group-title="Canada",MUCH MUSIC
+http://megatv.me:5890/1122334455/1122334455/216333
+#EXTINF:-1 tvg-id="" tvg-name="MTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Canada",MTV 2
+http://megatv.me:5890/1122334455/1122334455/216334
+#EXTINF:-1 tvg-id="" tvg-name="MTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Canada",MTV 1
+http://megatv.me:5890/1122334455/1122334455/216335
+#EXTINF:-1 tvg-id="" tvg-name="MOVIETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png" group-title="Canada",MOVIETIME
+http://megatv.me:5890/1122334455/1122334455/216336
+#EXTINF:-1 tvg-id="" tvg-name="MIRACLE" tvg-logo="https://www.canadahelps.org/uploads/ik-images/medialib/charity_charity_82208/181524/about_image.jpg" group-title="Canada",MIRACLE
+http://megatv.me:5890/1122334455/1122334455/216337
+#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="https://boltmobile.ca/wp-content/uploads/2019/09/SaskTels-Max-TV-stream-logo_3.jpg" group-title="Canada",MAX
+http://megatv.me:5890/1122334455/1122334455/216339
+#EXTINF:-1 tvg-id="" tvg-name="MAVTV" tvg-logo="https://www.gulfcoastracingseries.com/wp-content/uploads/2021/04/MAVTV_MotorsportsNetwork_BLK.png" group-title="Canada",MAVTV
+http://megatv.me:5890/1122334455/1122334455/216340
+#EXTINF:-1 tvg-id="" tvg-name="MAKEFUL" tvg-logo="http://tv.bemakeful.com/wp-content/uploads/2018/09/makeful-logo-black.png" group-title="Canada",MAKEFUL
+http://megatv.me:5890/1122334455/1122334455/216341
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/4/2021/03/11131921/Lifetime_Logo_Rosex500.png" group-title="Canada",LIFETIME
+http://megatv.me:5890/1122334455/1122334455/216342
+#EXTINF:-1 tvg-id="" tvg-name="KTLA" tvg-logo="https://www.nexstar.tv/wp-content/uploads/2019/06/losAngeles_KTLA.jpg" group-title="Canada",KTLA
+http://megatv.me:5890/1122334455/1122334455/216343
+#EXTINF:-1 tvg-id="" tvg-name="KNOWLEDGE KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo-knowledge-kids.png/220px-Logo-knowledge-kids.png" group-title="Canada",KNOWLEDGE KIDS
+http://megatv.me:5890/1122334455/1122334455/216344
+#EXTINF:-1 tvg-id="" tvg-name="IFC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/1200px-IFC_2018_logo.svg.png" group-title="Canada",IFC HD
+http://megatv.me:5890/1122334455/1122334455/216345
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Canada",ID
+http://megatv.me:5890/1122334455/1122334455/216346
+#EXTINF:-1 tvg-id="" tvg-name="HLN" tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170504153443-hln-2017-logo-for-specials-page-large-169.png" group-title="Canada",HLN
+http://megatv.me:5890/1122334455/1122334455/216347
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg" group-title="Canada",HISTORY
+http://megatv.me:5890/1122334455/1122334455/216348
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/HGTV_Canada.png" group-title="Canada",HGTV
+http://megatv.me:5890/1122334455/1122334455/216349
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canada",HBO 2
+http://megatv.me:5890/1122334455/1122334455/216350
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s61557_h15_ab.png" group-title="Canada",HBO 1
+http://megatv.me:5890/1122334455/1122334455/216351
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/640px-History2_logo_%282022%29.svg.png" group-title="Canada",H2
+http://megatv.me:5890/1122334455/1122334455/216352
+#EXTINF:-1 tvg-id="" tvg-name="GUSTO" tvg-logo="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_6c0b69a4cbd4386c9d156a20bbfa5843/gusto.png" group-title="Canada",GUSTO
+http://megatv.me:5890/1122334455/1122334455/216353
+#EXTINF:-1 tvg-id="" tvg-name="GSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Canada",GSN
+http://megatv.me:5890/1122334455/1122334455/216354
+#EXTINF:-1 tvg-id="" tvg-name="GOLF" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s65384_h15_aa.png" group-title="Canada",GOLF
+http://megatv.me:5890/1122334455/1122334455/216355
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL VANCOUVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Globalbc.svg/1200px-Globalbc.svg.png" group-title="Canada",GLOBAL VANCOUVER
+http://megatv.me:5890/1122334455/1122334455/216356
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TORONTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Globaltoronto.svg/1200px-Globaltoronto.svg.png" group-title="Canada",GLOBAL TORONTO
+http://megatv.me:5890/1122334455/1122334455/216357
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL HALIFAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Global_Halifax.png" group-title="Canada",GLOBAL HALIFAX
+http://megatv.me:5890/1122334455/1122334455/216358
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL CALGARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Globalcalgary.svg/1200px-Globalcalgary.svg.png" group-title="Canada",GLOBAL CALGARY
+http://megatv.me:5890/1122334455/1122334455/216359
+#EXTINF:-1 tvg-id="" tvg-name="GINX ESPORTS TV" tvg-logo="https://www.superchannel.ca/images/brands/ginx/ginx-ca-logo.png" group-title="Canada",GINX ESPORTS TV
+http://megatv.me:5890/1122334455/1122334455/216360
+#EXTINF:-1 tvg-id="" tvg-name="Game TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Game_TV_2012.svg/440px-Game_TV_2012.svg.png" group-title="Canada",Game TV
+http://megatv.me:5890/1122334455/1122334455/216361
+#EXTINF:-1 tvg-id="" tvg-name="FYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Canada",FYI
+http://megatv.me:5890/1122334455/1122334455/216362
+#EXTINF:-1 tvg-id="" tvg-name="FTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fashion_TV_Channel_logo.svg/1200px-Fashion_TV_Channel_logo.svg.png" group-title="Canada",FTV
+http://megatv.me:5890/1122334455/1122334455/216363
+#EXTINF:-1 tvg-id="" tvg-name="FOX WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Canada",FOX WEST
+http://megatv.me:5890/1122334455/1122334455/216364
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Canada",FOX NEWS
+http://megatv.me:5890/1122334455/1122334455/216365
+#EXTINF:-1 tvg-id="" tvg-name="FOX EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Canada",FOX EAST
+http://megatv.me:5890/1122334455/1122334455/216366
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Food_Network_Canada_Old_Logo.svg/300px-Food_Network_Canada_Old_Logo.svg.png" group-title="Canada",FOOD NETWORK
+http://megatv.me:5890/1122334455/1122334455/216367
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK" tvg-logo="http://showflix.art:5890/images/201296f89598674b73f04da72eafffd7.jpg" group-title="Canada",FIGHT NETWORK
+http://megatv.me:5890/1122334455/1122334455/216368
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Family_Channel_2017.png" group-title="Canada",FAMILY WEST
+http://megatv.me:5890/1122334455/1122334455/216369
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Family_Jr._logo.svg/1200px-Family_Jr._logo.svg.png" group-title="Canada",FAMILY JR
+http://megatv.me:5890/1122334455/1122334455/216370
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY CHRGD" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/3/35/Chrgd.png" group-title="Canada",FAMILY CHRGD
+http://megatv.me:5890/1122334455/1122334455/216371
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/75px-E%21_Logo.svg.png" group-title="Canada",E!
+http://megatv.me:5890/1122334455/1122334455/216372
+#EXTINF:-1 tvg-id="" tvg-name="DTOUR" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s17693_h15_ab.png" group-title="Canada",DTOUR
+http://megatv.me:5890/1122334455/1122334455/216373
+#EXTINF:-1 tvg-id="" tvg-name="DIY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/DIY_Canada.svg/1200px-DIY_Canada.svg.png" group-title="Canada",DIY
+http://megatv.me:5890/1122334455/1122334455/216374
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://assets.disneychannel.ca/wp-content/uploads/2021/04/09103721/Social_DC_Logo.png" group-title="Canada",DISNEY CHANNEL
+http://megatv.me:5890/1122334455/1122334455/216376
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/800px-Discovery_Science_2017_Logo.svg.png" group-title="Canada",DISCOVERY SCIENCE
+http://megatv.me:5890/1122334455/1122334455/216377
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://asset.ctv.ca/image-service/version/c:NjIyZTBkMWMtNDZmMi00:MzFmY2M4/image.png" group-title="Canada",DISCOVERY CHANNEL
+http://megatv.me:5890/1122334455/1122334455/216378
+#EXTINF:-1 tvg-id="" tvg-name="DEJAVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/DejaView_logo.svg/640px-DejaView_logo.svg.png" group-title="Canada",DEJAVIEW
+http://megatv.me:5890/1122334455/1122334455/216379
+#EXTINF:-1 tvg-id="" tvg-name="DAYSTAR TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s48742_h15_aa.png" group-title="Canada",DAYSTAR TV
+http://megatv.me:5890/1122334455/1122334455/216380
+#EXTINF:-1 tvg-id="" tvg-name="CW 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/800px-The_CW.svg.png" group-title="Canada",CW 11
+http://megatv.me:5890/1122334455/1122334455/216381
+#EXTINF:-1 tvg-id="" tvg-name="CTV2 OTTAWA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10135_h15_ab.png" group-title="Canada",CTV2 OTTAWA
+http://megatv.me:5890/1122334455/1122334455/216382
+#EXTINF:-1 tvg-id="" tvg-name="CTV VANCOUVER" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10135_h15_ab.png" group-title="Canada",CTV VANCOUVER
+http://megatv.me:5890/1122334455/1122334455/216383
+#EXTINF:-1 tvg-id="" tvg-name="CTV TORONTO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10135_h15_ab.png" group-title="Canada",CTV TORONTO
+http://megatv.me:5890/1122334455/1122334455/216384
+#EXTINF:-1 tvg-id="" tvg-name="CTV OTTAWA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10135_h15_ab.png" group-title="Canada",CTV OTTAWA
+http://megatv.me:5890/1122334455/1122334455/216385
+#EXTINF:-1 tvg-id="" tvg-name="CTV NEWS NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/CTV_News_Channel.png" group-title="Canada",CTV NEWS NETWORK
+http://megatv.me:5890/1122334455/1122334455/216386
+#EXTINF:-1 tvg-id="" tvg-name="CTV MONTREAL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10135_h15_ab.png" group-title="Canada",CTV MONTREAL
+http://megatv.me:5890/1122334455/1122334455/216387
+#EXTINF:-1 tvg-id="" tvg-name="CTV HALIFAX" tvg-logo=https://cdn.tvpassport.com/image/station/240x135/v2/s10135_h15_ab.png"" group-title="Canada",CTV HALIFAX
+http://megatv.me:5890/1122334455/1122334455/216388
+#EXTINF:-1 tvg-id="" tvg-name="CTV CALGARY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10135_h15_ab.png" group-title="Canada",CTV CALGARY
+http://megatv.me:5890/1122334455/1122334455/216389
+#EXTINF:-1 tvg-id="" tvg-name="CTV 2 VANCOUVER" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10135_h15_ab.png" group-title="Canada",CTV 2 VANCOUVER
+http://megatv.me:5890/1122334455/1122334455/216390
+#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Canada",CRIME INVESTIGATION
+http://megatv.me:5890/1122334455/1122334455/216391
+#EXTINF:-1 tvg-id="" tvg-name="CRAVE 4 / TMN 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/crave4.png" group-title="Canada",CRAVE 4 / TMN 4
+http://megatv.me:5890/1122334455/1122334455/216392
+#EXTINF:-1 tvg-id="" tvg-name="CRAVE 3 / TMN 3" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2018/12/Crave3_Logo.png" group-title="Canada",CRAVE 3 / TMN 3
+http://megatv.me:5890/1122334455/1122334455/216393
+#EXTINF:-1 tvg-id="" tvg-name="CRAVE 2 / TMN 2" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2018/12/Crave2_Logo_.png" group-title="Canada",CRAVE 2 / TMN 2
+http://megatv.me:5890/1122334455/1122334455/216394
+#EXTINF:-1 tvg-id="" tvg-name="CRAVE 1 / TMN 1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/crave1.png" group-title="Canada",CRAVE 1 / TMN 1
+http://megatv.me:5890/1122334455/1122334455/216395
+#EXTINF:-1 tvg-id="" tvg-name="CPAC" tvg-logo="https://bannisterlake.com/wp-content/uploads/2017/11/642x220_cpac_main_logo.png" group-title="Canada",CPAC
+http://megatv.me:5890/1122334455/1122334455/216396
+#EXTINF:-1 tvg-id="" tvg-name="CP24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/CP24_Channel.png" group-title="Canada",CP24 HD
+http://megatv.me:5890/1122334455/1122334455/216397
+#EXTINF:-1 tvg-id="" tvg-name="CP24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/CP24_Channel.png" group-title="Canada",CP24
+http://megatv.me:5890/1122334455/1122334455/216398
+#EXTINF:-1 tvg-id="" tvg-name="COTTAGE LIFE" tvg-logo="https://shows.cottagelife.com/wp-content/uploads/2021/02/cottage_life_logo-1024x295.png" group-title="Canada",COTTAGE LIFE
+http://megatv.me:5890/1122334455/1122334455/216399
+#EXTINF:-1 tvg-id="" tvg-name="COOKING CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s66793_h15_ab.png" group-title="Canada",COOKING CHANNEL
+http://megatv.me:5890/1122334455/1122334455/216400
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://i.cdn.turner.com/cnn/.e/img/cnngo/logos/cnn-logo-red-white.png" group-title="Canada",CNN INTERNATIONAL
+http://megatv.me:5890/1122334455/1122334455/216401
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.cdn.turner.com/cnn/.e/img/cnngo/logos/cnn-logo-red-white.png" group-title="Canada",CNN
+http://megatv.me:5890/1122334455/1122334455/216402
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CNBC_logo.svg" group-title="Canada",CNBC
+http://megatv.me:5890/1122334455/1122334455/216403
+#EXTINF:-1 tvg-id="" tvg-name="CMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/CMT_Canada_2015_logo.png" group-title="Canada",CMT
+http://megatv.me:5890/1122334455/1122334455/216404
+#EXTINF:-1 tvg-id="" tvg-name="CITY VANCOUVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1200px-Citytv_logo.svg.png" group-title="Canada",CITY VANCOUVER
+http://megatv.me:5890/1122334455/1122334455/216405
+#EXTINF:-1 tvg-id="" tvg-name="CITY TORONTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1200px-Citytv_logo.svg.png" group-title="Canada",CITY TORONTO
+http://megatv.me:5890/1122334455/1122334455/216406
+#EXTINF:-1 tvg-id="" tvg-name="CITY MONTREAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1200px-Citytv_logo.svg.png" group-title="Canada",CITY MONTREAL
+http://megatv.me:5890/1122334455/1122334455/216407
+#EXTINF:-1 tvg-id="" tvg-name="CITY CALGARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1200px-Citytv_logo.svg.png" group-title="Canada",CITY CALGARY
+http://megatv.me:5890/1122334455/1122334455/216408
+#EXTINF:-1 tvg-id="" tvg-name="CHCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/1200px-CHCH2010.svg.png" group-title="Canada",CHCH
+http://megatv.me:5890/1122334455/1122334455/216409
+#EXTINF:-1 tvg-id="" tvg-name="CBS WEST" tvg-logo="https://userdocs.smartdnsproxy.com/userdocs/services/new/cbs.png" group-title="Canada",CBS WEST
+http://megatv.me:5890/1122334455/1122334455/216410
+#EXTINF:-1 tvg-id="" tvg-name="CBS EAST" tvg-logo="https://userdocs.smartdnsproxy.com/userdocs/services/new/cbs.png" group-title="Canada",CBS EAST
+http://megatv.me:5890/1122334455/1122334455/216411
+#EXTINF:-1 tvg-id="" tvg-name="CBC VANCOUVER" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horiz.jpg" group-title="Canada",CBC VANCOUVER
+http://megatv.me:5890/1122334455/1122334455/216412
+#EXTINF:-1 tvg-id="" tvg-name="CBC TORONTO" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horiz.jpg" group-title="Canada",CBC TORONTO
+http://megatv.me:5890/1122334455/1122334455/216413
+#EXTINF:-1 tvg-id="" tvg-name="CBC OTTAWA" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horiz.jpg" group-title="Canada",CBC OTTAWA
+http://megatv.me:5890/1122334455/1122334455/216414
+#EXTINF:-1 tvg-id="" tvg-name="CBC NOVA SCOTIA" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horiz.jpg" group-title="Canada",CBC NOVA SCOTIA
+http://megatv.me:5890/1122334455/1122334455/216415
+#EXTINF:-1 tvg-id="" tvg-name="CBC NEWS" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC-News_HORZ_4CLR_542x296.jpg" group-title="Canada",CBC NEWS
+http://megatv.me:5890/1122334455/1122334455/216416
+#EXTINF:-1 tvg-id="" tvg-name="CBC CALGARY" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horiz.jpg" group-title="Canada",CBC CALGARY
+http://megatv.me:5890/1122334455/1122334455/216417
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://uploads.dailydot.com/2020/05/best_show_cartoon_network.jpg" group-title="Canada",CARTOON NETWORK
+http://megatv.me:5890/1122334455/1122334455/216418
+#EXTINF:-1 tvg-id="" tvg-name="BOOK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BookTelevision_logo.svg/1200px-BookTelevision_logo.svg.png" group-title="Canada",BOOK TV
+http://megatv.me:5890/1122334455/1122334455/216419
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjVhNmQ3MzktMWM2MC00ZjNiLWE3NTAtYjliNDc1ODE1NmExL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTU5OTgwMjg@._V1_.jpg" group-title="Canada",BBC WORLD NEWS
+http://megatv.me:5890/1122334455/1122334455/216420
+#EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/BBC_Canada_logo.svg/1280px-BBC_Canada_logo.svg.png" group-title="Canada",BBC
+http://megatv.me:5890/1122334455/1122334455/216421
+#EXTINF:-1 tvg-id="" tvg-name="ABC EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="Canada",ABC EAST
+http://megatv.me:5890/1122334455/1122334455/216423
+#EXTINF:-1 tvg-id="" tvg-name="CBC Montreal HD" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horiz.jpg" group-title="Canada",CBC Montreal HD
+http://megatv.me:5890/1122334455/1122334455/216424
+#EXTINF:-1 tvg-id="" tvg-name="CBC Montreal" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horiz.jpg" group-title="Canada",CBC Montreal
+http://megatv.me:5890/1122334455/1122334455/216425
+#EXTINF:-1 tvg-id="" tvg-name="Bravo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bravo_logo.svg/220px-Bravo_logo.svg.png" group-title="Canada",Bravo TV
+http://megatv.me:5890/1122334455/1122334455/216426
+#EXTINF:-1 tvg-id="" tvg-name="BNN Bloomberg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStrEHW-KZqPvFhcVnPAAHB1t61IxYJML3GqEgCEO4cKhczT1eTDB8r_mrcVKeeZ5V2XWM&usqp=CAU" group-title="Canada",BNN Bloomberg
+http://megatv.me:5890/1122334455/1122334455/216427
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s45733_h15_ab.png" group-title="Canada",BET
+http://megatv.me:5890/1122334455/1122334455/216428
+#EXTINF:-1 tvg-id="" tvg-name="APTN" tvg-logo="https://www.channelcanada.com/wp-content/uploads/2016/08/aptnlogo-1024x543.png" group-title="Canada",APTN
+http://megatv.me:5890/1122334455/1122334455/216429
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Canada",AMC
+http://megatv.me:5890/1122334455/1122334455/216430
+#EXTINF:-1 tvg-id="" tvg-name="AHC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="Canada",AHC
+http://megatv.me:5890/1122334455/1122334455/216431
+#EXTINF:-1 tvg-id="" tvg-name="ABC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="Canada",ABC West
+http://megatv.me:5890/1122334455/1122334455/216434
+#EXTINF:-1 tvg-id="" tvg-name="ABC Spark" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/ABC_Spark_Logo.png/revision/latest?cb=20130903021250" group-title="Canada",ABC Spark
+http://megatv.me:5890/1122334455/1122334455/216435
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFiyD361VY14ELe8zuaF0BS1bX-P23NE631GlurM9Tmz5gGE1RK4nOfOC0gjiwZMIGczU&usqp=CAU" group-title="Canada",A&E HD
+http://megatv.me:5890/1122334455/1122334455/216436
+#EXTINF:-1 tvg-id="" tvg-name="TSN 5 HD" tvg-logo="http://showflix.art:5890/images/2f53270027e91c626dcb20d0c5c1441d.png" group-title="Sports",TSN 5 HD
+http://megatv.me:5890/1122334455/1122334455/216437
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4 HD" tvg-logo="http://showflix.art:5890/images/abeffb0cac63beee1a2955fd815af126.png" group-title="Sports",TSN 4 HD
+http://megatv.me:5890/1122334455/1122334455/216438
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3 HD" tvg-logo="http://showflix.art:5890/images/abeffb0cac63beee1a2955fd815af126.png" group-title="Sports",TSN 3 HD
+http://megatv.me:5890/1122334455/1122334455/216439
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2 HD" tvg-logo="http://showflix.art:5890/images/60df5171280ba8ddb5063288f1e2ce6d.png" group-title="Sports",TSN 2 HD
+http://megatv.me:5890/1122334455/1122334455/216440
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1 HD" tvg-logo="http://showflix.art:5890/images/4c0a2b70d86d39a373900e2e45987893.png" group-title="Sports",TSN 1 HD
+http://megatv.me:5890/1122334455/1122334455/216441
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="Canada",TLC
+http://megatv.me:5890/1122334455/1122334455/216442
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet West" tvg-logo="http://showflix.art:5890/images/12cf6b8ff3e97eba0e4fc4321f91e037.png" group-title="Sports",Sportsnet West
+http://megatv.me:5890/1122334455/1122334455/216443
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Ontario" tvg-logo="http://showflix.art:5890/images/00814ca81f7de54dd0c6943cc844c438.png" group-title="Sports",Sportsnet Ontario
+http://megatv.me:5890/1122334455/1122334455/216444
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet East" tvg-logo="http://showflix.art:5890/images/9e66dd70219b03ef0a6653aae976d785.png" group-title="Sports",Sportsnet East
+http://megatv.me:5890/1122334455/1122334455/216445
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet 360" tvg-logo="http://showflix.art:5890/images/fc19122e353930f5a8d6795ef091530f.png" group-title="Sports",Sportsnet 360
+http://megatv.me:5890/1122334455/1122334455/216446
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_640,h_400/v1589297931/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/AnimalPlanet-Default-Black_2x_vls1mr.png" group-title="Canada",Animal Planet
+http://megatv.me:5890/1122334455/1122334455/216447
