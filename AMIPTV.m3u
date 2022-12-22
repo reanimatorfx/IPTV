@@ -1,6 +1,6 @@
 <!--Misc. CHANNELS-->
 
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml.gz"
+#EXTM3U x-tvg-url="https://www.dropbox.com/s/lmiot4yvrgt872t/canada.xml?dl=1"
 
 #EXTINF:-1 tvg-id="247Retro.us" tvg-logo="https://i.imgur.com/QqQL7ss.png" group-title="Misc",247 Retro TV (432p) [Not 24/7]
 http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
