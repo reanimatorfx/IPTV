@@ -233,18 +233,6 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3
 #EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="Misc",TBS West (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="Misc",TCM East (720p) 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-
-#EXTINF:-1 tvg-id="TCMWest.us" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="Misc",TCM West (720p) 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Misc",TNT East (720p) 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Misc",TNT West (720p) 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-
 #EXTINF:-1 tvg-id="truTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="Misc",truTV East (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 
@@ -352,431 +340,423 @@ http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130834
 http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130833
 
 <!--Canada CHANNELS-->
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:TSN 1 HD" tvg-logo="http://showflix.art:5890/images/4c0a2b70d86d39a373900e2e45987893.png" group-title="CANADA ENGLISH",Ca | EN:TSN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:TSN 1 HD" tvg-logo="http://showflix.art:5890/images/4c0a2b70d86d39a373900e2e45987893.png" ,group-title="Sports",TSN 1 HD
 http://megatv.me:5890/1122334455/1122334455/216118
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:TSN 2 HD" tvg-logo="http://showflix.art:5890/images/60df5171280ba8ddb5063288f1e2ce6d.png" group-title="CANADA ENGLISH",Ca | EN:TSN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:TSN 2 HD" tvg-logo="http://showflix.art:5890/images/60df5171280ba8ddb5063288f1e2ce6d.png" ,group-title="Sports",TSN 2 HD
 http://megatv.me:5890/1122334455/1122334455/216119
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:TSN 3 HD" tvg-logo="http://showflix.art:5890/images/abeffb0cac63beee1a2955fd815af126.png" group-title="CANADA ENGLISH",Ca | EN:TSN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:TSN 3 HD" tvg-logo="http://showflix.art:5890/images/abeffb0cac63beee1a2955fd815af126.png" ,group-title="Sports",TSN 3 HD
 http://megatv.me:5890/1122334455/1122334455/216120
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:TSN 4 HD" tvg-logo="http://showflix.art:5890/images/cae44468364c156e86286998b81a0421.png" group-title="CANADA ENGLISH",Ca | EN:TSN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:TSN 4 HD" tvg-logo="http://showflix.art:5890/images/cae44468364c156e86286998b81a0421.png" ,group-title="Sports",TSN 4 HD
 http://megatv.me:5890/1122334455/1122334455/216121
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:TSN 5 HD" tvg-logo="http://showflix.art:5890/images/2f53270027e91c626dcb20d0c5c1441d.png" group-title="CANADA ENGLISH",Ca | EN:TSN 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:TSN 5 HD" tvg-logo="http://showflix.art:5890/images/2f53270027e91c626dcb20d0c5c1441d.png" ,group-title="Sports",TSN 5 HD
 http://megatv.me:5890/1122334455/1122334455/216122
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: AT&T Sportsnet South HD" tvg-logo="http://showflix.art:5890/images/0a92140f36ce38f1480ee412c61eba2e.png" group-title="CANADA ENGLISH",Usa | Sport: AT&T Sportsnet South HD
+#EXTINF:-1 tvg-id="" tvg-name="AT&T Sportsnet South HD" tvg-logo="http://showflix.art:5890/images/0a92140f36ce38f1480ee412c61eba2e.png" group-title="Sports",AT&T Sportsnet South HD
 http://megatv.me:5890/1122334455/1122334455/216123
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Sportsnet One HD" tvg-logo="http://showflix.art:5890/images/f9c456ff1fde94f5cb56760759089fc6.png" group-title="CANADA ENGLISH",Ca | EN:Sportsnet One HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Sportsnet One HD" tvg-logo="http://showflix.art:5890/images/f9c456ff1fde94f5cb56760759089fc6.png" group-title="Sports",Sportsnet One HD
 http://megatv.me:5890/1122334455/1122334455/216124
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Sportsnet Ontario HD" tvg-logo="http://showflix.art:5890/images/00814ca81f7de54dd0c6943cc844c438.png" group-title="CANADA ENGLISH",Ca | EN:Sportsnet Ontario HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Sportsnet Ontario HD" tvg-logo="http://showflix.art:5890/images/00814ca81f7de54dd0c6943cc844c438.png" group-title="Sports",Sportsnet Ontario HD
 http://megatv.me:5890/1122334455/1122334455/216125
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Sportsnet Pacific HD" tvg-logo="http://showflix.art:5890/images/016b1fd2d14482125e32fb599cf2746c.png" group-title="CANADA ENGLISH",Ca | EN:Sportsnet Pacific HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Sportsnet Pacific HD" tvg-logo="http://showflix.art:5890/images/016b1fd2d14482125e32fb599cf2746c.png" group-title="Sports",Sportsnet Pacific HD
 http://megatv.me:5890/1122334455/1122334455/216126
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Sportsnet 360 HD" tvg-logo="http://showflix.art:5890/images/fc19122e353930f5a8d6795ef091530f.png" group-title="CANADA ENGLISH",Ca | EN:Sportsnet 360 HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Sportsnet 360 HD" tvg-logo="http://showflix.art:5890/images/fc19122e353930f5a8d6795ef091530f.png" group-title="Sports",Sportsnet 360 HD
 http://megatv.me:5890/1122334455/1122334455/216127
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Sportsnet East HD" tvg-logo="http://showflix.art:5890/images/9e66dd70219b03ef0a6653aae976d785.png" group-title="CANADA ENGLISH",Ca | EN:Sportsnet East HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Sportsnet East HD" tvg-logo="http://showflix.art:5890/images/9e66dd70219b03ef0a6653aae976d785.png" group-title="Sports",Sportsnet East HD
 http://megatv.me:5890/1122334455/1122334455/216128
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Sportsnet West HD" tvg-logo="http://showflix.art:5890/images/12cf6b8ff3e97eba0e4fc4321f91e037.png" group-title="CANADA ENGLISH",Ca | EN:Sportsnet West HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Sportsnet West HD" tvg-logo="http://showflix.art:5890/images/12cf6b8ff3e97eba0e4fc4321f91e037.png" group-title="Sports",Sportsnet West HD
 http://megatv.me:5890/1122334455/1122334455/216129
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Fight Network HD" tvg-logo="http://showflix.art:5890/images/201296f89598674b73f04da72eafffd7.jpg" group-title="CANADA ENGLISH",Ca | EN:Fight Network HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Fight Network HD" tvg-logo="http://showflix.art:5890/images/201296f89598674b73f04da72eafffd7.jpg" group-title="Sports",Fight Network HD
 http://megatv.me:5890/1122334455/1122334455/216130
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:BeIN Sports HD" tvg-logo="http://showflix.art:5890/images/be27e3590968f04f319e7bdbb24e1851.png" group-title="CANADA ENGLISH",Ca | EN:BeIN Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:BeIN Sports HD" tvg-logo="http://showflix.art:5890/images/be27e3590968f04f319e7bdbb24e1851.png" group-title="Sports",BeIN Sports HD
 http://megatv.me:5890/1122334455/1122334455/216131
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Tva Sports 1 HD" tvg-logo="http://showflix.art:5890/images/6f8a4e05660d19d85a8b50c0309461e9.png" group-title="CANADA ENGLISH",Ca | EN:Tva Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Tva Sports 1 HD" tvg-logo="http://showflix.art:5890/images/6f8a4e05660d19d85a8b50c0309461e9.png" group-title="Sports",Tva Sports 1 HD
 http://megatv.me:5890/1122334455/1122334455/216132
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:NBA TV HD (R)" tvg-logo="http://showflix.art:5890/images/39fc2964b7668fdd046168bf18017d7c.png" group-title="CANADA ENGLISH",Ca | EN:NBA TV HD (R)
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:NBA TV HD (R)" tvg-logo="http://showflix.art:5890/images/39fc2964b7668fdd046168bf18017d7c.png" group-title="Sports",NBA TV HD (R)
 http://megatv.me:5890/1122334455/1122334455/216133
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Fox Sports Racing" tvg-logo="http://showflix.art:5890/images/a89c4943b9d38c2443edd59d0bdfa549.png" group-title="CANADA ENGLISH",Ca | EN:Fox Sports Racing
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Fox Sports Racing" tvg-logo="http://showflix.art:5890/images/a89c4943b9d38c2443edd59d0bdfa549.png" group-title="Sports",Fox Sports Racing
 http://megatv.me:5890/1122334455/1122334455/216134
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:NFL Network HD" tvg-logo="http://showflix.art:5890/images/af54571e87f14eb98c475f2603cb5f1d.png" group-title="CANADA ENGLISH",Ca | EN:NFL Network HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:NFL Network HD" tvg-logo="http://showflix.art:5890/images/af54571e87f14eb98c475f2603cb5f1d.png" group-title="Sports",NFL Network HD
 http://megatv.me:5890/1122334455/1122334455/216135
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Discovery Velocity HD" tvg-logo="http://showflix.art:5890/images/30260a4c5c6ae099bc52f23b339a604a.png" group-title="CANADA ENGLISH",Ca | EN:Discovery Velocity HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Discovery Velocity HD" tvg-logo="http://showflix.art:5890/images/30260a4c5c6ae099bc52f23b339a604a.png" group-title="Canada",Discovery Velocity HD
 http://megatv.me:5890/1122334455/1122334455/216136
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Investigation Discovery HD" tvg-logo="http://showflix.art:5890/images/e2a7555f7cabd6e31aef45cb8cda4999.png" group-title="CANADA ENGLISH",Ca | EN:Investigation Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Investigation Discovery HD" tvg-logo="http://showflix.art:5890/images/e2a7555f7cabd6e31aef45cb8cda4999.png" group-title="Canada",Investigation Discovery HD
 http://megatv.me:5890/1122334455/1122334455/216137
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Disney La Chaine" tvg-logo="http://showflix.art:5890/images/5dbfb86025031e5470cb71b349192ad7.png" group-title="CANADA ENGLISH",Ca | EN:Disney La Chaine
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Disney La Chaine" tvg-logo="http://showflix.art:5890/images/5dbfb86025031e5470cb71b349192ad7.png" group-title="Canada",Disney La Chaine
 http://megatv.me:5890/1122334455/1122334455/216138
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:FOX 29 (WUTV) Buffalo" tvg-logo="http://showflix.art:5890/images/17cbfbc651096e8401f9d8ae28f6cbb1.png" group-title="CANADA ENGLISH",Ca | EN:FOX 29 (WUTV) Buffalo
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:FOX 29 (WUTV) Buffalo" tvg-logo="http://showflix.art:5890/images/17cbfbc651096e8401f9d8ae28f6cbb1.png" group-title="Canada",FOX 29 (WUTV) Buffalo
 http://megatv.me:5890/1122334455/1122334455/216139
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN: Historia" tvg-logo="http://showflix.art:5890/images/eeee546a6e40d5160acbd3ec6a4912b5.png" group-title="CANADA ENGLISH",Ca | EN: Historia
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN: Historia" tvg-logo="http://showflix.art:5890/images/eeee546a6e40d5160acbd3ec6a4912b5.png" group-title="Canada",Historia
 http://megatv.me:5890/1122334455/1122334455/216140
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:H2 HD" tvg-logo="http://showflix.art:5890/images/cbfe0415e3bc53073f44c1b936fe27ae.JPG" group-title="CANADA ENGLISH",Ca | EN:H2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:H2 HD" tvg-logo="http://showflix.art:5890/images/cbfe0415e3bc53073f44c1b936fe27ae.JPG" group-title="Canada",H2 HD
 http://megatv.me:5890/1122334455/1122334455/216141
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:History HD" tvg-logo="http://showflix.art:5890/images/203229c44407e87f6f2604b2328ed7d7.png" group-title="CANADA ENGLISH",Ca | EN:History HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:History HD" tvg-logo="http://showflix.art:5890/images/203229c44407e87f6f2604b2328ed7d7.png" group-title="Canada",History HD
 http://megatv.me:5890/1122334455/1122334455/216142
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Nat Geo HD" tvg-logo="http://showflix.art:5890/images/6f735e41550961a4b57de91897d15a49.jpg" group-title="CANADA ENGLISH",Ca | EN:Nat Geo HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Nat Geo HD" tvg-logo="http://showflix.art:5890/images/6f735e41550961a4b57de91897d15a49.jpg" group-title="Canada",Nat Geo HD
 http://megatv.me:5890/1122334455/1122334455/216143
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:SPORTSNET PPV" tvg-logo="" group-title="CANADA ENGLISH",Ca | EN:SPORTSNET PPV
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:SPORTSNET PPV" tvg-logo="" group-title="Canada",SPORTSNET PPV
 http://megatv.me:5890/1122334455/1122334455/216144
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:E! Entertainment HD" tvg-logo="http://showflix.art:5890/images/a9ff5a95e34e1ff1dbb638813fc49f92.jpg" group-title="CANADA ENGLISH",Ca | EN:E! Entertainment HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:E! Entertainment HD" tvg-logo="http://showflix.art:5890/images/a9ff5a95e34e1ff1dbb638813fc49f92.jpg" group-title="Canada",E! Entertainment HD
 http://megatv.me:5890/1122334455/1122334455/216145
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Food Network HD" tvg-logo="http://showflix.art:5890/images/8bf989599955022d30331c6d0685d573.jpg" group-title="CANADA ENGLISH",Ca | EN:Food Network HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Food Network HD" tvg-logo="http://showflix.art:5890/images/8bf989599955022d30331c6d0685d573.jpg" group-title="Canada",Food Network HD
 http://megatv.me:5890/1122334455/1122334455/216146
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Love Nature HD" tvg-logo="http://showflix.art:5890/images/00ab04e356a72f4ec4113253107f0077.png" group-title="CANADA ENGLISH",Ca | EN:Love Nature HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Love Nature HD" tvg-logo="http://showflix.art:5890/images/00ab04e356a72f4ec4113253107f0077.png" group-title="Canada",Love Nature HD
 http://megatv.me:5890/1122334455/1122334455/216147
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Cartoon Network HD" tvg-logo="http://showflix.art:5890/images/9c0a0fcdefec4740178730f1e37aa7f1.jpg" group-title="CANADA ENGLISH",Ca | EN:Cartoon Network HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Cartoon Network HD" tvg-logo="http://showflix.art:5890/images/9c0a0fcdefec4740178730f1e37aa7f1.jpg" group-title="Canada",Cartoon Network HD
 http://megatv.me:5890/1122334455/1122334455/216148
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Disney Channel HD" tvg-logo="http://showflix.art:5890/images/0237aea03ef924f486fae0da496a0c6f.JPG" group-title="CANADA ENGLISH",Ca | EN:Disney Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Disney Channel HD" tvg-logo="http://showflix.art:5890/images/0237aea03ef924f486fae0da496a0c6f.JPG" group-title="Canada",Disney Channel HD
 http://megatv.me:5890/1122334455/1122334455/216149
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Disney Junior HD" tvg-logo="http://showflix.art:5890/images/5345114efe3d68f8e6b121985b83d473.png" group-title="CANADA ENGLISH",Ca | EN:Disney Junior HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Disney Junior HD" tvg-logo="http://showflix.art:5890/images/5345114efe3d68f8e6b121985b83d473.png" group-title="Canada",Disney Junior HD
 http://megatv.me:5890/1122334455/1122334455/216150
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Disney XD HD" tvg-logo="http://showflix.art:5890/images/8c492ec592c68c3f3d9d2cf3586fe30b.jpg" group-title="CANADA ENGLISH",Ca | EN:Disney XD HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Disney XD HD" tvg-logo="http://showflix.art:5890/images/8c492ec592c68c3f3d9d2cf3586fe30b.jpg" group-title="Canada",Disney XD HD
 http://megatv.me:5890/1122334455/1122334455/216151
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Family Jr HD" tvg-logo="http://showflix.art:5890/images/38d2ca85845562e08314d8e359a48cba.png" group-title="CANADA ENGLISH",Ca | EN:Family Jr HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Family Jr HD" tvg-logo="http://showflix.art:5890/images/38d2ca85845562e08314d8e359a48cba.png" group-title="Canada",Family Jr HD
 http://megatv.me:5890/1122334455/1122334455/216152
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Nickelodeon HD" tvg-logo="http://showflix.art:5890/images/0c61d037db1e3d58141db8a8309a8e68.jpg" group-title="CANADA ENGLISH",Ca | EN:Nickelodeon HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Nickelodeon HD" tvg-logo="http://showflix.art:5890/images/0c61d037db1e3d58141db8a8309a8e68.jpg" group-title="Canada",Nickelodeon HD
 http://megatv.me:5890/1122334455/1122334455/216153
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Crime & Investigation HD" tvg-logo="http://showflix.art:5890/images/17cd2524dae9c4e68f403d62da087694.png" group-title="CANADA ENGLISH",Ca | EN:Crime & Investigation HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Crime & Investigation HD" tvg-logo="http://showflix.art:5890/images/17cd2524dae9c4e68f403d62da087694.png" group-title="Canada",Crime & Investigation HD
 http://megatv.me:5890/1122334455/1122334455/216154
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Discovery Channel HD" tvg-logo="http://showflix.art:5890/images/fa5c442c54c296fae0507a1c210893e6.png" group-title="CANADA ENGLISH",Ca | EN:Discovery Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Discovery Channel HD" tvg-logo="http://showflix.art:5890/images/fa5c442c54c296fae0507a1c210893e6.png" group-title="Canada",Discovery Channel HD
 http://megatv.me:5890/1122334455/1122334455/216155
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Discovery Science HD" tvg-logo="http://showflix.art:5890/images/2df9aea04058407d3704e9aa1ab9736a.jpg" group-title="CANADA ENGLISH",Ca | EN:Discovery Science HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Discovery Science HD" tvg-logo="http://showflix.art:5890/images/2df9aea04058407d3704e9aa1ab9736a.jpg" group-title="Canada",Discovery Science HD
 http://megatv.me:5890/1122334455/1122334455/216156
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Golf Channel HD" tvg-logo="http://showflix.art:5890/images/5889b9b1b87081581d98e2898105e30e.png" group-title="CANADA ENGLISH",Ca | EN:Golf Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Golf Channel HD" tvg-logo="http://showflix.art:5890/images/5889b9b1b87081581d98e2898105e30e.png" group-title="Canada",Golf Channel HD
 http://megatv.me:5890/1122334455/1122334455/216157
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:CTV SCI-FI" tvg-logo="http://showflix.art:5890/images/91349bd99620997deff8a200c4a625ba.jpg" group-title="CANADA ENGLISH",Ca | EN:CTV SCI-FI
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:CTV SCI-FI" tvg-logo="http://showflix.art:5890/images/91349bd99620997deff8a200c4a625ba.jpg" group-title="Canada",CTV SCI-FI
 http://megatv.me:5890/1122334455/1122334455/216158
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Nat Geo Wild HD" tvg-logo="http://showflix.art:5890/images/d035a8b2a3add9fd9c000a4327bd0f0d.jpg" group-title="CANADA ENGLISH",Ca | EN:Nat Geo Wild HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:Nat Geo Wild HD" tvg-logo="http://showflix.art:5890/images/d035a8b2a3add9fd9c000a4327bd0f0d.jpg" group-title="Canada",Nat Geo Wild HD
 http://megatv.me:5890/1122334455/1122334455/216159
-#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:A&E HD" tvg-logo="http://showflix.art:5890/images/d7ad515a4a03fe76a5948e39b84e2b83.png" group-title="CANADA ENGLISH",Ca | EN:A&E HD
+#EXTINF:-1 tvg-id="" tvg-name="Ca | EN:A&E HD" tvg-logo="http://showflix.art:5890/images/d7ad515a4a03fe76a5948e39b84e2b83.png" group-title="Canada",A&E HD
 http://megatv.me:5890/1122334455/1122334455/216160
-#EXTINF:-1 tvg-id="" tvg-name="CA : CBC WINDSOR HD" tvg-logo="" group-title="CANADA ENGLISH",CA : CBC WINDSOR HD
+#EXTINF:-1 tvg-id="" tvg-name="CBC WINDSOR HD" tvg-logo="" group-title="Canada",CBC WINDSOR HD
 http://megatv.me:5890/1122334455/1122334455/216278
-#EXTINF:-1 tvg-id="" tvg-name="CA : V Montreal HD" tvg-logo="" group-title="CANADA ENGLISH",CA : V Montreal HD
+#EXTINF:-1 tvg-id="" tvg-name="V Montreal HD" tvg-logo="" group-title="Canada",V Montreal HD
 http://megatv.me:5890/1122334455/1122334455/216279
-#EXTINF:-1 tvg-id="" tvg-name="CA : CBC EDMONTON HD" tvg-logo="" group-title="CANADA ENGLISH",CA : CBC EDMONTON HD
+#EXTINF:-1 tvg-id="" tvg-name="CBC EDMONTON HD" tvg-logo="" group-title="Canada",CBC EDMONTON HD
 http://megatv.me:5890/1122334455/1122334455/216280
-#EXTINF:-1 tvg-id="" tvg-name="CA : Love Nature HD" tvg-logo="" group-title="CANADA ENGLISH",CA : Love Nature HD
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature HD" tvg-logo="" group-title="Canada",Love Nature HD
 http://megatv.me:5890/1122334455/1122334455/216281
-#EXTINF:-1 tvg-id="" tvg-name="CA : YTV E" tvg-logo="" group-title="CANADA ENGLISH",CA : YTV E
+#EXTINF:-1 tvg-id="" tvg-name="YTV E" tvg-logo="" group-title="Canada",YTV E
 http://megatv.me:5890/1122334455/1122334455/216282
-#EXTINF:-1 tvg-id="" tvg-name="CA : YTV" tvg-logo="" group-title="CANADA ENGLISH",CA : YTV
+#EXTINF:-1 tvg-id="" tvg-name="YTV" tvg-logo="" group-title="Canada",YTV
 http://megatv.me:5890/1122334455/1122334455/216283
-#EXTINF:-1 tvg-id="" tvg-name="CA : YES TV" tvg-logo="" group-title="CANADA ENGLISH",CA : YES TV
+#EXTINF:-1 tvg-id="" tvg-name="YES TV" tvg-logo="" group-title="Canada",YES TV
 http://megatv.me:5890/1122334455/1122334455/216284
-#EXTINF:-1 tvg-id="" tvg-name="CA : WSBK" tvg-logo="" group-title="CANADA ENGLISH",CA : WSBK
+#EXTINF:-1 tvg-id="" tvg-name="WSBK" tvg-logo="" group-title="Canada",WSBK
 http://megatv.me:5890/1122334455/1122334455/216285
-#EXTINF:-1 tvg-id="" tvg-name="CA : Wild TV" tvg-logo="" group-title="CANADA ENGLISH",CA : Wild TV
+#EXTINF:-1 tvg-id="" tvg-name="Wild TV" tvg-logo="" group-title="Canada",Wild TV
 http://megatv.me:5890/1122334455/1122334455/216286
-#EXTINF:-1 tvg-id="" tvg-name="CA : WGN" tvg-logo="" group-title="CANADA ENGLISH",CA : WGN
+#EXTINF:-1 tvg-id="" tvg-name="WGN" tvg-logo="" group-title="Canada",WGN
 http://megatv.me:5890/1122334455/1122334455/216287
-#EXTINF:-1 tvg-id="" tvg-name="CA : WFN" tvg-logo="" group-title="CANADA ENGLISH",CA : WFN
+#EXTINF:-1 tvg-id="" tvg-name="WFN" tvg-logo="" group-title="Canada",WFN
 http://megatv.me:5890/1122334455/1122334455/216288
-#EXTINF:-1 tvg-id="" tvg-name="CA : W NETWORK" tvg-logo="" group-title="CANADA ENGLISH",CA : W NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="W NETWORK" tvg-logo="" group-title="Canada",W NETWORK
 http://megatv.me:5890/1122334455/1122334455/216289
-#EXTINF:-1 tvg-id="" tvg-name="CA : VISION" tvg-logo="" group-title="CANADA ENGLISH",CA : VISION
+#EXTINF:-1 tvg-id="" tvg-name="VISION" tvg-logo="" group-title="Canada",VISION
 http://megatv.me:5890/1122334455/1122334455/216290
-#EXTINF:-1 tvg-id="" tvg-name="CA : TVO" tvg-logo="" group-title="CANADA ENGLISH",CA : TVO
+#EXTINF:-1 tvg-id="" tvg-name="TVO" tvg-logo="" group-title="Canada",TVO
 http://megatv.me:5890/1122334455/1122334455/216291
-#EXTINF:-1 tvg-id="" tvg-name="CA : TSN 4" tvg-logo="" group-title="CANADA ENGLISH",CA : TSN 4
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4" tvg-logo="" group-title="Canada",TSN 4
 http://megatv.me:5890/1122334455/1122334455/216292
-#EXTINF:-1 tvg-id="" tvg-name="CA : TSN 3" tvg-logo="" group-title="CANADA ENGLISH",CA : TSN 3
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="" group-title="Canada",TSN 3
 http://megatv.me:5890/1122334455/1122334455/216293
-#EXTINF:-1 tvg-id="" tvg-name="CA : TSN 2" tvg-logo="" group-title="CANADA ENGLISH",CA : TSN 2
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="" group-title="Canada",TSN 2
 http://megatv.me:5890/1122334455/1122334455/216294
-#EXTINF:-1 tvg-id="" tvg-name="CA : TREEHOUSE" tvg-logo="" group-title="CANADA ENGLISH",CA : TREEHOUSE
+#EXTINF:-1 tvg-id="" tvg-name="TREEHOUSE" tvg-logo="" group-title="Canada",TREEHOUSE
 http://megatv.me:5890/1122334455/1122334455/216295
-#EXTINF:-1 tvg-id="" tvg-name="CA : TRAVEL ESCAPE" tvg-logo="" group-title="CANADA ENGLISH",CA : TRAVEL ESCAPE
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL ESCAPE" tvg-logo="" group-title="Canada",TRAVEL ESCAPE
 http://megatv.me:5890/1122334455/1122334455/216296
-#EXTINF:-1 tvg-id="" tvg-name="CA : THE WEATHER NETWORK" tvg-logo="" group-title="CANADA ENGLISH",CA : THE WEATHER NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="THE WEATHER NETWORK" tvg-logo="" group-title="Canada",THE WEATHER NETWORK
 http://megatv.me:5890/1122334455/1122334455/216297
-#EXTINF:-1 tvg-id="" tvg-name="CA : THE MOVIE NETWORK 4" tvg-logo="" group-title="CANADA ENGLISH",CA : THE MOVIE NETWORK 4
+#EXTINF:-1 tvg-id="" tvg-name="THE MOVIE NETWORK 4" tvg-logo="" group-title="Canada",THE MOVIE NETWORK 4
 http://megatv.me:5890/1122334455/1122334455/216298
-#EXTINF:-1 tvg-id="" tvg-name="CA : THE MOVIE NETWORK 3" tvg-logo="" group-title="CANADA ENGLISH",CA : THE MOVIE NETWORK 3
+#EXTINF:-1 tvg-id="" tvg-name="THE MOVIE NETWORK 3" tvg-logo="" group-title="Canada",THE MOVIE NETWORK 3
 http://megatv.me:5890/1122334455/1122334455/216299
-#EXTINF:-1 tvg-id="" tvg-name="CA : THE MOVIE NETWORK 2" tvg-logo="" group-title="CANADA ENGLISH",CA : THE MOVIE NETWORK 2
+#EXTINF:-1 tvg-id="" tvg-name="THE MOVIE NETWORK 2" tvg-logo="" group-title="Canada",THE MOVIE NETWORK 2
 http://megatv.me:5890/1122334455/1122334455/216300
-#EXTINF:-1 tvg-id="" tvg-name="CA : THE MOVIE NETWORK 1 HD" tvg-logo="" group-title="CANADA ENGLISH",CA : THE MOVIE NETWORK 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="THE MOVIE NETWORK 1 HD" tvg-logo="" group-title="Canada",THE MOVIE NETWORK 1 HD
 http://megatv.me:5890/1122334455/1122334455/216301
-#EXTINF:-1 tvg-id="" tvg-name="CA : TELE TOON EAST" tvg-logo="" group-title="CANADA ENGLISH",CA : TELE TOON EAST
+#EXTINF:-1 tvg-id="" tvg-name="TELE TOON EAST" tvg-logo="" group-title="Canada",TELETOON EAST
 http://megatv.me:5890/1122334455/1122334455/216302
-#EXTINF:-1 tvg-id="" tvg-name="CA : TCM" tvg-logo="" group-title="CANADA ENGLISH",CA : TCM
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="Canada",TCM
 http://megatv.me:5890/1122334455/1122334455/216303
-#EXTINF:-1 tvg-id="" tvg-name="CA : SUPER CHANNEL VAULT" tvg-logo="" group-title="CANADA ENGLISH",CA : SUPER CHANNEL VAULT
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHANNEL VAULT" tvg-logo="" group-title="Canada",SUPER CHANNEL VAULT
 http://megatv.me:5890/1122334455/1122334455/216304
-#EXTINF:-1 tvg-id="" tvg-name="CA : SUPER CHANNEL HEART & HOME" tvg-logo="" group-title="CANADA ENGLISH",CA : SUPER CHANNEL HEART & HOME
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHANNEL HEART & HOME" tvg-logo="" group-title="Canada",SUPER CHANNEL HEART & HOME
 http://megatv.me:5890/1122334455/1122334455/216305
-#EXTINF:-1 tvg-id="" tvg-name="CA : SUPER CHANNEL FUSE HD" tvg-logo="" group-title="CANADA ENGLISH",CA : SUPER CHANNEL FUSE HD
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHANNEL FUSE HD" tvg-logo="" group-title="Canada",SUPER CHANNEL FUSE HD
 http://megatv.me:5890/1122334455/1122334455/216306
-#EXTINF:-1 tvg-id="" tvg-name="CA : SPORTSNET PACIFIC" tvg-logo="" group-title="CANADA ENGLISH",CA : SPORTSNET PACIFIC
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET PACIFIC" tvg-logo="" group-title="Canada",SPORTSNET PACIFIC
 http://megatv.me:5890/1122334455/1122334455/216307
-#EXTINF:-1 tvg-id="" tvg-name="CA : SPORTSNET ONE HD" tvg-logo="" group-title="CANADA ENGLISH",CA : SPORTSNET ONE HD
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET ONE HD" tvg-logo="" group-title="Canada",SPORTSNET ONE HD
 http://megatv.me:5890/1122334455/1122334455/216308
-#EXTINF:-1 tvg-id="" tvg-name="CA : SPORTSMAN CHANNEL" tvg-logo="" group-title="CANADA ENGLISH",CA : SPORTSMAN CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSMAN CHANNEL" tvg-logo="" group-title="Canada",SPORTSMAN CHANNEL
 http://megatv.me:5890/1122334455/1122334455/216309
-#EXTINF:-1 tvg-id="" tvg-name="CA : SPIKE TV / PARAMOUNT" tvg-logo="" group-title="CANADA ENGLISH",CA : SPIKE TV / PARAMOUNT
+#EXTINF:-1 tvg-id="" tvg-name="SPIKE TV / PARAMOUNT" tvg-logo="" group-title="Canada",SPIKE TV / PARAMOUNT
 http://megatv.me:5890/1122334455/1122334455/216310
-#EXTINF:-1 tvg-id="" tvg-name="CA : SPACE" tvg-logo="" group-title="CANADA ENGLISH",CA : SPACE
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="Canada",SPACE
 http://megatv.me:5890/1122334455/1122334455/216311
-#EXTINF:-1 tvg-id="" tvg-name="CA : SMITHSONIAN HD" tvg-logo="" group-title="CANADA ENGLISH",CA : SMITHSONIAN HD
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN HD" tvg-logo="" group-title="Canada",SMITHSONIAN HD
 http://megatv.me:5890/1122334455/1122334455/216312
-#EXTINF:-1 tvg-id="" tvg-name="CA : SLICE" tvg-logo="" group-title="CANADA ENGLISH",CA : SLICE
+#EXTINF:-1 tvg-id="" tvg-name="SLICE" tvg-logo="" group-title="Canada",SLICE
 http://megatv.me:5890/1122334455/1122334455/216313
-#EXTINF:-1 tvg-id="" tvg-name="CA : SILVER SCREEN CLASSICS" tvg-logo="" group-title="CANADA ENGLISH",CA : SILVER SCREEN CLASSICS
+#EXTINF:-1 tvg-id="" tvg-name="SILVER SCREEN CLASSICS" tvg-logo="" group-title="Canada",SILVER SCREEN CLASSICS
 http://megatv.me:5890/1122334455/1122334455/216314
-#EXTINF:-1 tvg-id="" tvg-name="CA : SHOWCASE EAST" tvg-logo="" group-title="CANADA ENGLISH",CA : SHOWCASE EAST
+#EXTINF:-1 tvg-id="" tvg-name="SHOWCASE EAST" tvg-logo="" group-title="Canada",SHOWCASE EAST
 http://megatv.me:5890/1122334455/1122334455/216315
-#EXTINF:-1 tvg-id="" tvg-name="CA : SHOPPING" tvg-logo="" group-title="CANADA ENGLISH",CA : SHOPPING
+#EXTINF:-1 tvg-id="" tvg-name="SHOPPING" tvg-logo="" group-title="Canada",SHOPPING
 http://megatv.me:5890/1122334455/1122334455/216316
-#EXTINF:-1 tvg-id="" tvg-name="CA : SERIES Plus" tvg-logo="" group-title="CANADA ENGLISH",CA : SERIES Plus
+#EXTINF:-1 tvg-id="" tvg-name="SERIES Plus" tvg-logo="" group-title="Canada",SERIES Plus
 http://megatv.me:5890/1122334455/1122334455/216317
-#EXTINF:-1 tvg-id="" tvg-name="CA : PRISE" tvg-logo="" group-title="CANADA ENGLISH",CA : PRISE
+#EXTINF:-1 tvg-id="" tvg-name="PRISE" tvg-logo="" group-title="Canada",PRISE
 http://megatv.me:5890/1122334455/1122334455/216318
-#EXTINF:-1 tvg-id="" tvg-name="CA : PEACH TREE" tvg-logo="" group-title="CANADA ENGLISH",CA : PEACH TREE
+#EXTINF:-1 tvg-id="" tvg-name="PEACH TREE" tvg-logo="" group-title="Canada",PEACH TREE
 http://megatv.me:5890/1122334455/1122334455/216319
-#EXTINF:-1 tvg-id="" tvg-name="CA : PBS EAST" tvg-logo="" group-title="CANADA ENGLISH",CA : PBS EAST
+#EXTINF:-1 tvg-id="" tvg-name="PBS EAST" tvg-logo="" group-title="Canada",PBS EAST
 http://megatv.me:5890/1122334455/1122334455/216320
-#EXTINF:-1 tvg-id="" tvg-name="CA : OWN" tvg-logo="" group-title="CANADA ENGLISH",CA : OWN
+#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="" group-title="Canada",OWN
 http://megatv.me:5890/1122334455/1122334455/216321
-#EXTINF:-1 tvg-id="" tvg-name="CA : OUTTV" tvg-logo="" group-title="CANADA ENGLISH",CA : OUTTV
+#EXTINF:-1 tvg-id="" tvg-name="OUTTV" tvg-logo="" group-title="Canada",OUTTV
 http://megatv.me:5890/1122334455/1122334455/216322
-#EXTINF:-1 tvg-id="" tvg-name="CA : ONE" tvg-logo="" group-title="CANADA ENGLISH",CA : ONE
+#EXTINF:-1 tvg-id="" tvg-name="ONE" tvg-logo="" group-title="Canada",ONE
 http://megatv.me:5890/1122334455/1122334455/216323
-#EXTINF:-1 tvg-id="" tvg-name="CA : OMNI 2" tvg-logo="" group-title="CANADA ENGLISH",CA : OMNI 2
+#EXTINF:-1 tvg-id="" tvg-name="OMNI 2" tvg-logo="" group-title="Canada",OMNI 2
 http://megatv.me:5890/1122334455/1122334455/216324
-#EXTINF:-1 tvg-id="" tvg-name="CA : OMNI 1" tvg-logo="" group-title="CANADA ENGLISH",CA : OMNI 1
+#EXTINF:-1 tvg-id="" tvg-name="OMNI 1" tvg-logo="" group-title="Canada",OMNI 1
 http://megatv.me:5890/1122334455/1122334455/216325
-#EXTINF:-1 tvg-id="" tvg-name="CA : OLN" tvg-logo="" group-title="CANADA ENGLISH",CA : OLN
+#EXTINF:-1 tvg-id="" tvg-name="OLN" tvg-logo="" group-title="Canada",OLN
 http://megatv.me:5890/1122334455/1122334455/216326
-#EXTINF:-1 tvg-id="" tvg-name="CA : NTV" tvg-logo="" group-title="CANADA ENGLISH",CA : NTV
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="Canada",NTV
 http://megatv.me:5890/1122334455/1122334455/216327
-#EXTINF:-1 tvg-id="" tvg-name="CA : NICK" tvg-logo="" group-title="CANADA ENGLISH",CA : NICK
+#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="" group-title="Canada",NICK
 http://megatv.me:5890/1122334455/1122334455/216328
-#EXTINF:-1 tvg-id="" tvg-name="CA : NBC WEST" tvg-logo="" group-title="CANADA ENGLISH",CA : NBC WEST
+#EXTINF:-1 tvg-id="" tvg-name="NBC WEST" tvg-logo="" group-title="Canada",NBC WEST
 http://megatv.me:5890/1122334455/1122334455/216329
-#EXTINF:-1 tvg-id="" tvg-name="CA : NBC EAST" tvg-logo="" group-title="CANADA ENGLISH",CA : NBC EAST
+#EXTINF:-1 tvg-id="" tvg-name="NBC EAST" tvg-logo="" group-title="Canada",NBC EAST
 http://megatv.me:5890/1122334455/1122334455/216330
-#EXTINF:-1 tvg-id="" tvg-name="CA : NBA TV" tvg-logo="" group-title="CANADA ENGLISH",CA : NBA TV
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="" group-title="Canada",NBA TV
 http://megatv.me:5890/1122334455/1122334455/216331
-#EXTINF:-1 tvg-id="" tvg-name="CA : NAT GEO" tvg-logo="" group-title="CANADA ENGLISH",CA : NAT GEO
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="" group-title="Canada",NAT GEO
 http://megatv.me:5890/1122334455/1122334455/216332
-#EXTINF:-1 tvg-id="" tvg-name="CA : MUCH MUSIC" tvg-logo="" group-title="CANADA ENGLISH",CA : MUCH MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="MUCH MUSIC" tvg-logo="" group-title="Canada",MUCH MUSIC
 http://megatv.me:5890/1122334455/1122334455/216333
-#EXTINF:-1 tvg-id="" tvg-name="CA : MTV 2" tvg-logo="" group-title="CANADA ENGLISH",CA : MTV 2
+#EXTINF:-1 tvg-id="" tvg-name="MTV 2" tvg-logo="" group-title="Canada",MTV 2
 http://megatv.me:5890/1122334455/1122334455/216334
-#EXTINF:-1 tvg-id="" tvg-name="CA : MTV 1" tvg-logo="" group-title="CANADA ENGLISH",CA : MTV 1
+#EXTINF:-1 tvg-id="" tvg-name="MTV 1" tvg-logo="" group-title="Canada",MTV 1
 http://megatv.me:5890/1122334455/1122334455/216335
-#EXTINF:-1 tvg-id="" tvg-name="CA : MTIME" tvg-logo="" group-title="CANADA ENGLISH",CA : MTIME
+#EXTINF:-1 tvg-id="" tvg-name="MTIME" tvg-logo="" group-title="Canada",MTIME
 http://megatv.me:5890/1122334455/1122334455/216336
-#EXTINF:-1 tvg-id="" tvg-name="CA : MIRACLE" tvg-logo="" group-title="CANADA ENGLISH",CA : MIRACLE
+#EXTINF:-1 tvg-id="" tvg-name="MIRACLE" tvg-logo="" group-title="Canada",MIRACLE
 http://megatv.me:5890/1122334455/1122334455/216337
-#EXTINF:-1 tvg-id="" tvg-name="CA : MEDIASET ITALIA" tvg-logo="" group-title="CANADA ENGLISH",CA : MEDIASET ITALIA
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA" tvg-logo="" group-title="Canada",MEDIASET ITALIA
 http://megatv.me:5890/1122334455/1122334455/216338
-#EXTINF:-1 tvg-id="" tvg-name="CA : MAX" tvg-logo="" group-title="CANADA ENGLISH",CA : MAX
+#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="" group-title="Canada",MAX
 http://megatv.me:5890/1122334455/1122334455/216339
-#EXTINF:-1 tvg-id="" tvg-name="CA : MAVTV" tvg-logo="" group-title="CANADA ENGLISH",CA : MAVTV
+#EXTINF:-1 tvg-id="" tvg-name="MAVTV" tvg-logo="" group-title="Canada",MAVTV
 http://megatv.me:5890/1122334455/1122334455/216340
-#EXTINF:-1 tvg-id="" tvg-name="CA : MAKEFUL" tvg-logo="" group-title="CANADA ENGLISH",CA : MAKEFUL
+#EXTINF:-1 tvg-id="" tvg-name="MAKEFUL" tvg-logo="" group-title="Canada",MAKEFUL
 http://megatv.me:5890/1122334455/1122334455/216341
-#EXTINF:-1 tvg-id="" tvg-name="CA : LIFETIME" tvg-logo="" group-title="CANADA ENGLISH",CA : LIFETIME
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="" group-title="Canada",LIFETIME
 http://megatv.me:5890/1122334455/1122334455/216342
-#EXTINF:-1 tvg-id="" tvg-name="CA : KTLA" tvg-logo="" group-title="CANADA ENGLISH",CA : KTLA
+#EXTINF:-1 tvg-id="" tvg-name="KTLA" tvg-logo="" group-title="Canada",KTLA
 http://megatv.me:5890/1122334455/1122334455/216343
-#EXTINF:-1 tvg-id="" tvg-name="CA : KNOWLEDGE KIDS" tvg-logo="" group-title="CANADA ENGLISH",CA : KNOWLEDGE KIDS
+#EXTINF:-1 tvg-id="" tvg-name="KNOWLEDGE KIDS" tvg-logo="" group-title="Canada",KNOWLEDGE KIDS
 http://megatv.me:5890/1122334455/1122334455/216344
-#EXTINF:-1 tvg-id="" tvg-name="CA : IFC HD" tvg-logo="" group-title="CANADA ENGLISH",CA : IFC HD
+#EXTINF:-1 tvg-id="" tvg-name="IFC HD" tvg-logo="" group-title="Canada",IFC HD
 http://megatv.me:5890/1122334455/1122334455/216345
-#EXTINF:-1 tvg-id="" tvg-name="CA : ID" tvg-logo="" group-title="CANADA ENGLISH",CA : ID
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="Canada",ID
 http://megatv.me:5890/1122334455/1122334455/216346
-#EXTINF:-1 tvg-id="" tvg-name="CA : HLN" tvg-logo="" group-title="CANADA ENGLISH",CA : HLN
+#EXTINF:-1 tvg-id="" tvg-name="HLN" tvg-logo="" group-title="Canada",HLN
 http://megatv.me:5890/1122334455/1122334455/216347
-#EXTINF:-1 tvg-id="" tvg-name="CA : HISTORY" tvg-logo="" group-title="CANADA ENGLISH",CA : HISTORY
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="" group-title="Canada",HISTORY
 http://megatv.me:5890/1122334455/1122334455/216348
-#EXTINF:-1 tvg-id="" tvg-name="CA : HGTV" tvg-logo="" group-title="CANADA ENGLISH",CA : HGTV
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="Canada",HGTV
 http://megatv.me:5890/1122334455/1122334455/216349
-#EXTINF:-1 tvg-id="" tvg-name="CA : HBO 2" tvg-logo="" group-title="CANADA ENGLISH",CA : HBO 2
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="Canada",HBO 2
 http://megatv.me:5890/1122334455/1122334455/216350
-#EXTINF:-1 tvg-id="" tvg-name="CA : HBO 1" tvg-logo="" group-title="CANADA ENGLISH",CA : HBO 1
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-logo="" group-title="Canada",HBO 1
 http://megatv.me:5890/1122334455/1122334455/216351
-#EXTINF:-1 tvg-id="" tvg-name="CA : H2" tvg-logo="" group-title="CANADA ENGLISH",CA : H2
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="Canada",H2
 http://megatv.me:5890/1122334455/1122334455/216352
-#EXTINF:-1 tvg-id="" tvg-name="CA : GUSTO" tvg-logo="" group-title="CANADA ENGLISH",CA : GUSTO
+#EXTINF:-1 tvg-id="" tvg-name="GUSTO" tvg-logo="" group-title="Canada",GUSTO
 http://megatv.me:5890/1122334455/1122334455/216353
-#EXTINF:-1 tvg-id="" tvg-name="CA : GSN" tvg-logo="" group-title="CANADA ENGLISH",CA : GSN
+#EXTINF:-1 tvg-id="" tvg-name="GSN" tvg-logo="" group-title="Canada",GSN
 http://megatv.me:5890/1122334455/1122334455/216354
-#EXTINF:-1 tvg-id="" tvg-name="CA : GOLF" tvg-logo="" group-title="CANADA ENGLISH",CA : GOLF
+#EXTINF:-1 tvg-id="" tvg-name="GOLF" tvg-logo="" group-title="Canada",GOLF
 http://megatv.me:5890/1122334455/1122334455/216355
-#EXTINF:-1 tvg-id="" tvg-name="CA : GLOBAL VANCOUVER" tvg-logo="" group-title="CANADA ENGLISH",CA : GLOBAL VANCOUVER
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL VANCOUVER" tvg-logo="" group-title="Canada",GLOBAL VANCOUVER
 http://megatv.me:5890/1122334455/1122334455/216356
-#EXTINF:-1 tvg-id="" tvg-name="CA : GLOBAL TORONTO" tvg-logo="" group-title="CANADA ENGLISH",CA : GLOBAL TORONTO
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TORONTO" tvg-logo="" group-title="Canada",GLOBAL TORONTO
 http://megatv.me:5890/1122334455/1122334455/216357
-#EXTINF:-1 tvg-id="" tvg-name="CA : GLOBAL HALIFAX" tvg-logo="" group-title="CANADA ENGLISH",CA : GLOBAL HALIFAX
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL HALIFAX" tvg-logo="" group-title="Canada",GLOBAL HALIFAX
 http://megatv.me:5890/1122334455/1122334455/216358
-#EXTINF:-1 tvg-id="" tvg-name="CA : GLOBAL CALGARY" tvg-logo="" group-title="CANADA ENGLISH",CA : GLOBAL CALGARY
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL CALGARY" tvg-logo="" group-title="Canada",GLOBAL CALGARY
 http://megatv.me:5890/1122334455/1122334455/216359
-#EXTINF:-1 tvg-id="" tvg-name="CA : GINX ESPORTS TV" tvg-logo="" group-title="CANADA ENGLISH",CA : GINX ESPORTS TV
+#EXTINF:-1 tvg-id="" tvg-name="GINX ESPORTS TV" tvg-logo="" group-title="Canada",GINX ESPORTS TV
 http://megatv.me:5890/1122334455/1122334455/216360
-#EXTINF:-1 tvg-id="" tvg-name="CA : Game TV" tvg-logo="" group-title="CANADA ENGLISH",CA : Game TV
+#EXTINF:-1 tvg-id="" tvg-name="Game TV" tvg-logo="" group-title="Canada",Game TV
 http://megatv.me:5890/1122334455/1122334455/216361
-#EXTINF:-1 tvg-id="" tvg-name="CA : FYI" tvg-logo="" group-title="CANADA ENGLISH",CA : FYI
+#EXTINF:-1 tvg-id="" tvg-name="FYI" tvg-logo="" group-title="Canada",FYI
 http://megatv.me:5890/1122334455/1122334455/216362
-#EXTINF:-1 tvg-id="" tvg-name="CA : FTV" tvg-logo="" group-title="CANADA ENGLISH",CA : FTV
+#EXTINF:-1 tvg-id="" tvg-name="FTV" tvg-logo="" group-title="Canada",FTV
 http://megatv.me:5890/1122334455/1122334455/216363
-#EXTINF:-1 tvg-id="" tvg-name="CA : FOX WEST" tvg-logo="" group-title="CANADA ENGLISH",CA : FOX WEST
+#EXTINF:-1 tvg-id="" tvg-name="FOX WEST" tvg-logo="" group-title="Canada",FOX WEST
 http://megatv.me:5890/1122334455/1122334455/216364
-#EXTINF:-1 tvg-id="" tvg-name="CA : FOX NEWS" tvg-logo="" group-title="CANADA ENGLISH",CA : FOX NEWS
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="" group-title="Canada",FOX NEWS
 http://megatv.me:5890/1122334455/1122334455/216365
-#EXTINF:-1 tvg-id="" tvg-name="CA : FOX EAST" tvg-logo="" group-title="CANADA ENGLISH",CA : FOX EAST
+#EXTINF:-1 tvg-id="" tvg-name="FOX EAST" tvg-logo="" group-title="Canada",FOX EAST
 http://megatv.me:5890/1122334455/1122334455/216366
-#EXTINF:-1 tvg-id="" tvg-name="CA : FOOD NETWORK" tvg-logo="" group-title="CANADA ENGLISH",CA : FOOD NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="" group-title="Canada",FOOD NETWORK
 http://megatv.me:5890/1122334455/1122334455/216367
-#EXTINF:-1 tvg-id="" tvg-name="CA : FIGHT NETWORK" tvg-logo="" group-title="CANADA ENGLISH",CA : FIGHT NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK" tvg-logo="" group-title="Canada",FIGHT NETWORK
 http://megatv.me:5890/1122334455/1122334455/216368
-#EXTINF:-1 tvg-id="" tvg-name="CA : FAMILY WEST" tvg-logo="" group-title="CANADA ENGLISH",CA : FAMILY WEST
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY WEST" tvg-logo="" group-title="Canada",FAMILY WEST
 http://megatv.me:5890/1122334455/1122334455/216369
-#EXTINF:-1 tvg-id="" tvg-name="CA : FAMILY JR" tvg-logo="" group-title="CANADA ENGLISH",CA : FAMILY JR
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY JR" tvg-logo="" group-title="Canada",FAMILY JR
 http://megatv.me:5890/1122334455/1122334455/216370
-#EXTINF:-1 tvg-id="" tvg-name="CA : FAMILY CHRGD" tvg-logo="" group-title="CANADA ENGLISH",CA : FAMILY CHRGD
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY CHRGD" tvg-logo="" group-title="Canada",FAMILY CHRGD
 http://megatv.me:5890/1122334455/1122334455/216371
-#EXTINF:-1 tvg-id="" tvg-name="CA : E!" tvg-logo="" group-title="CANADA ENGLISH",CA : E!
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="Canada",E!
 http://megatv.me:5890/1122334455/1122334455/216372
-#EXTINF:-1 tvg-id="" tvg-name="CA : DTOUR" tvg-logo="" group-title="CANADA ENGLISH",CA : DTOUR
+#EXTINF:-1 tvg-id="" tvg-name="DTOUR" tvg-logo="" group-title="Canada",DTOUR
 http://megatv.me:5890/1122334455/1122334455/216373
-#EXTINF:-1 tvg-id="" tvg-name="CA : DIY" tvg-logo="" group-title="CANADA ENGLISH",CA : DIY
+#EXTINF:-1 tvg-id="" tvg-name="DIY" tvg-logo="" group-title="Canada",DIY
 http://megatv.me:5890/1122334455/1122334455/216374
-#EXTINF:-1 tvg-id="" tvg-name="CA : DISNEY FRENCH" tvg-logo="" group-title="CANADA ENGLISH",CA : DISNEY FRENCH
-http://megatv.me:5890/1122334455/1122334455/216375
-#EXTINF:-1 tvg-id="" tvg-name="CA : DISNEY CHANNEL" tvg-logo="" group-title="CANADA ENGLISH",CA : DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="Canada",DISNEY CHANNEL
 http://megatv.me:5890/1122334455/1122334455/216376
-#EXTINF:-1 tvg-id="" tvg-name="CA : DISCOVERY SCIENCE" tvg-logo="" group-title="CANADA ENGLISH",CA : DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Canada",DISCOVERY SCIENCE
 http://megatv.me:5890/1122334455/1122334455/216377
-#EXTINF:-1 tvg-id="" tvg-name="CA : DISCOVERY CHANNEL" tvg-logo="" group-title="CANADA ENGLISH",CA : DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="Canada",DISCOVERY CHANNEL
 http://megatv.me:5890/1122334455/1122334455/216378
-#EXTINF:-1 tvg-id="" tvg-name="CA : DEJAVIEW" tvg-logo="" group-title="CANADA ENGLISH",CA : DEJAVIEW
+#EXTINF:-1 tvg-id="" tvg-name="DEJAVIEW" tvg-logo="" group-title="Canada",DEJAVIEW
 http://megatv.me:5890/1122334455/1122334455/216379
-#EXTINF:-1 tvg-id="" tvg-name="CA : DAYSTAR TV" tvg-logo="" group-title="CANADA ENGLISH",CA : DAYSTAR TV
+#EXTINF:-1 tvg-id="" tvg-name="DAYSTAR TV" tvg-logo="" group-title="Canada",DAYSTAR TV
 http://megatv.me:5890/1122334455/1122334455/216380
-#EXTINF:-1 tvg-id="" tvg-name="CA : CW 11" tvg-logo="" group-title="CANADA ENGLISH",CA : CW 11
+#EXTINF:-1 tvg-id="" tvg-name="CW 11" tvg-logo="" group-title="Canada",CW 11
 http://megatv.me:5890/1122334455/1122334455/216381
-#EXTINF:-1 tvg-id="" tvg-name="CA : CTV2 OTTAWA" tvg-logo="" group-title="CANADA ENGLISH",CA : CTV2 OTTAWA
+#EXTINF:-1 tvg-id="" tvg-name="CTV2 OTTAWA" tvg-logo="" group-title="Canada",CTV2 OTTAWA
 http://megatv.me:5890/1122334455/1122334455/216382
-#EXTINF:-1 tvg-id="" tvg-name="CA : CTV VANCOUVER" tvg-logo="" group-title="CANADA ENGLISH",CA : CTV VANCOUVER
+#EXTINF:-1 tvg-id="" tvg-name="CTV VANCOUVER" tvg-logo="" group-title="Canada",CTV VANCOUVER
 http://megatv.me:5890/1122334455/1122334455/216383
-#EXTINF:-1 tvg-id="" tvg-name="CA : CTV TORONTO" tvg-logo="" group-title="CANADA ENGLISH",CA : CTV TORONTO
+#EXTINF:-1 tvg-id="" tvg-name="CTV TORONTO" tvg-logo="" group-title="Canada",CTV TORONTO
 http://megatv.me:5890/1122334455/1122334455/216384
-#EXTINF:-1 tvg-id="" tvg-name="CA : CTV OTTAWA" tvg-logo="" group-title="CANADA ENGLISH",CA : CTV OTTAWA
+#EXTINF:-1 tvg-id="" tvg-name="CTV OTTAWA" tvg-logo="" group-title="Canada",CTV OTTAWA
 http://megatv.me:5890/1122334455/1122334455/216385
-#EXTINF:-1 tvg-id="" tvg-name="CA : CTV NEWS NETWORK" tvg-logo="" group-title="CANADA ENGLISH",CA : CTV NEWS NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="CTV NEWS NETWORK" tvg-logo="" group-title="Canada",CTV NEWS NETWORK
 http://megatv.me:5890/1122334455/1122334455/216386
-#EXTINF:-1 tvg-id="" tvg-name="CA : CTV MONTREAL" tvg-logo="" group-title="CANADA ENGLISH",CA : CTV MONTREAL
+#EXTINF:-1 tvg-id="" tvg-name="CTV MONTREAL" tvg-logo="" group-title="Canada",CTV MONTREAL
 http://megatv.me:5890/1122334455/1122334455/216387
-#EXTINF:-1 tvg-id="" tvg-name="CA : CTV HALIFAX" tvg-logo="" group-title="CANADA ENGLISH",CA : CTV HALIFAX
+#EXTINF:-1 tvg-id="" tvg-name="CTV HALIFAX" tvg-logo="" group-title="Canada",CTV HALIFAX
 http://megatv.me:5890/1122334455/1122334455/216388
-#EXTINF:-1 tvg-id="" tvg-name="CA : CTV CALGARY" tvg-logo="" group-title="CANADA ENGLISH",CA : CTV CALGARY
+#EXTINF:-1 tvg-id="" tvg-name="CTV CALGARY" tvg-logo="" group-title="Canada",CTV CALGARY
 http://megatv.me:5890/1122334455/1122334455/216389
-#EXTINF:-1 tvg-id="" tvg-name="CA : CTV 2 VANCOUVER" tvg-logo="" group-title="CANADA ENGLISH",CA : CTV 2 VANCOUVER
+#EXTINF:-1 tvg-id="" tvg-name="CTV 2 VANCOUVER" tvg-logo="" group-title="Canada",CTV 2 VANCOUVER
 http://megatv.me:5890/1122334455/1122334455/216390
-#EXTINF:-1 tvg-id="" tvg-name="CA : CRIME INVESTIGATION" tvg-logo="" group-title="CANADA ENGLISH",CA : CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="" group-title="Canada",CRIME INVESTIGATION
 http://megatv.me:5890/1122334455/1122334455/216391
-#EXTINF:-1 tvg-id="" tvg-name="CA : CRAVE 4 / TMN 4" tvg-logo="" group-title="CANADA ENGLISH",CA : CRAVE 4 / TMN 4
+#EXTINF:-1 tvg-id="" tvg-name="CRAVE 4 / TMN 4" tvg-logo="" group-title="Canada",CRAVE 4 / TMN 4
 http://megatv.me:5890/1122334455/1122334455/216392
-#EXTINF:-1 tvg-id="" tvg-name="CA : CRAVE 3 / TMN 3" tvg-logo="" group-title="CANADA ENGLISH",CA : CRAVE 3 / TMN 3
+#EXTINF:-1 tvg-id="" tvg-name="CRAVE 3 / TMN 3" tvg-logo="" group-title="Canada",CRAVE 3 / TMN 3
 http://megatv.me:5890/1122334455/1122334455/216393
-#EXTINF:-1 tvg-id="" tvg-name="CA : CRAVE 2 / TMN 2" tvg-logo="" group-title="CANADA ENGLISH",CA : CRAVE 2 / TMN 2
+#EXTINF:-1 tvg-id="" tvg-name="CRAVE 2 / TMN 2" tvg-logo="" group-title="Canada",CRAVE 2 / TMN 2
 http://megatv.me:5890/1122334455/1122334455/216394
-#EXTINF:-1 tvg-id="" tvg-name="CA : CRAVE 1 / TMN 1" tvg-logo="" group-title="CANADA ENGLISH",CA : CRAVE 1 / TMN 1
+#EXTINF:-1 tvg-id="" tvg-name="CRAVE 1 / TMN 1" tvg-logo="" group-title="Canada",CRAVE 1 / TMN 1
 http://megatv.me:5890/1122334455/1122334455/216395
-#EXTINF:-1 tvg-id="" tvg-name="CA : CPAC" tvg-logo="" group-title="CANADA ENGLISH",CA : CPAC
+#EXTINF:-1 tvg-id="" tvg-name="CPAC" tvg-logo="" group-title="Canada",CPAC
 http://megatv.me:5890/1122334455/1122334455/216396
-#EXTINF:-1 tvg-id="" tvg-name="CA : CP24 HD" tvg-logo="" group-title="CANADA ENGLISH",CA : CP24 HD
+#EXTINF:-1 tvg-id="" tvg-name="CP24 HD" tvg-logo="" group-title="Canada",CP24 HD
 http://megatv.me:5890/1122334455/1122334455/216397
-#EXTINF:-1 tvg-id="" tvg-name="CA : CP24" tvg-logo="" group-title="CANADA ENGLISH",CA : CP24
+#EXTINF:-1 tvg-id="" tvg-name="CP24" tvg-logo="" group-title="Canada",CP24
 http://megatv.me:5890/1122334455/1122334455/216398
-#EXTINF:-1 tvg-id="" tvg-name="CA : COTTAGE LIFE" tvg-logo="" group-title="CANADA ENGLISH",CA : COTTAGE LIFE
+#EXTINF:-1 tvg-id="" tvg-name="COTTAGE LIFE" tvg-logo="" group-title="Canada",COTTAGE LIFE
 http://megatv.me:5890/1122334455/1122334455/216399
-#EXTINF:-1 tvg-id="" tvg-name="CA : COOKING CHANNEL" tvg-logo="" group-title="CANADA ENGLISH",CA : COOKING CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="COOKING CHANNEL" tvg-logo="" group-title="Canada",COOKING CHANNEL
 http://megatv.me:5890/1122334455/1122334455/216400
-#EXTINF:-1 tvg-id="" tvg-name="CA : CNN INTERNATIONAL" tvg-logo="" group-title="CANADA ENGLISH",CA : CNN INTERNATIONAL
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="" group-title="Canada",CNN INTERNATIONAL
 http://megatv.me:5890/1122334455/1122334455/216401
-#EXTINF:-1 tvg-id="" tvg-name="CA : CNN" tvg-logo="" group-title="CANADA ENGLISH",CA : CNN
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="Canada",CNN
 http://megatv.me:5890/1122334455/1122334455/216402
-#EXTINF:-1 tvg-id="" tvg-name="CA : CNBC" tvg-logo="" group-title="CANADA ENGLISH",CA : CNBC
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title="Canada",CNBC
 http://megatv.me:5890/1122334455/1122334455/216403
-#EXTINF:-1 tvg-id="" tvg-name="CA : CMT" tvg-logo="" group-title="CANADA ENGLISH",CA : CMT
+#EXTINF:-1 tvg-id="" tvg-name="CMT" tvg-logo="" group-title="Canada",CMT
 http://megatv.me:5890/1122334455/1122334455/216404
-#EXTINF:-1 tvg-id="" tvg-name="CA : CITY VANCOUVER" tvg-logo="" group-title="CANADA ENGLISH",CA : CITY VANCOUVER
+#EXTINF:-1 tvg-id="" tvg-name="CITY VANCOUVER" tvg-logo="" group-title="Canada",CITY VANCOUVER
 http://megatv.me:5890/1122334455/1122334455/216405
-#EXTINF:-1 tvg-id="" tvg-name="CA : CITY TORONTO" tvg-logo="" group-title="CANADA ENGLISH",CA : CITY TORONTO
+#EXTINF:-1 tvg-id="" tvg-name="CITY TORONTO" tvg-logo="" group-title="Canada",CITY TORONTO
 http://megatv.me:5890/1122334455/1122334455/216406
-#EXTINF:-1 tvg-id="" tvg-name="CA : CITY MONTREAL" tvg-logo="" group-title="CANADA ENGLISH",CA : CITY MONTREAL
+#EXTINF:-1 tvg-id="" tvg-name="CITY MONTREAL" tvg-logo="" group-title="Canada",CITY MONTREAL
 http://megatv.me:5890/1122334455/1122334455/216407
-#EXTINF:-1 tvg-id="" tvg-name="CA : CITY CALGARY" tvg-logo="" group-title="CANADA ENGLISH",CA : CITY CALGARY
+#EXTINF:-1 tvg-id="" tvg-name="CITY CALGARY" tvg-logo="" group-title="Canada",CITY CALGARY
 http://megatv.me:5890/1122334455/1122334455/216408
-#EXTINF:-1 tvg-id="" tvg-name="CA : CHCH" tvg-logo="" group-title="CANADA ENGLISH",CA : CHCH
+#EXTINF:-1 tvg-id="" tvg-name="CHCH" tvg-logo="" group-title="Canada",CHCH
 http://megatv.me:5890/1122334455/1122334455/216409
-#EXTINF:-1 tvg-id="" tvg-name="CA : CBS WEST" tvg-logo="" group-title="CANADA ENGLISH",CA : CBS WEST
+#EXTINF:-1 tvg-id="" tvg-name="CBS WEST" tvg-logo="" group-title="Canada",CBS WEST
 http://megatv.me:5890/1122334455/1122334455/216410
-#EXTINF:-1 tvg-id="" tvg-name="CA : CBS EAST" tvg-logo="" group-title="CANADA ENGLISH",CA : CBS EAST
+#EXTINF:-1 tvg-id="" tvg-name="CBS EAST" tvg-logo="" group-title="Canada",CBS EAST
 http://megatv.me:5890/1122334455/1122334455/216411
-#EXTINF:-1 tvg-id="" tvg-name="CA : CBC VANCOUVER" tvg-logo="" group-title="CANADA ENGLISH",CA : CBC VANCOUVER
+#EXTINF:-1 tvg-id="" tvg-name="CBC VANCOUVER" tvg-logo="" group-title="Canada",CBC VANCOUVER
 http://megatv.me:5890/1122334455/1122334455/216412
-#EXTINF:-1 tvg-id="" tvg-name="CA : CBC TORONTO" tvg-logo="" group-title="CANADA ENGLISH",CA : CBC TORONTO
+#EXTINF:-1 tvg-id="" tvg-name="CBC TORONTO" tvg-logo="" group-title="Canada",CBC TORONTO
 http://megatv.me:5890/1122334455/1122334455/216413
-#EXTINF:-1 tvg-id="" tvg-name="CA : CBC OTTAWA" tvg-logo="" group-title="CANADA ENGLISH",CA : CBC OTTAWA
+#EXTINF:-1 tvg-id="" tvg-name="CBC OTTAWA" tvg-logo="" group-title="Canada",CBC OTTAWA
 http://megatv.me:5890/1122334455/1122334455/216414
-#EXTINF:-1 tvg-id="" tvg-name="CA : CBC NOVA SCOTIA" tvg-logo="" group-title="CANADA ENGLISH",CA : CBC NOVA SCOTIA
+#EXTINF:-1 tvg-id="" tvg-name="CBC NOVA SCOTIA" tvg-logo="" group-title="Canada",CBC NOVA SCOTIA
 http://megatv.me:5890/1122334455/1122334455/216415
-#EXTINF:-1 tvg-id="" tvg-name="CA : CBC NEWS" tvg-logo="" group-title="CANADA ENGLISH",CA : CBC NEWS
+#EXTINF:-1 tvg-id="" tvg-name="CBC NEWS" tvg-logo="" group-title="Canada",CBC NEWS
 http://megatv.me:5890/1122334455/1122334455/216416
-#EXTINF:-1 tvg-id="" tvg-name="CA : CBC CALGARY" tvg-logo="" group-title="CANADA ENGLISH",CA : CBC CALGARY
+#EXTINF:-1 tvg-id="" tvg-name="CBC CALGARY" tvg-logo="" group-title="Canada",CBC CALGARY
 http://megatv.me:5890/1122334455/1122334455/216417
-#EXTINF:-1 tvg-id="" tvg-name="CA : CARTOON NETWORK" tvg-logo="" group-title="CANADA ENGLISH",CA : CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Canada",CARTOON NETWORK
 http://megatv.me:5890/1122334455/1122334455/216418
-#EXTINF:-1 tvg-id="" tvg-name="CA : BOOK TV" tvg-logo="" group-title="CANADA ENGLISH",CA : BOOK TV
+#EXTINF:-1 tvg-id="" tvg-name="BOOK TV" tvg-logo="" group-title="Canada",BOOK TV
 http://megatv.me:5890/1122334455/1122334455/216419
-#EXTINF:-1 tvg-id="" tvg-name="CA : BBC WORLD NEWS" tvg-logo="" group-title="CANADA ENGLISH",CA : BBC WORLD NEWS
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="Canada",BBC WORLD NEWS
 http://megatv.me:5890/1122334455/1122334455/216420
-#EXTINF:-1 tvg-id="" tvg-name="CA : BBC" tvg-logo="" group-title="CANADA ENGLISH",CA : BBC
+#EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="" group-title="Canada",BBC
 http://megatv.me:5890/1122334455/1122334455/216421
-#EXTINF:-1 tvg-id="" tvg-name="CA : Assembl Nationale Quebec" tvg-logo="" group-title="CANADA ENGLISH",CA : Assembl Nationale Quebec
-http://megatv.me:5890/1122334455/1122334455/216422
-#EXTINF:-1 tvg-id="" tvg-name="CA : ABC EAST" tvg-logo="" group-title="CANADA ENGLISH",CA : ABC EAST
+#EXTINF:-1 tvg-id="" tvg-name="ABC EAST" tvg-logo="" group-title="Canada",ABC EAST
 http://megatv.me:5890/1122334455/1122334455/216423
-#EXTINF:-1 tvg-id="" tvg-name="CA : CBC Montreal HD" tvg-logo="" group-title="CANADA ENGLISH",CA : CBC Montreal HD
+#EXTINF:-1 tvg-id="" tvg-name="CBC Montreal HD" tvg-logo="" group-title="Canada",CBC Montreal HD
 http://megatv.me:5890/1122334455/1122334455/216424
-#EXTINF:-1 tvg-id="" tvg-name="CA : CBC Montreal" tvg-logo="" group-title="CANADA ENGLISH",CA : CBC Montreal
+#EXTINF:-1 tvg-id="" tvg-name="CBC Montreal" tvg-logo="" group-title="Canada",CBC Montreal
 http://megatv.me:5890/1122334455/1122334455/216425
-#EXTINF:-1 tvg-id="" tvg-name="CA : Bravo TV" tvg-logo="" group-title="CANADA ENGLISH",CA : Bravo TV
+#EXTINF:-1 tvg-id="" tvg-name="Bravo TV" tvg-logo="" group-title="Canada",Bravo TV
 http://megatv.me:5890/1122334455/1122334455/216426
-#EXTINF:-1 tvg-id="" tvg-name="CA : BNN Bloomberg" tvg-logo="" group-title="CANADA ENGLISH",CA : BNN Bloomberg
+#EXTINF:-1 tvg-id="" tvg-name="BNN Bloomberg" tvg-logo="" group-title="Canada",BNN Bloomberg
 http://megatv.me:5890/1122334455/1122334455/216427
-#EXTINF:-1 tvg-id="" tvg-name="CA : BET" tvg-logo="" group-title="CANADA ENGLISH",CA : BET
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="" group-title="Canada",BET
 http://megatv.me:5890/1122334455/1122334455/216428
-#EXTINF:-1 tvg-id="" tvg-name="CA : APTN" tvg-logo="" group-title="CANADA ENGLISH",CA : APTN
+#EXTINF:-1 tvg-id="" tvg-name="APTN" tvg-logo="" group-title="Canada",APTN
 http://megatv.me:5890/1122334455/1122334455/216429
-#EXTINF:-1 tvg-id="" tvg-name="CA : AMC" tvg-logo="" group-title="CANADA ENGLISH",CA : AMC
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="Canada",AMC
 http://megatv.me:5890/1122334455/1122334455/216430
-#EXTINF:-1 tvg-id="" tvg-name="CA : AHC" tvg-logo="" group-title="CANADA ENGLISH",CA : AHC
+#EXTINF:-1 tvg-id="" tvg-name="AHC" tvg-logo="" group-title="Canada",AHC
 http://megatv.me:5890/1122334455/1122334455/216431
-#EXTINF:-1 tvg-id="" tvg-name="CA : Addik TV (FR)" tvg-logo="" group-title="CANADA ENGLISH",CA : Addik TV (FR)
-http://megatv.me:5890/1122334455/1122334455/216432
-#EXTINF:-1 tvg-id="" tvg-name="CA : Action HD (FR)" tvg-logo="" group-title="CANADA ENGLISH",CA : Action HD (FR)
-http://megatv.me:5890/1122334455/1122334455/216433
-#EXTINF:-1 tvg-id="" tvg-name="CA : ABC West" tvg-logo="" group-title="CANADA ENGLISH",CA : ABC West
+#EXTINF:-1 tvg-id="" tvg-name="ABC West" tvg-logo="" group-title="Canada",ABC West
 http://megatv.me:5890/1122334455/1122334455/216434
-#EXTINF:-1 tvg-id="" tvg-name="CA : ABC Spark" tvg-logo="" group-title="CANADA ENGLISH",CA : ABC Spark
+#EXTINF:-1 tvg-id="" tvg-name="ABC Spark" tvg-logo="" group-title="Canada",ABC Spark
 http://megatv.me:5890/1122334455/1122334455/216435
-#EXTINF:-1 tvg-id="" tvg-name="CA : A&E HD" tvg-logo="" group-title="CANADA ENGLISH",CA : A&E HD
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="Canada",A&E HD
 http://megatv.me:5890/1122334455/1122334455/216436
-#EXTINF:-1 tvg-id="" tvg-name="CA : TSN 5 HD" tvg-logo="" group-title="CANADA ENGLISH",CA : TSN 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="TSN 5 HD" tvg-logo="" group-title="Canada",TSN 5 HD
 http://megatv.me:5890/1122334455/1122334455/216437
-#EXTINF:-1 tvg-id="" tvg-name="CA : TSN 4 HD" tvg-logo="" group-title="CANADA ENGLISH",CA : TSN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4 HD" tvg-logo="" group-title="Canada",TSN 4 HD
 http://megatv.me:5890/1122334455/1122334455/216438
-#EXTINF:-1 tvg-id="" tvg-name="CA : TSN 3 HD" tvg-logo="" group-title="CANADA ENGLISH",CA : TSN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3 HD" tvg-logo="" group-title="Canada",TSN 3 HD
 http://megatv.me:5890/1122334455/1122334455/216439
-#EXTINF:-1 tvg-id="" tvg-name="CA : TSN 2 HD" tvg-logo="" group-title="CANADA ENGLISH",CA : TSN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2 HD" tvg-logo="" group-title="Canada",TSN 2 HD
 http://megatv.me:5890/1122334455/1122334455/216440
-#EXTINF:-1 tvg-id="" tvg-name="CA : TSN 1 HD" tvg-logo="" group-title="CANADA ENGLISH",CA : TSN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1 HD" tvg-logo="" group-title="Canada",TSN 1 HD
 http://megatv.me:5890/1122334455/1122334455/216441
-#EXTINF:-1 tvg-id="" tvg-name="CA : TLC" tvg-logo="" group-title="CANADA ENGLISH",CA : TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Canada",TLC
 http://megatv.me:5890/1122334455/1122334455/216442
-#EXTINF:-1 tvg-id="" tvg-name="CA : Sportsnet West" tvg-logo="" group-title="CANADA ENGLISH",CA : Sportsnet West
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet West" tvg-logo="" group-title="Canada",Sportsnet West
 http://megatv.me:5890/1122334455/1122334455/216443
-#EXTINF:-1 tvg-id="" tvg-name="CA : Sportsnet Ontario" tvg-logo="" group-title="CANADA ENGLISH",CA : Sportsnet Ontario
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Ontario" tvg-logo="" group-title="Canada",Sportsnet Ontario
 http://megatv.me:5890/1122334455/1122334455/216444
-#EXTINF:-1 tvg-id="" tvg-name="CA : Sportsnet East" tvg-logo="" group-title="CANADA ENGLISH",CA : Sportsnet East
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet East" tvg-logo="" group-title="Canada",Sportsnet East
 http://megatv.me:5890/1122334455/1122334455/216445
-#EXTINF:-1 tvg-id="" tvg-name="CA : Sportsnet 360" tvg-logo="" group-title="CANADA ENGLISH",CA : Sportsnet 360
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet 360" tvg-logo="" group-title="Canada",Sportsnet 360
 http://megatv.me:5890/1122334455/1122334455/216446
-#EXTINF:-1 tvg-id="" tvg-name="CA : Animal Planet" tvg-logo="" group-title="CANADA ENGLISH",CA : Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Canada",Animal Planet
 http://megatv.me:5890/1122334455/1122334455/216447
 
 <!--US CHANNELS-->
@@ -1084,9 +1064,9 @@ http://megatv.me:5890/1122334455/1122334455/66743
 http://megatv.me:5890/1122334455/1122334455/66744
 #EXTINF:-1 tvg-id="" tvg-name="SyFy US" tvg-logo="" group-title="USA",SyFy US
 http://megatv.me:5890/1122334455/1122334455/66745
-#EXTINF:-1 tvg-id="" tvg-name="TBS HD US" tvg-logo="" group-title="USA",TBS HD US
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="USA",TBS HD US
 http://megatv.me:5890/1122334455/1122334455/66746
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD US" tvg-logo="" group-title="USA",TNT HD US
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="USA",TNT HD US
 http://megatv.me:5890/1122334455/1122334455/66747
 #EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD US" tvg-logo="" group-title="USA",Travel Channel HD US
 http://megatv.me:5890/1122334455/1122334455/66748
@@ -1586,37 +1566,37 @@ http://megatv.me:5890/1122334455/1122334455/142659
 http://megatv.me:5890/1122334455/1122334455/142660
 #EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Tennessee" tvg-logo="http://showflix.org:5890/images/0a024f0fda2e0d9e4be9220ad14f558f.png" group-title="USA SPORTS ",USA: Fox Sports Tennessee
 http://megatv.me:5890/1122334455/1122334455/142661
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Fox Soccer Plus HD" tvg-logo="http://showflix.org:5890/images/c238658ec74cc19b38758258d01ef1e0.png" group-title="USA SPORTS ",Usa | Sport: Fox Soccer Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus HD" tvg-logo="http://showflix.org:5890/images/c238658ec74cc19b38758258d01ef1e0.png" group-title="USA SPORTS ",Fox Soccer Plus HD
 http://megatv.me:5890/1122334455/1122334455/142662
 #EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Wisconsin" tvg-logo="http://showflix.org:5890/images/46498214c2e5ae4247b02d4febe8c0e8.png" group-title="USA SPORTS ",USA: Fox Sports Wisconsin
 http://megatv.me:5890/1122334455/1122334455/142663
 #EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports Yes Network" tvg-logo="http://showflix.org:5890/images/ae89f5d2dc2798c672873bda49c79201.png" group-title="USA SPORTS ",USA: Fox Sports Yes Network
 http://megatv.me:5890/1122334455/1122334455/142664
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BeIN Sports HD" tvg-logo="http://showflix.org:5890/images/075558738e4ccab69b18cec4e639853d.png" group-title="USA SPORTS ",Usa | Sport: BeIN Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD" tvg-logo="http://showflix.org:5890/images/075558738e4ccab69b18cec4e639853d.png" group-title="USA SPORTS ",BeIN Sports HD
 http://megatv.me:5890/1122334455/1122334455/142665
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BeIN Sports La Liga" tvg-logo="http://showflix.org:5890/images/fcfe8390ca230624d426b0751a22b379.jpg" group-title="USA SPORTS ",Usa | Sport: BeIN Sports La Liga
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports La Liga" tvg-logo="http://showflix.org:5890/images/fcfe8390ca230624d426b0751a22b379.jpg" group-title="USA SPORTS ",BeIN Sports La Liga
 http://megatv.me:5890/1122334455/1122334455/142666
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BeIN Sports Xtra HD" tvg-logo="" group-title="USA SPORTS ",Usa | Sport: BeIN Sports Xtra HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Xtra HD" tvg-logo="" group-title="USA SPORTS ",BeIN Sports Xtra HD
 http://megatv.me:5890/1122334455/1122334455/142667
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BeIN Sports 4 HD" tvg-logo="http://showflix.org:5890/images/9209863f5031badd668c134c468bff98.png" group-title="USA SPORTS ",Usa | Sport: BeIN Sports 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 4 HD" tvg-logo="http://showflix.org:5890/images/9209863f5031badd668c134c468bff98.png" group-title="USA SPORTS ",BeIN Sports 4 HD
 http://megatv.me:5890/1122334455/1122334455/142668
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BeIN Sports 5 HD" tvg-logo="http://showflix.org:5890/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="USA SPORTS ",Usa | Sport: BeIN Sports 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 5 HD" tvg-logo="http://showflix.org:5890/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="USA SPORTS ",BeIN Sports 5 HD
 http://megatv.me:5890/1122334455/1122334455/142669
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BeIN Sports 6 HD" tvg-logo="http://showflix.org:5890/images/7979fae3d69c62f1a6f4710fcbe0e3d0.jpg" group-title="USA SPORTS ",Usa | Sport: BeIN Sports 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 6 HD" tvg-logo="http://showflix.org:5890/images/7979fae3d69c62f1a6f4710fcbe0e3d0.jpg" group-title="USA SPORTS ",BeIN Sports 6 HD
 http://megatv.me:5890/1122334455/1122334455/142670
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BeIN Sports 7 HD" tvg-logo="http://showflix.org:5890/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="USA SPORTS ",Usa | Sport: BeIN Sports 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 7 HD" tvg-logo="http://showflix.org:5890/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="USA SPORTS ",BeIN Sports 7 HD
 http://megatv.me:5890/1122334455/1122334455/142671
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BeIN Sports 8 HD" tvg-logo="http://showflix.org:5890/images/a012ecaaee7ac7d0a5ac6a294349d620.jpg" group-title="USA SPORTS ",Usa | Sport: BeIN Sports 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 8 HD" tvg-logo="http://showflix.org:5890/images/a012ecaaee7ac7d0a5ac6a294349d620.jpg" group-title="USA SPORTS ",BeIN Sports 8 HD
 http://megatv.me:5890/1122334455/1122334455/142672
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: ESPN 1" tvg-logo="http://showflix.org:5890/images/c38b8ffd06045f36921412c300f67b54.png" group-title="USA SPORTS ",Usa | Sport: ESPN 1
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://showflix.org:5890/images/c38b8ffd06045f36921412c300f67b54.png" group-title="USA SPORTS ",ESPN 1
 http://megatv.me:5890/1122334455/1122334455/142673
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: ESPN 2" tvg-logo="http://showflix.org:5890/images/c38b8ffd06045f36921412c300f67b54.png" group-title="USA SPORTS ",Usa | Sport: ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://showflix.org:5890/images/c38b8ffd06045f36921412c300f67b54.png" group-title="USA SPORTS ",ESPN 2
 http://megatv.me:5890/1122334455/1122334455/142674
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Espn Deportes HD" tvg-logo="http://showflix.org:5890/images/18d57252d9268ac239a9ddd7750d6607.png" group-title="USA SPORTS ",Usa | Sport: Espn Deportes HD
+#EXTINF:-1 tvg-id="" tvg-name="Espn Deportes HD" tvg-logo="http://showflix.org:5890/images/18d57252d9268ac239a9ddd7750d6607.png" group-title="USA SPORTS ",Espn Deportes HD
 http://megatv.me:5890/1122334455/1122334455/142675
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: ESPN News" tvg-logo="" group-title="USA SPORTS ",Usa | Sport: ESPN News
+#EXTINF:-1 tvg-id="" tvg-name="ESPN News" tvg-logo="" group-title="USA SPORTS ",ESPN News
 http://megatv.me:5890/1122334455/1122334455/142676
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: ESPN U HD" tvg-logo="http://showflix.org:5890/images/749617fa59407eb0194de6d2f0f4c2ed.png" group-title="USA SPORTS ",Usa | Sport: ESPN U HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U HD" tvg-logo="http://showflix.org:5890/images/749617fa59407eb0194de6d2f0f4c2ed.png" group-title="USA SPORTS ",ESPN U HD
 http://megatv.me:5890/1122334455/1122334455/142677
 #EXTINF:-1 tvg-id="" tvg-name="USA: NBC Golf Channel" tvg-logo="http://showflix.org:5890/images/7482b477f8255f85d351527ee3bce37a.png" group-title="USA SPORTS ",USA: NBC Golf Channel
 http://megatv.me:5890/1122334455/1122334455/142678
@@ -1636,57 +1616,57 @@ http://megatv.me:5890/1122334455/1122334455/142684
 http://megatv.me:5890/1122334455/1122334455/142685
 #EXTINF:-1 tvg-id="" tvg-name="USA: NBC Sports Washington" tvg-logo="http://showflix.org:5890/images/a7314d17d22bb59339a1cd542edd75f9.png" group-title="USA SPORTS ",USA: NBC Sports Washington
 http://megatv.me:5890/1122334455/1122334455/142686
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BTN2" tvg-logo="" group-title="USA SPORTS ",Usa | Sport: BTN2
+#EXTINF:-1 tvg-id="" tvg-name="BTN2" tvg-logo="" group-title="USA SPORTS ",BTN2
 http://megatv.me:5890/1122334455/1122334455/142687
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BTN3" tvg-logo="" group-title="USA SPORTS ",Usa | Sport: BTN3
+#EXTINF:-1 tvg-id="" tvg-name="BTN3" tvg-logo="" group-title="USA SPORTS ",BTN3
 http://megatv.me:5890/1122334455/1122334455/142688
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BTN4" tvg-logo="" group-title="USA SPORTS ",Usa | Sport: BTN4
+#EXTINF:-1 tvg-id="" tvg-name="BTN4" tvg-logo="" group-title="USA SPORTS ",BTN4
 http://megatv.me:5890/1122334455/1122334455/142689
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: CBS Sports Network" tvg-logo="" group-title="USA SPORTS ",Usa | Sport: CBS Sports Network
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Network" tvg-logo="" group-title="USA SPORTS ",CBS Sports Network
 http://megatv.me:5890/1122334455/1122334455/142690
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Big Ten Network" tvg-logo="http://showflix.org:5890/images/a0c387fee6d282c277b81fade88fe4aa.jpg" group-title="USA SPORTS ",Usa | Sport: Big Ten Network
+#EXTINF:-1 tvg-id="" tvg-name="Big Ten Network" tvg-logo="http://showflix.org:5890/images/a0c387fee6d282c277b81fade88fe4aa.jpg" group-title="USA SPORTS ",Big Ten Network
 http://megatv.me:5890/1122334455/1122334455/142691
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Fight Network HD" tvg-logo="http://showflix.org:5890/images/201296f89598674b73f04da72eafffd7.jpg" group-title="USA SPORTS ",Usa | Sport: Fight Network HD
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network HD" tvg-logo="http://showflix.org:5890/images/201296f89598674b73f04da72eafffd7.jpg" group-title="USA SPORTS ",Fight Network HD
 http://megatv.me:5890/1122334455/1122334455/142692
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Game Show Network" tvg-logo="http://showflix.org:5890/images/4100e69861b03e9a01b12bcc541aae3c.png" group-title="USA SPORTS ",Usa | Sport: Game Show Network
+#EXTINF:-1 tvg-id="" tvg-name="Game Show Network" tvg-logo="http://showflix.org:5890/images/4100e69861b03e9a01b12bcc541aae3c.png" group-title="USA SPORTS ",Game Show Network
 http://megatv.me:5890/1122334455/1122334455/142693
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: NFL Network HD" tvg-logo="http://showflix.org:5890/images/66314fa8a717cb8d0ab45f94bd21a4db.png" group-title="USA SPORTS ",Usa | Sport: NFL Network HD
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD" tvg-logo="http://showflix.org:5890/images/66314fa8a717cb8d0ab45f94bd21a4db.png" group-title="USA SPORTS ",NFL Network HD
 http://megatv.me:5890/1122334455/1122334455/142694
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: NFL RedZone" tvg-logo="http://showflix.org:5890/images/fe3565c499d962c99584e254a04a1bba.png" group-title="USA SPORTS ",Usa | Sport: NFL RedZone
+#EXTINF:-1 tvg-id="" tvg-name="NFL RedZone" tvg-logo="http://showflix.org:5890/images/fe3565c499d962c99584e254a04a1bba.png" group-title="USA SPORTS ",NFL RedZone
 http://megatv.me:5890/1122334455/1122334455/142695
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Olympic Channel" tvg-logo="http://showflix.org:5890/images/2712a785c9a71c251237616d42100416.png" group-title="USA SPORTS ",Usa | Sport: Olympic Channel
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel" tvg-logo="http://showflix.org:5890/images/2712a785c9a71c251237616d42100416.png" group-title="USA SPORTS ",Olympic Channel
 http://megatv.me:5890/1122334455/1122334455/142696
 #EXTINF:-1 tvg-id="" tvg-name="USA: PAC12 Oregon" tvg-logo="http://showflix.org:5890/images/61354ee658cb13c59385a2b60eed86b3.png" group-title="USA SPORTS ",USA: PAC12 Oregon
 http://megatv.me:5890/1122334455/1122334455/142697
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Parliament TV" tvg-logo="" group-title="USA SPORTS ",Usa | Sport: Parliament TV
+#EXTINF:-1 tvg-id="" tvg-name="Parliament TV" tvg-logo="" group-title="USA SPORTS ",Parliament TV
 http://megatv.me:5890/1122334455/1122334455/142698
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: SEC Network HD" tvg-logo="http://showflix.org:5890/images/485c0cd50d51b629d830436302f3cde8.jpg" group-title="USA SPORTS ",Usa | Sport: SEC Network HD
+#EXTINF:-1 tvg-id="" tvg-name="SEC Network HD" tvg-logo="http://showflix.org:5890/images/485c0cd50d51b629d830436302f3cde8.jpg" group-title="USA SPORTS ",SEC Network HD
 http://megatv.me:5890/1122334455/1122334455/142699
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Marquee Sports Network" tvg-logo="" group-title="USA SPORTS ",USA | Sport: Marquee Sports Network
+#EXTINF:-1 tvg-id="" tvg-name="Marquee Sports Network" tvg-logo="" group-title="USA SPORTS ",Marquee Sports Network
 http://megatv.me:5890/1122334455/1122334455/142700
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Sportsman Channel HD" tvg-logo="http://vod-logo.net/photos/2d3c84dbe6fa43fe48403c2d259a8ad4.crdownload" group-title="USA SPORTS ",Usa | Sport: Sportsman Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Sportsman Channel HD" tvg-logo="http://vod-logo.net/photos/2d3c84dbe6fa43fe48403c2d259a8ad4.crdownload" group-title="USA SPORTS ",Sportsman Channel HD
 http://megatv.me:5890/1122334455/1122334455/142701
 #EXTINF:-1 tvg-id="" tvg-name="USA | Spor: Venn HD" tvg-logo="" group-title="USA SPORTS ",USA | Spor: Venn HD
 http://megatv.me:5890/1122334455/1122334455/142702
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Altitude Sports" tvg-logo="" group-title="USA SPORTS ",USA | Sport: Altitude Sports
+#EXTINF:-1 tvg-id="" tvg-name="Altitude Sports" tvg-logo="" group-title="USA SPORTS ",Altitude Sports
 http://megatv.me:5890/1122334455/1122334455/142703
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: AT&T Sportsnet Rocky Mountain" tvg-logo="" group-title="USA SPORTS ",USA | Sport: AT&T Sportsnet Rocky Mountain
+#EXTINF:-1 tvg-id="" tvg-name="AT&T Sportsnet Rocky Mountain" tvg-logo="" group-title="USA SPORTS ",AT&T Sportsnet Rocky Mountain
 http://megatv.me:5890/1122334455/1122334455/142704
 #EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Arizona" tvg-logo="" group-title="USA SPORTS ",USA: Bally Sports Arizona
 http://megatv.me:5890/1122334455/1122334455/142705
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: beIN SPORTS en Espaanol" tvg-logo="" group-title="USA SPORTS ",USA | Sport: beIN SPORTS en Espaanol
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS en Espaanol" tvg-logo="" group-title="USA SPORTS ",beIN SPORTS en Espaanol
 http://megatv.me:5890/1122334455/1122334455/142706
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Stadium" tvg-logo="" group-title="USA SPORTS ",USA | Sport: Stadium
+#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="" group-title="USA SPORTS ",Stadium
 http://megatv.me:5890/1122334455/1122334455/142707
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Stadium 3" tvg-logo="" group-title="USA SPORTS ",USA | Sport: Stadium 3
+#EXTINF:-1 tvg-id="" tvg-name="Stadium 3" tvg-logo="" group-title="USA SPORTS ",Stadium 3
 http://megatv.me:5890/1122334455/1122334455/142708
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: TBS HD" tvg-logo="" group-title="USA SPORTS ",USA | Sport: TBS HD
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="" group-title="USA SPORTS ",TBS HD
 http://megatv.me:5890/1122334455/1122334455/142709
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: TVG 2 HD" tvg-logo="" group-title="USA SPORTS ",USA | Sport: TVG 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TVG 2 HD" tvg-logo="" group-title="USA SPORTS ",TVG 2 HD
 http://megatv.me:5890/1122334455/1122334455/142710
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: VSiN HD" tvg-logo="" group-title="USA SPORTS ",USA | Sport: VSiN HD
+#EXTINF:-1 tvg-id="" tvg-name="VSiN HD" tvg-logo="" group-title="USA SPORTS ",VSiN HD
 http://megatv.me:5890/1122334455/1122334455/142711
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Willow Cricket Extra" tvg-logo="" group-title="USA SPORTS ",USA | Sport: Willow Cricket Extra
+#EXTINF:-1 tvg-id="" tvg-name="Willow Cricket Extra" tvg-logo="" group-title="USA SPORTS ",Willow Cricket Extra
 http://megatv.me:5890/1122334455/1122334455/142712
 #EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports New Orleans" tvg-logo="" group-title="USA SPORTS ",USA: Bally Sports New Orleans
 http://megatv.me:5890/1122334455/1122334455/142713
@@ -1696,7 +1676,7 @@ http://megatv.me:5890/1122334455/1122334455/142714
 http://megatv.me:5890/1122334455/1122334455/142715
 #EXTINF:-1 tvg-id="" tvg-name="USA | Sports: DraftKings Baseball Channel" tvg-logo="" group-title="USA SPORTS ",USA | Sports: DraftKings Baseball Channel
 http://megatv.me:5890/1122334455/1122334455/142716
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: DraftKings College Football" tvg-logo="" group-title="USA SPORTS ",USA | Sport: DraftKings College Football
+#EXTINF:-1 tvg-id="" tvg-name="DraftKings College Football" tvg-logo="" group-title="USA SPORTS ",DraftKings College Football
 http://megatv.me:5890/1122334455/1122334455/142717
 #EXTINF:-1 tvg-id="" tvg-name="USA | Sports: DraftKings Football" tvg-logo="" group-title="USA SPORTS ",USA | Sports: DraftKings Football
 http://megatv.me:5890/1122334455/1122334455/142718
@@ -1730,51 +1710,51 @@ http://megatv.me:5890/1122334455/1122334455/142731
 http://megatv.me:5890/1122334455/1122334455/142732
 #EXTINF:-1 tvg-id="" tvg-name="USA | Sports: Sports Grid" tvg-logo="" group-title="USA SPORTS ",USA | Sports: Sports Grid
 http://megatv.me:5890/1122334455/1122334455/142733
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Stadium 1" tvg-logo="" group-title="USA SPORTS ",Usa | Sport: Stadium 1
+#EXTINF:-1 tvg-id="" tvg-name="Stadium 1" tvg-logo="" group-title="USA SPORTS ",Stadium 1
 http://megatv.me:5890/1122334455/1122334455/142734
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Stadium 2" tvg-logo="" group-title="USA SPORTS ",Usa | Sport: Stadium 2
+#EXTINF:-1 tvg-id="" tvg-name="Stadium 2" tvg-logo="" group-title="USA SPORTS ",Stadium 2
 http://megatv.me:5890/1122334455/1122334455/142735
 #EXTINF:-1 tvg-id="" tvg-name="USA: Tennis Channel HD" tvg-logo="http://vod-logo.net/photos/69a85f299ece3d61faf010ce011fba8e.crdownload" group-title="USA SPORTS ",USA: Tennis Channel HD
 http://megatv.me:5890/1122334455/1122334455/142736
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: UFC 1 HD" tvg-logo="http://showflix.org:5890/images/1896d6099269ba7cf57489b194088430.png" group-title="USA SPORTS ",Usa | Sport: UFC 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="UFC 1 HD" tvg-logo="http://showflix.org:5890/images/1896d6099269ba7cf57489b194088430.png" group-title="USA SPORTS ",UFC 1 HD
 http://megatv.me:5890/1122334455/1122334455/142737
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Willow Cricket HD" tvg-logo="http://showflix.org:5890/images/609a33bb4c402c5908c8684abc5138d8.png" group-title="USA SPORTS ",Usa | Sport: Willow Cricket HD
+#EXTINF:-1 tvg-id="" tvg-name="Willow Cricket HD" tvg-logo="http://showflix.org:5890/images/609a33bb4c402c5908c8684abc5138d8.png" group-title="USA SPORTS ",Willow Cricket HD
 http://megatv.me:5890/1122334455/1122334455/142738
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: WWE Network HD" tvg-logo="http://showflix.org:5890/images/a5beba6a728f6a2492246726843925eb.jpg" group-title="USA SPORTS ",Usa | Sport: WWE Network HD
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network HD" tvg-logo="http://showflix.org:5890/images/a5beba6a728f6a2492246726843925eb.jpg" group-title="USA SPORTS ",WWE Network HD
 http://megatv.me:5890/1122334455/1122334455/142739
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: Yes Network HD" tvg-logo="http://showflix.org:5890/images/02b88159868f71f3841a373196a976f4.png" group-title="USA SPORTS ",Usa | Sport: Yes Network HD
+#EXTINF:-1 tvg-id="" tvg-name="Yes Network HD" tvg-logo="http://showflix.org:5890/images/02b88159868f71f3841a373196a976f4.png" group-title="USA SPORTS ",Yes Network HD
 http://megatv.me:5890/1122334455/1122334455/142740
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Bally Sports Florida HD" tvg-logo="" group-title="USA SPORTS ",USA | Sport: Bally Sports Florida HD
+#EXTINF:-1 tvg-id="" tvg-name="Bally Sports Florida HD" tvg-logo="" group-title="USA SPORTS ",Bally Sports Florida HD
 http://megatv.me:5890/1122334455/1122334455/142741
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Bally Sports Indianna HD" tvg-logo="" group-title="USA SPORTS ",USA | Sport: Bally Sports Indianna HD
+#EXTINF:-1 tvg-id="" tvg-name="Bally Sports Indianna HD" tvg-logo="" group-title="USA SPORTS ",Bally Sports Indianna HD
 http://megatv.me:5890/1122334455/1122334455/142742
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Bally Sports Mid West HD" tvg-logo="" group-title="USA SPORTS ",USA | Sport: Bally Sports Mid West HD
+#EXTINF:-1 tvg-id="" tvg-name="Bally Sports Mid West HD" tvg-logo="" group-title="USA SPORTS ",Bally Sports Mid West HD
 http://megatv.me:5890/1122334455/1122334455/142743
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Bally Sports North HD" tvg-logo="" group-title="USA SPORTS ",USA | Sport: Bally Sports North HD
+#EXTINF:-1 tvg-id="" tvg-name="Bally Sports North HD" tvg-logo="" group-title="USA SPORTS ",Bally Sports North HD
 http://megatv.me:5890/1122334455/1122334455/142744
 #EXTINF:-1 tvg-id="" tvg-name="USA: Bally Sports Ohio HD" tvg-logo="" group-title="USA SPORTS ",USA: Bally Sports Ohio HD
 http://megatv.me:5890/1122334455/1122334455/142745
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Bally Sports Tennessee HD" tvg-logo="" group-title="USA SPORTS ",USA | Sport: Bally Sports Tennessee HD
+#EXTINF:-1 tvg-id="" tvg-name="Bally Sports Tennessee HD" tvg-logo="" group-title="USA SPORTS ",Bally Sports Tennessee HD
 http://megatv.me:5890/1122334455/1122334455/142746
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Bloomberg HD" tvg-logo="" group-title="USA SPORTS ",USA | Sport: Bloomberg HD
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HD" tvg-logo="" group-title="USA SPORTS ",Bloomberg HD
 http://megatv.me:5890/1122334455/1122334455/142747
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: BTN" tvg-logo="http://showflix.org:5890/images/6ea6fbc16c3f59e2936ed12f5205a26c.png" group-title="USA SPORTS ",Usa | Sport: BTN
+#EXTINF:-1 tvg-id="" tvg-name="BTN" tvg-logo="http://showflix.org:5890/images/6ea6fbc16c3f59e2936ed12f5205a26c.png" group-title="USA SPORTS ",BTN
 http://megatv.me:5890/1122334455/1122334455/142748
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: ESPN ACC Network HD" tvg-logo="" group-title="USA SPORTS ",USA | Sport: ESPN ACC Network HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN ACC Network HD" tvg-logo="" group-title="USA SPORTS ",ESPN ACC Network HD
 http://megatv.me:5890/1122334455/1122334455/142749
 #EXTINF:-1 tvg-id="" tvg-name="USA: Fox College Sports Pacific HD" tvg-logo="" group-title="USA SPORTS ",USA: Fox College Sports Pacific HD
 http://megatv.me:5890/1122334455/1122334455/142750
 #EXTINF:-1 tvg-id="" tvg-name="USA: Pac 12 Arizona HD" tvg-logo="" group-title="USA SPORTS ",USA: Pac 12 Arizona HD
 http://megatv.me:5890/1122334455/1122334455/142751
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: PAC12 BayArea" tvg-logo="" group-title="USA SPORTS ",USA | Sport: PAC12 BayArea
+#EXTINF:-1 tvg-id="" tvg-name="PAC12 BayArea" tvg-logo="" group-title="USA SPORTS ",PAC12 BayArea
 http://megatv.me:5890/1122334455/1122334455/142752
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Pac12 Network HD" tvg-logo="" group-title="USA SPORTS ",USA | Sport: Pac12 Network HD
+#EXTINF:-1 tvg-id="" tvg-name="Pac12 Network HD" tvg-logo="" group-title="USA SPORTS ",Pac12 Network HD
 http://megatv.me:5890/1122334455/1122334455/142753
-#EXTINF:-1 tvg-id="" tvg-name="Usa | Sport: SportsNet New York HD" tvg-logo="" group-title="USA SPORTS ",Usa | Sport: SportsNet New York HD
+#EXTINF:-1 tvg-id="" tvg-name="SportsNet New York HD" tvg-logo="" group-title="USA SPORTS ",SportsNet New York HD
 http://megatv.me:5890/1122334455/1122334455/142754
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: Tennis Plus Classic" tvg-logo="" group-title="USA SPORTS ",USA | Sport: Tennis Plus Classic
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Plus Classic" tvg-logo="" group-title="USA SPORTS ",Tennis Plus Classic
 http://megatv.me:5890/1122334455/1122334455/142755
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sport: TVG HD" tvg-logo="" group-title="USA SPORTS ",USA | Sport: TVG HD
+#EXTINF:-1 tvg-id="" tvg-name="TVG HD" tvg-logo="" group-title="USA SPORTS ",TVG HD
 http://megatv.me:5890/1122334455/1122334455/142756
 #EXTINF:-1 tvg-id="" tvg-name="USA: Baby First" tvg-logo="" group-title="USA KIDS ",USA: Baby First
 http://megatv.me:5890/1122334455/1122334455/142757
@@ -1838,9 +1818,9 @@ http://megatv.me:5890/1122334455/1122334455/184937
 http://megatv.me:5890/1122334455/1122334455/184938
 #EXTINF:-1 tvg-id="" tvg-name="US| CBSN DALAS" tvg-logo="" group-title="USA US ",US| CBSN DALAS
 http://megatv.me:5890/1122334455/1122334455/184939
-#EXTINF:-1 tvg-id="" tvg-name="US| TNT West" tvg-logo="" group-title="USA US ",US| TNT West
+#EXTINF:-1 tvg-id="" tvg-name="US| TNT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="USA US ",US| TNT West
 http://megatv.me:5890/1122334455/1122334455/184940
-#EXTINF:-1 tvg-id="" tvg-name="US| TNT HD" tvg-logo="" group-title="USA US ",US| TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="US| TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="USA US ",US| TNT HD
 http://megatv.me:5890/1122334455/1122334455/184941
 #EXTINF:-1 tvg-id="" tvg-name="US| Aljazeera" tvg-logo="" group-title="USA US ",US| Aljazeera
 http://megatv.me:5890/1122334455/1122334455/184942
