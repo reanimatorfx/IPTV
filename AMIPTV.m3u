@@ -1,357 +1,323 @@
+<!--Misc. CHANNELS-->
+
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml.gz"
 
-#EXTINF:-1 tvg-id="247Retro.us" tvg-logo="https://i.imgur.com/QqQL7ss.png" group-title="",247 Retro TV (432p) [Not 24/7]
+#EXTINF:-1 tvg-id="247Retro.us" tvg-logo="https://i.imgur.com/QqQL7ss.png" group-title="Misc",247 Retro TV (432p) [Not 24/7]
 http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="",Adult Swim Aqua Teen Hunger Force (1080p)
+#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="Misc",Adult Swim Aqua Teen Hunger Force (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimBlackJesus.us" tvg-logo="https://i.imgur.com/QWzEK8i.png" group-title="",Adult Swim Black Jesus (1080p)
+#EXTINF:-1 tvg-id="AdultSwimBlackJesus.us" tvg-logo="https://i.imgur.com/QWzEK8i.png" group-title="Misc",Adult Swim Black Jesus (1080p)
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimChannel5.us" tvg-logo="https://i.imgur.com/G9TyeCN.png" group-title="",Adult Swim Channel 5 (1080p)
+#EXTINF:-1 tvg-id="AdultSwimChannel5.us" tvg-logo="https://i.imgur.com/G9TyeCN.png" group-title="Misc",Adult Swim Channel 5 (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://otakudome.com/wp-content/uploads/2018/08/adult-swim1.jpg" group-title="",Adult Swim Daily Animated (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://otakudome.com/wp-content/uploads/2018/08/adult-swim1.jpg" group-title="Misc",Adult Swim Daily Animated (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://otakudome.com/wp-content/uploads/2018/08/adult-swim1.jpg" group-title="",Adult Swim Daily Live Action (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://otakudome.com/wp-content/uploads/2018/08/adult-swim1.jpg" group-title="Misc",Adult Swim Daily Live Action (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimDreamCorpLLC.us" tvg-logo="https://i.imgur.com/reEE5HC.png" group-title="",Adult Swim Dream Corp LLC (1080p) 
+#EXTINF:-1 tvg-id="AdultSwimDreamCorpLLC.us" tvg-logo="https://i.imgur.com/reEE5HC.png" group-title="Misc",Adult Swim Dream Corp LLC (1080p) 
 http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="",Adult Swim East (720p)
+#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Misc",Adult Swim East (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/12/09/Home%20Movies.png" group-title="",Adult Swim Home Movies (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/12/09/Home%20Movies.png" group-title="Misc",Adult Swim Home Movies (1080p)
 https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimInfomercials.us" tvg-logo="https://i.imgur.com/gu8luP0.png" group-title="",Adult Swim Infomercials (1080p) 
+#EXTINF:-1 tvg-id="AdultSwimInfomercials.us" tvg-logo="https://i.imgur.com/gu8luP0.png" group-title="Misc",Adult Swim Infomercials (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://i.imgur.com/bnZCZD2.png" group-title="",Adult Swim Last Stream On The Left (1080p) 
+#EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://i.imgur.com/bnZCZD2.png" group-title="Misc",Adult Swim Last Stream On The Left (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimMetalocalypse.us" tvg-logo="https://i.imgur.com/Efrbhk4.png" group-title="",Adult Swim Metalocalypse (1080p) 
+#EXTINF:-1 tvg-id="AdultSwimMetalocalypse.us" tvg-logo="https://i.imgur.com/Efrbhk4.png" group-title="Misc",Adult Swim Metalocalypse (1080p) 
 http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdn.adultswim.com/uploads/20191113/191113178502-MrPicklesS02_Header_b81a17.png" group-title="",Adult Swim Mr. Pickles (1080p) 
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdn.adultswim.com/uploads/20191113/191113178502-MrPicklesS02_Header_b81a17.png" group-title="Misc",Adult Swim Mr. Pickles (1080p) 
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="",Adult Swim Off The Air (1080p) 
+#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="Misc",Adult Swim Off The Air (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/GenndyTartakovskyPrimal.jpg" group-title="",Adult Swim Primal (1080p) 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/GenndyTartakovskyPrimal.jpg" group-title="Misc",Adult Swim Primal (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdn.adultswim.com/uploads/20210428/21428161947-rick-and-morty-logo-png.png" group-title="",Adult Swim Rick and Morty (1080p) 
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdn.adultswim.com/uploads/20210428/21428161947-rick-and-morty-logo-png.png" group-title="Misc",Adult Swim Rick and Morty (1080p) 
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="",Adult Swim Robot Chicken (1080p) 
+#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="Misc",Adult Swim Robot Chicken (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="",Adult Swim Samurai Jack (1080p) 
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="Misc",Adult Swim Samurai Jack (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdn.adultswim.com/uploads/20211107/21117198549-squidbillieswebHero.png" group-title="",Adult Swim Squidbillies (1080p) 
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdn.adultswim.com/uploads/20211107/21117198549-squidbillieswebHero.png" group-title="Misc",Adult Swim Squidbillies (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/12/09/superjail.png" group-title="",Adult Swim Superjail! (1080p) 
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/12/09/superjail.png" group-title="Misc",Adult Swim Superjail! (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://i.imgur.com/HrMzEnX.png" group-title="",Adult Swim The Eric Andre Show (1080p) 
+#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://i.imgur.com/HrMzEnX.png" group-title="Misc",Adult Swim The Eric Andre Show (1080p) 
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimTheVentureBros.us" tvg-logo="https://i.imgur.com/ZwNmt8Y.png" group-title="",Adult Swim The Venture Bros. (1080p) 
+#EXTINF:-1 tvg-id="AdultSwimTheVentureBros.us" tvg-logo="https://i.imgur.com/ZwNmt8Y.png" group-title="Misc",Adult Swim The Venture Bros. (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/07/11/Tim%20and%20Eric.png" group-title="",Adult Swim Tim and Eric (1080p) 
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/07/11/Tim%20and%20Eric.png" group-title="Misc",Adult Swim Tim and Eric (1080p) 
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="",Adult Swim West (720p)
+#EXTINF:-1 tvg-id="AdultSwimWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Misc",Adult Swim West (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://otakudome.com/wp-content/uploads/2018/08/adult-swim1.jpg" group-title="",Adult Swim Williams Stream (1080p) 
+#EXTINF:-1 tvg-id="" tvg-logo="https://otakudome.com/wp-content/uploads/2018/08/adult-swim1.jpg" group-title="Misc",Adult Swim Williams Stream (1080p) 
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimYourPrettyFaceIsGoingToHell.us" tvg-logo="https://i.imgur.com/uLoRE4F.png" group-title="",Adult Swim Your Pretty Face Is Going To Hell (1080p) 
+#EXTINF:-1 tvg-id="AdultSwimYourPrettyFaceIsGoingToHell.us" tvg-logo="https://i.imgur.com/uLoRE4F.png" group-title="Misc",Adult Swim Your Pretty Face Is Going To Hell (1080p) 
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="",AMC HD
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145914
-
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="",AMC East (720p)
-https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",American Horrors (480p)
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/z7QrIoY.png" group-title="",BBC America (720p)
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3" group-title="",Bloody Disgusting (1080p)
+#EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3" group-title="Misc",Bloody Disgusting (1080p)
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BluegrassMusic4U.us" tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="",Bluegrass Music 4U (480p)
+#EXTINF:-1 tvg-id="BluegrassMusic4U.us" tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="Misc",Bluegrass Music 4U (480p)
 https://rebroadcast.mytvtogo.net/mytvtogo/blugrassmusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CableHits.us" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="",Cable Hits (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CableHits.us" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Misc",Cable Hits (720p) [Not 24/7]
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="",Cartoon Network East TVE Feed (720p)  [Not 24/7]
-https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetworkWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="",Cartoon Network West TVE Feed (720p) 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://www.cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="",Cinevault 80s (540p)
+#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://www.cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="Misc",Cinevault 80s (540p)
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Circle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png" group-title="",Circle (1080p)
+#EXTINF:-1 tvg-id="Circle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png" group-title="Misc",Circle (1080p)
 https://circle-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="",Classic Cinema (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="Misc",Classic Cinema (240p) [Not 24/7]
 https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
 
-#EXTINF:-1 tvg-id="ClassicRerunsTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Classic_Reruns_TV.png" group-title="",Classic Reruns TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ClassicRerunsTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Classic_Reruns_TV.png" group-title="Misc",Classic Reruns TV (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 
-#EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="",Comet (720p)
+#EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="Misc",Comet (720p)
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="",Court TV
-https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.accesswire.com/users/newswire/images/597600/cowboy-theater-tran.png" group-title="",Cowboy Theater (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.accesswire.com/users/newswire/images/597600/cowboy-theater-tran.png" group-title="Misc",Cowboy Theater (720p)
 https://simultv.s.llnwi.net/o054/CowboyTheater/interlink.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://simultv.com/wp-content/uploads/2021/10/Dimensions.jpg" group-title="",Dimensions
+#EXTINF:-1 tvg-id="" tvg-logo="https://simultv.com/wp-content/uploads/2021/10/Dimensions.jpg" group-title="Misc",Dimensions
 https://simultv.s.llnwi.net/o054/Dimensions/interlink.m3u8
 
-#EXTINF:-1 tvg-id="FightingSpirit.us" tvg-logo="https://i.imgur.com/OeVsflz.png" group-title="",Fighting Spirit (720p)
+#EXTINF:-1 tvg-id="FightingSpirit.us" tvg-logo="https://i.imgur.com/OeVsflz.png" group-title="Misc",Fighting Spirit (720p)
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 
-#EXTINF:-1 tvg-id="FilmHub.us" tvg-logo="https://i.imgur.com/AQkhR58.png" group-title="",Film Hub (720p)
+#EXTINF:-1 tvg-id="FilmHub.us" tvg-logo="https://i.imgur.com/AQkhR58.png" group-title="Misc",Film Hub (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-logo="https://i.imgur.com/dXpn7Xv.png" group-title="",FilmRise Classic TV on Redbox (720p)
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-logo="https://i.imgur.com/dXpn7Xv.png" group-title="Misc",FilmRise Classic TV on Redbox (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FilmRiseFamily.us" tvg-logo="https://i.imgur.com/zbrqObp.png" group-title="",FilmRise Family (720p)
+#EXTINF:-1 tvg-id="FilmRiseFamily.us" tvg-logo="https://i.imgur.com/zbrqObp.png" group-title="Misc",FilmRise Family (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedboxUnsolvedMysteries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Unsolved_mysteries_logo.png" group-title="",Unsolved Mysteries (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="",Filmstream
+#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Misc",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FilmStreams.us" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="",FilmStreams (720p)
+#EXTINF:-1 tvg-id="FilmStreams.us" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Misc",FilmStreams (720p)
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fite.us" tvg-logo="https://i.imgur.com/4w95NZQ.png" group-title="",Fite (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Fite.us" tvg-logo="https://i.imgur.com/4w95NZQ.png" group-title="Misc",Fite (720p) [Not 24/7]
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FTF.us" tvg-logo="https://i.imgur.com/zKa2HzX.png" group-title="",FTF (720p)
+#EXTINF:-1 tvg-id="FTF.us" tvg-logo="https://i.imgur.com/zKa2HzX.png" group-title="Misc",FTF (720p)
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FunnyorDie.us" tvg-logo="https://i.imgur.com/PMMsywm.png" group-title="",Funny or Die (720p)
+#EXTINF:-1 tvg-id="FunnyorDie.us" tvg-logo="https://i.imgur.com/PMMsywm.png" group-title="Misc",Funny or Die (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fx.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="",FX
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145954
-
-#EXTINF:-1 tvg-id="Fx.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="",FXX
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145956
-
-#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="",Glory Kickboxing (720p)
+#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="Misc",Glory Kickboxing (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hallmark.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1200px-Hallmark_Channel.svg.png" group-title="",HALLMARK CHANNEL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145962
-
-#EXTINF:-1 tvg-id="HumorMill.us" tvg-logo="https://i.imgur.com/lYqcF1P.png" group-title="",Humor Mill (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="HumorMill.us" tvg-logo="https://i.imgur.com/lYqcF1P.png" group-title="Misc",Humor Mill (1080p) [Not 24/7]
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
 
-#EXTINF:-1 tvg-id="HuntChannel.us" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="",Hunt Channel (1080p)
+#EXTINF:-1 tvg-id="HuntChannel.us" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Misc",Hunt Channel (1080p)
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
-#EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="",IFC East (720p)
-https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="",ION
+#EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Misc",ION
 https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png" group-title="",ION Mystery (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png" group-title="Misc",ION Mystery (1080p)
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/55241/s55241_h3_aa.png" group-title="",Ion Plus (1080p)
+#EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/55241/s55241_h3_aa.png" group-title="Misc",Ion Plus (1080p)
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us" tvg-logo="https://www.lyngsat.com/logo/tv/ii/its_supernatural_network_us.png" group-title="",It's Supernatural! Network (ISN Network) (1080p)
+#EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us" tvg-logo="https://www.lyngsat.com/logo/tv/ii/its_supernatural_network_us.png" group-title="Misc",It's Supernatural! Network (ISN Network) (1080p)
 https://isntv.mmdlive.lldns.net/isntv/f79b65204e7141c6a5cc74e63cf0dae5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="",Just for Laughs Gags (720p)
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="Misc",Just for Laughs Gags (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="lifetime.us" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/4/2021/03/11131921/Lifetime_Logo_Rosex500.png" group-title="",LIFETIME
+#EXTINF:-1 tvg-id="lifetime.us" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/4/2021/03/11131921/Lifetime_Logo_Rosex500.png" group-title="Misc",LIFETIME
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145975
 
-#EXTINF:-1 tvg-id="LoneStar.us" tvg-logo="https://od.lk/s/MF8yMzMxMzM1NzJf/LoneStar_250x250.png" group-title="",Lone Star (1080p)
+#EXTINF:-1 tvg-id="LoneStar.us" tvg-logo="https://od.lk/s/MF8yMzMxMzM1NzJf/LoneStar_250x250.png" group-title="Misc",Lone Star (1080p)
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MMAJunkie.us" tvg-logo="https://i.imgur.com/nSUiODh.jpg" group-title="",MMA Junkie
+#EXTINF:-1 tvg-id="MMAJunkie.us" tvg-logo="https://i.imgur.com/nSUiODh.jpg" group-title="Misc",MMA Junkie
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="",MovieSphere (1080p)
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Misc",MovieSphere (1080p)
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyTimemovienetwork.us" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="",MyTime movie network (1080p)
+#EXTINF:-1 tvg-id="MyTimemovienetwork.us" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Misc",MyTime movie network (1080p)
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CJONDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="",Newfoundland Television (480p)
+#EXTINF:-1 tvg-id="CJONDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="Misc",Newfoundland Television (480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ca" tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV (Newfoundland) (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="NTV.ca" tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="Misc",NTV (Newfoundland) (576p) [Not 24/7]
 https://2-fss-1.streamhoster.com/pl_122/201748-1282644-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NoseyDivorceCourt.us" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="",Nosey Divorce Court (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NoseyDivorceCourt.us" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="Misc",Nosey Divorce Court (720p) [Not 24/7]
 https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e76d1474f9020c06f9ee_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NoseyJerrySpringer.us" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="",Nosey Jerry Springer
+#EXTINF:-1 tvg-id="NoseyJerrySpringer.us" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="Misc",Nosey Jerry Springer
 https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e7f848f1ff2e1d2555a2_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NoseyJudgeKarensCourt.us" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="",Nosey Judge Karen's Court (480p)
+#EXTINF:-1 tvg-id="NoseyJudgeKarensCourt.us" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="Misc",Nosey Judge Karen's Court (480p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NoseyMaury.us" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="",Nosey Maury
+#EXTINF:-1 tvg-id="NoseyMaury.us" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="Misc",Nosey Maury
 https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e88458ad7801fa2cfc2e_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NoseySteveWilkos.us" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="",Nosey Steve Wilkos
+#EXTINF:-1 tvg-id="NoseySteveWilkos.us" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="Misc",Nosey Steve Wilkos
 https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e84c95ee0253b97679d7_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://simultv.com/wp-content/uploads/2021/11/Ready_Set_Action.jpg" group-title="",Ready Set Action (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://simultv.com/wp-content/uploads/2021/11/Ready_Set_Action.jpg" group-title="Misc",Ready Set Action (720p)
 https://simultv.s.llnwi.net/o059/ReadySetAction/interlink.m3u8
 
-#EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="",Redbox 1: Spotlight (1080p)
+#EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="Misc",Redbox 1: Spotlight (1080p)
 https://spotlight-redbox.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedboxComedy.us" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="",Redbox 2: Comedy (1080p)
+#EXTINF:-1 tvg-id="RedboxComedy.us" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Misc",Redbox 2: Comedy (1080p)
 https://comedy-redbox.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedboxRush.us" tvg-logo="https://i.imgur.com/pA6g3iH.jpg" group-title="",Redbox 3: Rush (1080p)
+#EXTINF:-1 tvg-id="RedboxRush.us" tvg-logo="https://i.imgur.com/pA6g3iH.jpg" group-title="Misc",Redbox 3: Rush (1080p)
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Reelz.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="",Reelz Channel
+#EXTINF:-1 tvg-id="Reelz.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="Misc",Reelz Channel
 https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ReelzChannelXUMO.us" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="",Reelz Channel (XUMO) (720p)
+#EXTINF:-1 tvg-id="ReelzChannelXUMO.us" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="Misc",Reelz Channel (XUMO) (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="",Retro TV (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="Misc",Retro TV (720p)
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KCKSLD9.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="",Retro TV (KCKS-LD9) (480p)
+#EXTINF:-1 tvg-id="KCKSLD9.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="Misc",Retro TV (KCKS-LD9) (480p)
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pcmag.com/imagery/reviews/03Qx3rokUFhvyC5YyDnvqVT-1..v1586275702.png" group-title="",RetroCrush TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pcmag.com/imagery/reviews/03Qx3rokUFhvyC5YyDnvqVT-1..v1586275702.png" group-title="Misc",RetroCrush TV (1080p)
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=491&ads.wurl_name=RetroCrush
 
-#EXTINF:-1 tvg-id="SundanceTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png" group-title="",Sundance East (720p)
+#EXTINF:-1 tvg-id="SundanceTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png" group-title="Misc",Sundance East (720p)
 https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="",TBS East (720p) 
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="Misc",TBS East (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="",TBS West (720p) 
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="Misc",TBS West (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="",TCM East (720p) 
+#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="Misc",TCM East (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id="TCMWest.us" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="",TCM West (720p) 
+#EXTINF:-1 tvg-id="TCMWest.us" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="Misc",TCM West (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="",TNT East (720p) 
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Misc",TNT East (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="",TNT West (720p) 
+#EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Misc",TNT West (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="truTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="",truTV East (720p) 
+#EXTINF:-1 tvg-id="truTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="Misc",truTV East (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="truTVWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="",truTV West (720p) 
+#EXTINF:-1 tvg-id="truTVWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="Misc",truTV West (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TVSCipherNetwork.us" tvg-logo="https://i.imgur.com/yyz1S2W.png" group-title="",TVS Cipher Network (360p)
+#EXTINF:-1 tvg-id="TVSCipherNetwork.us" tvg-logo="https://i.imgur.com/yyz1S2W.png" group-title="Misc",TVS Cipher Network (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-logo="https://i.imgur.com/VLWDHGs.png" group-title="",TVS Classic Movies (288p)
+#EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-logo="https://i.imgur.com/VLWDHGs.png" group-title="Misc",TVS Classic Movies (288p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-logo="https://i.imgur.com/ui099xQ.jpg" group-title="",TVS Classic Sports (360p)
+#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-logo="https://i.imgur.com/ui099xQ.jpg" group-title="Misc",TVS Classic Sports (360p)
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSComedyNetwork.us" tvg-logo="https://i.imgur.com/lHvWCyV.jpg" group-title="",TVS Comedy Network (720p)
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us" tvg-logo="https://i.imgur.com/lHvWCyV.jpg" group-title="Misc",TVS Comedy Network (720p)
 https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" group-title="",TVS Drive In Movie (360p)
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" group-title="Misc",TVS Drive In Movie (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSFamilyChannel.us" tvg-logo="https://i.imgur.com/iuQyJ7f.jpg" group-title="",TVS Family Channel (360p)
+#EXTINF:-1 tvg-id="TVSFamilyChannel.us" tvg-logo="https://i.imgur.com/iuQyJ7f.jpg" group-title="Misc",TVS Family Channel (360p)
 https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSFilmNoirNetwork.us" tvg-logo="https://i.imgur.com/A4yWhQw.png" group-title="",TVS Film Noir Network (720p)
+#EXTINF:-1 tvg-id="TVSFilmNoirNetwork.us" tvg-logo="https://i.imgur.com/A4yWhQw.png" group-title="Misc",TVS Film Noir Network (720p)
 https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSFrontPageDetective.us" tvg-logo="https://i.imgur.com/1YHIbZB.png" group-title="",TVS Front Page Detective (720p)
+#EXTINF:-1 tvg-id="TVSFrontPageDetective.us" tvg-logo="https://i.imgur.com/1YHIbZB.png" group-title="Misc",TVS Front Page Detective (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSHiTops.us" tvg-logo="https://i.imgur.com/WM95rZ5.png" group-title="",TVS Hi Tops (720p)
+#EXTINF:-1 tvg-id="TVSHiTops.us" tvg-logo="https://i.imgur.com/WM95rZ5.png" group-title="Misc",TVS Hi Tops (720p)
 https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="",TVS Hollywood History (582p)
+#EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="Misc",TVS Hollywood History (582p)
 https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
 
-#EXTINF:-1 tvg-id="TVSHorrorNetwork.us" tvg-logo="https://i.imgur.com/uNQeGHw.jpg" group-title="",TVS Horror Network (476p)
+#EXTINF:-1 tvg-id="TVSHorrorNetwork.us" tvg-logo="https://i.imgur.com/uNQeGHw.jpg" group-title="Misc",TVS Horror Network (476p)
 https://rpn1.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSMainstreet.us" tvg-logo="https://i.imgur.com/37OGfa3.jpg" group-title="",TVS Mainstreet (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVSMainstreet.us" tvg-logo="https://i.imgur.com/37OGfa3.jpg" group-title="Misc",TVS Mainstreet (360p) [Not 24/7]
 https://rpn1.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSNostalgia.us" tvg-logo="https://i.imgur.com/nhDYJyS.png" group-title="",TVS Nostalgia (472p)
+#EXTINF:-1 tvg-id="TVSNostalgia.us" tvg-logo="https://i.imgur.com/nhDYJyS.png" group-title="Misc",TVS Nostalgia (472p)
 https://rpn1.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" group-title="",TVS Nostalgia Movies (480p)
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" group-title="Misc",TVS Nostalgia Movies (480p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSQuizShowNetwork.us" tvg-logo="https://i.imgur.com/f6wNKHW.png" group-title="",TVS Quiz Show Network (720p)
+#EXTINF:-1 tvg-id="TVSQuizShowNetwork.us" tvg-logo="https://i.imgur.com/f6wNKHW.png" group-title="Misc",TVS Quiz Show Network (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSSelectNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="",TVS Select Network (720p)
+#EXTINF:-1 tvg-id="TVSSelectNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Misc",TVS Select Network (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSSports.us" tvg-logo="https://i.imgur.com/OFO86K5.jpg" group-title="",TVS Sports (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVSSports.us" tvg-logo="https://i.imgur.com/OFO86K5.jpg" group-title="Misc",TVS Sports (720p) [Not 24/7]
 https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSTallyHo.us" tvg-logo="https://i.imgur.com/t0ly2m8.jpg" group-title="",TVS Tally Ho (360p)
+#EXTINF:-1 tvg-id="TVSTallyHo.us" tvg-logo="https://i.imgur.com/t0ly2m8.jpg" group-title="Misc",TVS Tally Ho (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSTavern.us" tvg-logo="https://i.imgur.com/5UjqDht.jpg" group-title="",TVS Tavern (480p)
+#EXTINF:-1 tvg-id="TVSTavern.us" tvg-logo="https://i.imgur.com/5UjqDht.jpg" group-title="Misc",TVS Tavern (480p)
 https://rpn1.bozztv.com/36bay2/gusa-tavern/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="",TVS Television Network (480p)
+#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Misc",TVS Television Network (480p)
 https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSTodayHomeEntertainmentNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="",TVS Today Home Entertainment Network (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVSTodayHomeEntertainmentNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Misc",TVS Today Home Entertainment Network (720p) [Not 24/7]
 https://rpn1.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSTurbo.us" tvg-logo="https://i.imgur.com/RMewTGr.jpg" group-title="",TVS Turbo (360p)
+#EXTINF:-1 tvg-id="TVSTurbo.us" tvg-logo="https://i.imgur.com/RMewTGr.jpg" group-title="Misc",TVS Turbo (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-logo="https://i.imgur.com/UsgbmfF.png" group-title="",TVS Western Movie (270p)
+#EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-logo="https://i.imgur.com/UsgbmfF.png" group-title="Misc",TVS Western Movie (270p)
 https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 
 <!--Sports CHANNELS-->
