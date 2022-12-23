@@ -69,9 +69,6 @@ http://megatv.me:5890/1122334455/1122334455/216130
 #EXTINF:-1 tvg-id="I623.76955.zap2it.com" tvg-name="BeIN Sports HD" tvg-logo="" group-title="Sports",BeIN Sports HD
 http://megatv.me:5890/1122334455/1122334455/216131
 
-#EXTINF:-1 tvg-id="I924.73142.zap2it.com" tvg-name="Tva Sports 1 HD" tvg-logo="" group-title="Sports",Tva Sports 1 HD
-http://megatv.me:5890/1122334455/1122334455/216132
-
 #EXTINF:-1 tvg-id="I632.53242.zap2it.com" tvg-name="NBA TV HD" tvg-logo="" group-title="Sports",NBA TV HD
 http://megatv.me:5890/1122334455/1122334455/216133
 
@@ -273,7 +270,7 @@ http://megatv.me:5890/1122334455/1122334455/216343
 #EXTINF:-1 tvg-id="" tvg-name="IFC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/1200px-IFC_2018_logo.svg.png" group-title="Entertainment",IFC HD
 http://megatv.me:5890/1122334455/1122334455/216345
 
-#EXTINF:-1 tvg-id="I540.76799.zap2it.com" tvg-name="ID" tvg-logo="" group-title="Entertainment",ID
+#EXTINF:-1 tvg-id="I540.76799.zap2it.com" tvg-name="Investigation Discovery" tvg-logo="" group-title="Entertainment",Investigation Discovery
 http://megatv.me:5890/1122334455/1122334455/216346
 
 #EXTINF:-1 tvg-id="I452.64549.zap2it.com" tvg-name="HLN" tvg-logo="" group-title="Entertainment",HLN
