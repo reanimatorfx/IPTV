@@ -66,7 +66,7 @@ http://megatv.me:5890/1122334455/1122334455/216142
 #EXTINF:-1 tvg-id="I446.54743.zap2it.com" tvg-name="Nat Geo HD" tvg-logo="" group-title="Entertainment",Nat Geo HD
 http://megatv.me:5890/1122334455/1122334455/216143
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET PPV" tvg-logo="" group-title="Sports",SPORTSNET PPV
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET PPV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SCAS2022.png" group-title="Sports",SPORTSNET PPV
 http://megatv.me:5890/1122334455/1122334455/216144
 
 #EXTINF:-1 tvg-id="I455.76792.zap2it.com" tvg-name="E! Entertainment HD" tvg-logo="" group-title="Entertainment",E! Entertainment HD
@@ -111,7 +111,7 @@ http://megatv.me:5890/1122334455/1122334455/216157
 #EXTINF:-1 tvg-id="I425.72484.zap2it.com" tvg-name="CTV SCI-FI" tvg-logo="" group-title="Entertainment",CTV SCI-FI
 http://megatv.me:5890/1122334455/1122334455/216158
 
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Entertainment",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Entertainment",Nat Geo Wild HD
 http://megatv.me:5890/1122334455/1122334455/216159
 
 #EXTINF:-1 tvg-id="I415.55097.zap2it.com" tvg-name="A&E HD" tvg-logo="" group-title="Entertainment",A&E HD
@@ -396,7 +396,7 @@ http://megatv.me:5890/1122334455/1122334455/216405
 #EXTINF:-1 tvg-id="I433.34200.zap2it.com" tvg-name="CITY TORONTO" tvg-logo="" group-title="Entertainment",CITY TORONTO
 http://megatv.me:5890/1122334455/1122334455/216406
 
-#EXTINF:-1 tvg-id="CJNTDT" tvg-name="CITY MONTREAL" tvg-logo="" group-title="Entertainment",CITY MONTREAL
+#EXTINF:-1 tvg-id="I467.72895.zap2it.com" tvg-name="CITY MONTREAL" tvg-logo="" group-title="Entertainment",CITY MONTREAL
 http://megatv.me:5890/1122334455/1122334455/216407
 
 #EXTINF:-1 tvg-id="I432.60123.zap2it.com" tvg-name="CHCH" tvg-logo="" group-title="Entertainment",CHCH
