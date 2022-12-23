@@ -42,7 +42,7 @@ http://megatv.me:5890/1122334455/1122334455/216131
 #EXTINF:-1 tvg-id="I924.73142.zap2it.com" tvg-name="Tva Sports 1 HD" tvg-logo="" group-title="Sports",Tva Sports 1 HD
 http://megatv.me:5890/1122334455/1122334455/216132
 
-#EXTINF:-1 tvg-id="I632.53242.zap2it.com" tvg-name="NBA TV HD (R)" tvg-logo="" group-title="Sports",NBA TV HD (R)
+#EXTINF:-1 tvg-id="I632.53242.zap2it.com" tvg-name="NBA TV HD" tvg-logo="" group-title="Sports",NBA TV HD
 http://megatv.me:5890/1122334455/1122334455/216133
 
 #EXTINF:-1 tvg-id="I620.83116.zap2it.com" tvg-name="NFL Network HD" tvg-logo="" group-title="Sports",NFL Network HD
@@ -66,7 +66,7 @@ http://megatv.me:5890/1122334455/1122334455/216142
 #EXTINF:-1 tvg-id="I446.54743.zap2it.com" tvg-name="Nat Geo HD" tvg-logo="" group-title="Entertainment",Nat Geo HD
 http://megatv.me:5890/1122334455/1122334455/216143
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET PPV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SCAS2022.png" group-title="Sports",SPORTSNET PPV
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet PPV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SCAS2022.png" group-title="Sports",Sportsnet PPV
 http://megatv.me:5890/1122334455/1122334455/216144
 
 #EXTINF:-1 tvg-id="I455.76792.zap2it.com" tvg-name="E! Entertainment HD" tvg-logo="" group-title="Entertainment",E! Entertainment HD
@@ -132,64 +132,64 @@ http://megatv.me:5890/1122334455/1122334455/216285
 #EXTINF:-1 tvg-id="I580.20455.zap2it.com" tvg-name="WGN" tvg-logo="" group-title="Entertainment",WGN
 http://megatv.me:5890/1122334455/1122334455/216287
 
-#EXTINF:-1 tvg-id="I426.71332.zap2it.com" tvg-name="W NETWORK" tvg-logo="" group-title="Entertainment",W NETWORK
+#EXTINF:-1 tvg-id="I426.71332.zap2it.com" tvg-name="W Network" tvg-logo="" group-title="Entertainment",W Network
 http://megatv.me:5890/1122334455/1122334455/216289
 
-#EXTINF:-1 tvg-id="I458.102146.zap2it.com" tvg-name="VISION" tvg-logo="" group-title="Entertainment",VISION
+#EXTINF:-1 tvg-id="I458.102146.zap2it.com" tvg-name="Vision" tvg-logo="" group-title="Entertainment",Vision
 http://megatv.me:5890/1122334455/1122334455/216290
 
 #EXTINF:-1 tvg-id="I518.70583.zap2it.com" tvg-name="TVO" tvg-logo="" group-title="Entertainment",TVO
 http://megatv.me:5890/1122334455/1122334455/216291
 
-#EXTINF:-1 tvg-id="I500.80173.zap2it.com" tvg-name="TREEHOUSE" tvg-logo="" group-title="Kids",TREEHOUSE
+#EXTINF:-1 tvg-id="I500.80173.zap2it.com" tvg-name="Treehouse" tvg-logo="" group-title="Kids",Treehouse
 http://megatv.me:5890/1122334455/1122334455/216295
 
-#EXTINF:-1 tvg-id="I470.74863.zap2it.com" tvg-name="TRAVEL ESCAPE" tvg-logo="" group-title="Canada",TRAVEL ESCAPE
+#EXTINF:-1 tvg-id="I470.74863.zap2it.com" tvg-name="Travel Escape" tvg-logo="" group-title="Entertainment",Travel Escape
 http://megatv.me:5890/1122334455/1122334455/216296
 
-#EXTINF:-1 tvg-id="I405.72183.zap2it.com" tvg-name="THE WEATHER NETWORK" tvg-logo="" group-title="Entertainment",THE WEATHER NETWORK
+#EXTINF:-1 tvg-id="I405.72183.zap2it.com" tvg-name="The Weather Network" tvg-logo="" group-title="Entertainment",The Weather Network
 http://megatv.me:5890/1122334455/1122334455/216297
 
-#EXTINF:-1 tvg-id="I502.75456.zap2it.com" tvg-name="TELETOON EAST" tvg-logo="" group-title="Kids",TELETOON EAST
+#EXTINF:-1 tvg-id="I502.75456.zap2it.com" tvg-name="Teletoon East" tvg-logo="" group-title="Kids",Teletoon East
 http://megatv.me:5890/1122334455/1122334455/216302
 
 #EXTINF:-1 tvg-id="I581.67405.zap2it.com" tvg-name="TCM" tvg-logo="" group-title="Entertainment",TCM
 http://megatv.me:5890/1122334455/1122334455/216303
 
-#EXTINF:-1 tvg-id="I584.80167.zap2it.com" tvg-name="SUPER CHANNEL VAULT" tvg-logo="" group-title="Entertainment",SUPER CHANNEL VAULT
+#EXTINF:-1 tvg-id="I584.80167.zap2it.com" tvg-name="Super Channel Vault" tvg-logo="" group-title="Entertainment",Super Channel Vault
 http://megatv.me:5890/1122334455/1122334455/216304
 
-#EXTINF:-1 tvg-id="I583.58890.zap2it.com" tvg-name="SUPER CHANNEL HEART & HOME" tvg-logo="" group-title="Entertainment",SUPER CHANNEL HEART & HOME
+#EXTINF:-1 tvg-id="I583.58890.zap2it.com" tvg-name="Super Channel Heart & Home" tvg-logo="" group-title="Entertainment",Super Channel Heart & Home
 http://megatv.me:5890/1122334455/1122334455/216305
 
-#EXTINF:-1 tvg-id="I582.58882.zap2it.com" tvg-name="SUPER CHANNEL FUSE HD" tvg-logo="" group-title="Entertainment",SUPER CHANNEL FUSE HD
+#EXTINF:-1 tvg-id="I582.58882.zap2it.com" tvg-name="Super Channel Fuse HD" tvg-logo="" group-title="Entertainment",Super Channel Fuse HD
 http://megatv.me:5890/1122334455/1122334455/216306
 
-#EXTINF:-1 tvg-id="I642.60399.zap2it.com" tvg-name="SPORTSMAN CHANNEL" tvg-logo="" group-title="Sports",SPORTSMAN CHANNEL
+#EXTINF:-1 tvg-id="I642.60399.zap2it.com" tvg-name="Sportsman Channel" tvg-logo="" group-title="Sports",Sportsman Channel
 http://megatv.me:5890/1122334455/1122334455/216309
 
-#EXTINF:-1 tvg-id="I463.81618.zap2it.com" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="Entertainment",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="I463.81618.zap2it.com" tvg-name="Paramount Channel" tvg-logo="" group-title="Entertainment",Paramount Channel
 http://megatv.me:5890/1122334455/1122334455/216310
 
 #EXTINF:-1 tvg-id="I425.72484.zap2it.com" tvg-name="CTV SCI-FI" tvg-logo="" group-title="Entertainment",CTV SCI-FI
 http://megatv.me:5890/1122334455/1122334455/216311
 
-#EXTINF:-1 tvg-id="I447.53121.zap2it.com" tvg-name="SMITHSONIAN HD" tvg-logo="" group-title="Entertainment",SMITHSONIAN HD
+#EXTINF:-1 tvg-id="I447.53121.zap2it.com" tvg-name="Smithsonian HD" tvg-logo="" group-title="Entertainment",Smithsonian HD
 http://megatv.me:5890/1122334455/1122334455/216312
 
-#EXTINF:-1 tvg-id="I448.81282.zap2it.com" tvg-name="SLICE" tvg-logo="" group-title="Entertainment",SLICE
+#EXTINF:-1 tvg-id="I448.81282.zap2it.com" tvg-name="Slice" tvg-logo="" group-title="Entertainment",Slice
 http://megatv.me:5890/1122334455/1122334455/216313
 
-#EXTINF:-1 tvg-id="I586.108684.zap2it.com" tvg-name="SILVER SCREEN CLASSICS" tvg-logo="" group-title="Entertainment",SILVER SCREEN CLASSICS
+#EXTINF:-1 tvg-id="I586.108684.zap2it.com" tvg-name="Silver Screen Classics" tvg-logo="" group-title="Entertainment",Silver Screen Classics
 http://megatv.me:5890/1122334455/1122334455/216314
 
-#EXTINF:-1 tvg-id="I416.53711.zap2it.com" tvg-name="SHOWCASE EAST" tvg-logo="" group-title="Entertainment",SHOWCASE EAST
+#EXTINF:-1 tvg-id="I416.53711.zap2it.com" tvg-name="Showcase East" tvg-logo="" group-title="Entertainment",Showcase East
 http://megatv.me:5890/1122334455/1122334455/216315
 
-#EXTINF:-1 tvg-id="I418.32795.zap2it.com" tvg-name="PEACH TREE" tvg-logo="" group-title="Entertainment",PEACH TREE
+#EXTINF:-1 tvg-id="I418.32795.zap2it.com" tvg-name="Peach Tree TV" tvg-logo="" group-title="Entertainment",Peach Tree TV
 http://megatv.me:5890/1122334455/1122334455/216319
 
-#EXTINF:-1 tvg-id="I408.35013.zap2it.com" tvg-name="PBS EAST" tvg-logo="" group-title="Entertainment",PBS EAST
+#EXTINF:-1 tvg-id="I408.35013.zap2it.com" tvg-name="PBS EAST" tvg-logo="" group-title="Entertainment",PBS East
 http://megatv.me:5890/1122334455/1122334455/216320
 
 #EXTINF:-1 tvg-id="I428.71785.zap2it.com" tvg-name="OWN" tvg-logo="" group-title="Entertainment",OWN
@@ -207,10 +207,10 @@ http://megatv.me:5890/1122334455/1122334455/216326
 #EXTINF:-1 tvg-id="I404.72728.zap2it.com" tvg-name="NTV" tvg-logo="" group-title="Entertainment",NTV
 http://megatv.me:5890/1122334455/1122334455/216327
 
-#EXTINF:-1 tvg-id="I510.80175.zap2it.com" tvg-name="NICK" tvg-logo="" group-title="Kids",NICK
+#EXTINF:-1 tvg-id="I510.80175.zap2it.com" tvg-name="Nick" tvg-logo="" group-title="Kids",Nick
 http://megatv.me:5890/1122334455/1122334455/216328
 
-#EXTINF:-1 tvg-id="I409.91446.zap2it.com" tvg-name="NBC EAST" tvg-logo="" group-title="Entertainment",NBC EAST
+#EXTINF:-1 tvg-id="I409.91446.zap2it.com" tvg-name="NBC East" tvg-logo="" group-title="Entertainment",NBC East
 http://megatv.me:5890/1122334455/1122334455/216330
 
 #EXTINF:-1 tvg-id="I632.53242.zap2it.com" tvg-name="NBA TV" tvg-logo="" group-title="Sports",NBA TV
@@ -219,19 +219,19 @@ http://megatv.me:5890/1122334455/1122334455/216331
 #EXTINF:-1 tvg-id="I446.54743.zap2it.com" tvg-name="NAT GEO" tvg-logo="" group-title="Entertainment",NAT GEO
 http://megatv.me:5890/1122334455/1122334455/216332
 
-#EXTINF:-1 tvg-id="I424.72139.zap2it.com" tvg-name="MUCH MUSIC" tvg-logo="" group-title="Entertainment",MUCH MUSIC
+#EXTINF:-1 tvg-id="I424.72139.zap2it.com" tvg-name="MuchMusic" tvg-logo="" group-title="Entertainment",MuchMusic
 http://megatv.me:5890/1122334455/1122334455/216333
 
 #EXTINF:-1 tvg-id="I546.106150.zap2it.com" tvg-name="MTV 2" tvg-logo="" group-title="Entertainment",MTV 2
 http://megatv.me:5890/1122334455/1122334455/216334
 
-#EXTINF:-1 tvg-id="I522.67190.zap2it.com" tvg-name="MOVIETIME" tvg-logo="" group-title="Entertainment",MOVIETIME
+#EXTINF:-1 tvg-id="I522.67190.zap2it.com" tvg-name="Movietime" tvg-logo="" group-title="Entertainment",Movietime
 http://megatv.me:5890/1122334455/1122334455/216336
 
 #EXTINF:-1 tvg-id="I124.61036.zap2it.com" tvg-name="MAVTV" tvg-logo="" group-title="Sports",MAVTV
 http://megatv.me:5890/1122334455/1122334455/216340
 
-#EXTINF:-1 tvg-id="I457.46217.zap2it.com" tvg-name="MAKEFUL" tvg-logo="" group-title="Entertainment",MAKEFUL
+#EXTINF:-1 tvg-id="I457.46217.zap2it.com" tvg-name="Makeful" tvg-logo="" group-title="Entertainment",Makeful
 http://megatv.me:5890/1122334455/1122334455/216341
 
 #EXTINF:-1 tvg-id="I516.81202.zap2it.com" tvg-name="LIFETIME" tvg-logo="" group-title="Entertainment",LIFETIME
@@ -249,7 +249,7 @@ http://megatv.me:5890/1122334455/1122334455/216346
 #EXTINF:-1 tvg-id="I452.64549.zap2it.com" tvg-name="HLN" tvg-logo="" group-title="Entertainment",HLN
 http://megatv.me:5890/1122334455/1122334455/216347
 
-#EXTINF:-1 tvg-id="I429.65619.zap2it.com" tvg-name="HISTORY" tvg-logo="" group-title="Entertainment",HISTORY
+#EXTINF:-1 tvg-id="I429.65619.zap2it.com" tvg-name="History" tvg-logo="" group-title="Entertainment",History
 http://megatv.me:5890/1122334455/1122334455/216348
 
 #EXTINF:-1 tvg-id="I427.70676.zap2it.com" tvg-name="HGTV" tvg-logo="" group-title="Entertainment",HGTV
@@ -273,13 +273,13 @@ http://megatv.me:5890/1122334455/1122334455/216354
 #EXTINF:-1 tvg-id="I621.65385.zap2it.com" tvg-name="GOLF" tvg-logo="" group-title="Sports",GOLF
 http://megatv.me:5890/1122334455/1122334455/216355
 
-#EXTINF:-1 tvg-id="I439.60121.zap2it.com" tvg-name="GLOBAL BC" tvg-logo="" group-title="Entertainment",GLOBAL BC
+#EXTINF:-1 tvg-id="I439.60121.zap2it.com" tvg-name="Global BC" tvg-logo="" group-title="Entertainment",Global BC
 http://megatv.me:5890/1122334455/1122334455/216356
 
-#EXTINF:-1 tvg-id="I435.44792.zap2it.com" tvg-name="GLOBAL TORONTO" tvg-logo="" group-title="Entertainment",GLOBAL TORONTO
+#EXTINF:-1 tvg-id="I435.44792.zap2it.com" tvg-name="Global Toronto" tvg-logo="" group-title="Entertainment",Global Toronto
 http://megatv.me:5890/1122334455/1122334455/216357
 
-#EXTINF:-1 tvg-id="I403.72953.zap2it.com" tvg-name="GLOBAL MARITIMES" tvg-logo="" group-title="Entertainment",GLOBAL MARITIMES
+#EXTINF:-1 tvg-id="I403.72953.zap2it.com" tvg-name="Global Maritimes" tvg-logo="" group-title="Entertainment",Global Maritimes
 http://megatv.me:5890/1122334455/1122334455/216358
 
 #EXTINF:-1 tvg-id="I585.80168.zap2it.com" tvg-name="GINX ESPORTS TV" tvg-logo="" group-title="Sports",GINX ESPORTS TV
@@ -288,25 +288,25 @@ http://megatv.me:5890/1122334455/1122334455/216360
 #EXTINF:-1 tvg-id="I480.102147.zap2it.com" tvg-name="Game TV" tvg-logo="" group-title="Entertainment",Game TV
 http://megatv.me:5890/1122334455/1122334455/216361
 
-#EXTINF:-1 tvg-id="I443.21254.zap2it.com" tvg-name="FOX WEST" tvg-logo="" group-title="Entertainment",FOX WEST
+#EXTINF:-1 tvg-id="I443.21254.zap2it.com" tvg-name="FOX West" tvg-logo="" group-title="Entertainment",FOX West
 http://megatv.me:5890/1122334455/1122334455/216364
 
-#EXTINF:-1 tvg-id="I410.20362.zap2it.com" tvg-name="FOX EAST" tvg-logo="" group-title="Entertainment",FOX EAST
+#EXTINF:-1 tvg-id="I410.20362.zap2it.com" tvg-name="FOX East" tvg-logo="" group-title="Entertainment",FOX East
 http://megatv.me:5890/1122334455/1122334455/216366
 
-#EXTINF:-1 tvg-id="I419.73467.zap2it.com" tvg-name="FOOD NETWORK" tvg-logo="" group-title="Entertainment",FOOD NETWORK
+#EXTINF:-1 tvg-id="I419.73467.zap2it.com" tvg-name="Food Network" tvg-logo="" group-title="Entertainment",Food Network
 http://megatv.me:5890/1122334455/1122334455/216367
 
-#EXTINF:-1 tvg-id="I639.48099.zap2it.com" tvg-name="FIGHT NETWORK" tvg-logo="" group-title="Sports",FIGHT NETWORK
+#EXTINF:-1 tvg-id="I639.48099.zap2it.com" tvg-name="Fight Network" tvg-logo="" group-title="Sports",Fight Network
 http://megatv.me:5890/1122334455/1122334455/216368
 
-#EXTINF:-1 tvg-id="I503.70520.zap2it.com" tvg-name="FAMILY CHANNEL" tvg-logo="" group-title="Kids",FAMILY CHANNEL
+#EXTINF:-1 tvg-id="I503.70520.zap2it.com" tvg-name="Family Channel" tvg-logo="" group-title="Kids",Family Channel
 http://megatv.me:5890/1122334455/1122334455/216369
 
-#EXTINF:-1 tvg-id="I504.80695.zap2it.com" tvg-name="FAMILY JR" tvg-logo="" group-title="Kids",FAMILY JR
+#EXTINF:-1 tvg-id="I504.80695.zap2it.com" tvg-name="Family JR" tvg-logo="" group-title="Kids",Family JR
 http://megatv.me:5890/1122334455/1122334455/216370
 
-#EXTINF:-1 tvg-id="I505.72270.zap2it.com" tvg-name="WILDBRAIN TV" tvg-logo="" group-title="Kids",WILDBRAIN TV
+#EXTINF:-1 tvg-id="I505.72270.zap2it.com" tvg-name="Wildbrain TV" tvg-logo="" group-title="Kids",Wildbrain TV
 http://megatv.me:5890/1122334455/1122334455/216371
 
 #EXTINF:-1 tvg-id="I455.76792.zap2it.com" tvg-name="E!" tvg-logo="" group-title="Entertainment",E!
@@ -315,16 +315,16 @@ http://megatv.me:5890/1122334455/1122334455/216372
 #EXTINF:-1 tvg-id="I462.82747.zap2it.com" tvg-name="DTOUR" tvg-logo="" group-title="Entertainment",DTOUR
 http://megatv.me:5890/1122334455/1122334455/216373
 
-#EXTINF:-1 tvg-id="I459.98654.zap2it.com" tvg-name="MAGNOLIA NETWORK" tvg-logo="" group-title="Entertainment",Magnolia Network
+#EXTINF:-1 tvg-id="I459.98654.zap2it.com" tvg-name="Magnolia Network" tvg-logo="" group-title="Entertainment",Magnolia Network
 http://megatv.me:5890/1122334455/1122334455/216374
 
-#EXTINF:-1 tvg-id="I506.96507.zap2it.com" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="I506.96507.zap2it.com" tvg-name="Disney Channel" tvg-logo="" group-title="Kids",Disney Channel
 http://megatv.me:5890/1122334455/1122334455/216376
 
-#EXTINF:-1 tvg-id="I478.76887.zap2it.com" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Entertainment",Discovery Science
+#EXTINF:-1 tvg-id="I478.76887.zap2it.com" tvg-name="Discovery Science" tvg-logo="" group-title="Entertainment",Discovery Science
 http://megatv.me:5890/1122334455/1122334455/216377
 
-#EXTINF:-1 tvg-id="I430.72638.zap2it.com" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="Entertainment",Discovery Channel
+#EXTINF:-1 tvg-id="I430.72638.zap2it.com" tvg-name="Discovery Channel" tvg-logo="" group-title="Entertainment",Discovery Channel
 http://megatv.me:5890/1122334455/1122334455/216378
 
 #EXTINF:-1 tvg-id="" tvg-name="Dejaview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/DejaView_logo.svg/640px-DejaView_logo.svg.png" group-title="Entertainment",Dejaview
@@ -333,31 +333,31 @@ http://megatv.me:5890/1122334455/1122334455/216379
 #EXTINF:-1 tvg-id="I590.20373.zap2it.com" tvg-name="CW 11" tvg-logo="" group-title="Entertainment",CW 11
 http://megatv.me:5890/1122334455/1122334455/216381
 
-#EXTINF:-1 tvg-id="I170.44786.zap2it.com" tvg-name="CTV VANCOUVER" tvg-logo="" group-title="Entertainment",CTV VANCOUVER
+#EXTINF:-1 tvg-id="I170.44786.zap2it.com" tvg-name="CTV Vancouver" tvg-logo="" group-title="Entertainment",CTV Vancouver
 http://megatv.me:5890/1122334455/1122334455/216383
 
-#EXTINF:-1 tvg-id="I179.44784.zap2it.com" tvg-name="CTV TORONTO" tvg-logo="" group-title="Entertainment",CTV TORONTO
+#EXTINF:-1 tvg-id="I179.44784.zap2it.com" tvg-name="CTV Toronto" tvg-logo="" group-title="Entertainment",CTV Toronto
 http://megatv.me:5890/1122334455/1122334455/216384
 
-#EXTINF:-1 tvg-id="I79.68025.zap2it.com" tvg-name="CTV OTTAWA" tvg-logo="" group-title="Entertainment",CTV OTTAWA
+#EXTINF:-1 tvg-id="I79.68025.zap2it.com" tvg-name="CTV Ottawa" tvg-logo="" group-title="Entertainment",CTV Ottawa
 http://megatv.me:5890/1122334455/1122334455/216385
 
-#EXTINF:-1 tvg-id="I406.89746.zap2it.com" tvg-name="CTV NEWS Atlantic" tvg-logo="" group-title="Entertainment",CTV NEWS Atlantic
+#EXTINF:-1 tvg-id="I406.89746.zap2it.com" tvg-name="CTV News Atlantic" tvg-logo="" group-title="Entertainment",CTV News Atlantic
 http://megatv.me:5890/1122334455/1122334455/216386
 
-#EXTINF:-1 tvg-id="I80.65995.zap2it.com" tvg-name="CTV MONTREAL" tvg-logo="" group-title="Entertainment",CTV MONTREAL
+#EXTINF:-1 tvg-id="I80.65995.zap2it.com" tvg-name="CTV Montreal" tvg-logo="" group-title="Entertainment",CTV Montreal
 http://megatv.me:5890/1122334455/1122334455/216387
 
 #EXTINF:-1 tvg-id="I184.72780.zap2it.com" tvg-name="CTV Halifax" tvg-logo="" group-title="Entertainment",CTV Halifax
 http://megatv.me:5890/1122334455/1122334455/216388
 
-#EXTINF:-1 tvg-id="I87.62890.zap2it.com" tvg-name="CTV CALGARY" tvg-logo="" group-title="Entertainment",CTV CALGARY
+#EXTINF:-1 tvg-id="I87.62890.zap2it.com" tvg-name="CTV Calgary" tvg-logo="" group-title="Entertainment",CTV Calgary
 http://megatv.me:5890/1122334455/1122334455/216389
 
-#EXTINF:-1 tvg-id="I170.44786.zap2it.com" tvg-name="CTV 2 VANCOUVER" tvg-logo="" group-title="Entertainment",CTV 2 VANCOUVER
+#EXTINF:-1 tvg-id="I170.44786.zap2it.com" tvg-name="CTV 2 Vancouver" tvg-logo="" group-title="Entertainment",CTV 2 Vancouver
 http://megatv.me:5890/1122334455/1122334455/216390
 
-#EXTINF:-1 tvg-id="I539.26773.zap2it.com" tvg-name="CRIME INVESTIGATION" tvg-logo="" group-title="Entertainment",CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="I539.26773.zap2it.com" tvg-name="Crime Investigation" tvg-logo="" group-title="Entertainment",Crime Investigation
 http://megatv.me:5890/1122334455/1122334455/216391
 
 #EXTINF:-1 tvg-id="I577.65992.zap2it.com" tvg-name="CRAVE 4" tvg-logo="" group-title="Entertainment",CRAVE 4
@@ -375,10 +375,10 @@ http://megatv.me:5890/1122334455/1122334455/216395
 #EXTINF:-1 tvg-id="I63.17608.zap2it.com" tvg-name="CPAC" tvg-logo="" group-title="Entertainment",CPAC
 http://megatv.me:5890/1122334455/1122334455/216396
 
-#EXTINF:-1 tvg-id="I515.68012.zap2it.com" tvg-name="COTTAGE LIFE" tvg-logo="" group-title="Entertainment",COTTAGE LIFE
+#EXTINF:-1 tvg-id="I515.68012.zap2it.com" tvg-name="Cottage Life" tvg-logo="" group-title="Entertainment",Cottage Life
 http://megatv.me:5890/1122334455/1122334455/216399
 
-#EXTINF:-1 tvg-id="I521.71348.zap2it.com" tvg-name="COOKING CHANNEL" tvg-logo="" group-title="Entertainment",COOKING CHANNEL
+#EXTINF:-1 tvg-id="I521.71348.zap2it.com" tvg-name="Cooking Channel" tvg-logo="" group-title="Entertainment",Cooking Channel
 http://megatv.me:5890/1122334455/1122334455/216400
 
 #EXTINF:-1 tvg-id="I413.58646.zap2it.com" tvg-name="CNN" tvg-logo="" group-title="Entertainment",CNN
@@ -390,46 +390,46 @@ http://megatv.me:5890/1122334455/1122334455/216403
 #EXTINF:-1 tvg-id="I423.80176.zap2it.com" tvg-name="CMT" tvg-logo="" group-title="Entertainment",CMT
 http://megatv.me:5890/1122334455/1122334455/216404
 
-#EXTINF:-1 tvg-id="I468.67476.zap2it.com" tvg-name="CITY VANCOUVER" tvg-logo="" group-title="Entertainment",CITY VANCOUVER
+#EXTINF:-1 tvg-id="I468.67476.zap2it.com" tvg-name="CITY Vancouver" tvg-logo="" group-title="Entertainment",CITY Vancouver
 http://megatv.me:5890/1122334455/1122334455/216405
 
-#EXTINF:-1 tvg-id="I433.34200.zap2it.com" tvg-name="CITY TORONTO" tvg-logo="" group-title="Entertainment",CITY TORONTO
+#EXTINF:-1 tvg-id="I433.34200.zap2it.com" tvg-name="CITY Toronto" tvg-logo="" group-title="Entertainment",CITY Toronto
 http://megatv.me:5890/1122334455/1122334455/216406
 
-#EXTINF:-1 tvg-id="I467.72895.zap2it.com" tvg-name="CITY MONTREAL" tvg-logo="" group-title="Entertainment",CITY MONTREAL
+#EXTINF:-1 tvg-id="I467.72895.zap2it.com" tvg-name="CITY Montreal" tvg-logo="" group-title="Entertainment",CITY Montreal
 http://megatv.me:5890/1122334455/1122334455/216407
 
 #EXTINF:-1 tvg-id="I432.60123.zap2it.com" tvg-name="CHCH" tvg-logo="" group-title="Entertainment",CHCH
 http://megatv.me:5890/1122334455/1122334455/216409
 
-#EXTINF:-1 tvg-id="I440.86816.zap2it.com" tvg-name="CBS WEST" tvg-logo="" group-title="Entertainment",CBS WEST
+#EXTINF:-1 tvg-id="I440.86816.zap2it.com" tvg-name="CBS West" tvg-logo="" group-title="Entertainment",CBS West
 http://megatv.me:5890/1122334455/1122334455/216410
 
-#EXTINF:-1 tvg-id="I407.20431.zap2it.com" tvg-name="CBS EAST" tvg-logo="" group-title="Entertainment",CBS EAST
+#EXTINF:-1 tvg-id="I407.20431.zap2it.com" tvg-name="CBS East" tvg-logo="" group-title="Entertainment",CBS East
 http://megatv.me:5890/1122334455/1122334455/216411
 
-#EXTINF:-1 tvg-id="I437.51981.zap2it.com" tvg-name="CBC VANCOUVER" tvg-logo="" group-title="Entertainment",CBC VANCOUVER
+#EXTINF:-1 tvg-id="I437.51981.zap2it.com" tvg-name="CBC Vancouver" tvg-logo="" group-title="Entertainment",CBC Vancouver
 http://megatv.me:5890/1122334455/1122334455/216412
 
-#EXTINF:-1 tvg-id="I434.46245.zap2it.com" tvg-name="CBC TORONTO" tvg-logo="" group-title="Entertainment",CBC TORONTO
+#EXTINF:-1 tvg-id="I434.46245.zap2it.com" tvg-name="CBC Toronto" tvg-logo="" group-title="Entertainment",CBC Toronto
 http://megatv.me:5890/1122334455/1122334455/216413
 
-#EXTINF:-1 tvg-id="I400.72723.zap2it.com" tvg-name="CBC NOVA SCOTIA" tvg-logo="" group-title="Entertainment",CBC NOVA SCOTIA
+#EXTINF:-1 tvg-id="I400.72723.zap2it.com" tvg-name="CBC Nova Scotia" tvg-logo="" group-title="Entertainment",CBC Nova Scotia
 http://megatv.me:5890/1122334455/1122334455/216415
 
-#EXTINF:-1 tvg-id="I421.75971.zap2it.com" tvg-name="CBC NEWS" tvg-logo="" group-title="Entertainment",CBC NEWS
+#EXTINF:-1 tvg-id="I421.75971.zap2it.com" tvg-name="CBC News" tvg-logo="" group-title="Entertainment",CBC News
 http://megatv.me:5890/1122334455/1122334455/216416
 
-#EXTINF:-1 tvg-id="I507.76222.zap2it.com" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Entertainment",CARTOON NETWORK
+#EXTINF:-1 tvg-id="I507.76222.zap2it.com" tvg-name="Cartoon Network" tvg-logo="" group-title="Entertainment",Cartoon Network
 http://megatv.me:5890/1122334455/1122334455/216418
 
-#EXTINF:-1 tvg-id="I453.89690.zap2it.com" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="Entertainment",BBC WORLD NEWS
+#EXTINF:-1 tvg-id="I453.89690.zap2it.com" tvg-name="BBC World News" tvg-logo="" group-title="Entertainment",BBC World News
 http://megatv.me:5890/1122334455/1122334455/216420
 
 #EXTINF:-1 tvg-id="I450.53120.zap2it.com" tvg-name="BBC" tvg-logo="" group-title="Entertainment",BBC
 http://megatv.me:5890/1122334455/1122334455/216421
 
-#EXTINF:-1 tvg-id="I411.19596.zap2it.com" tvg-name="ABC EAST" tvg-logo="" group-title="Entertainment",ABC EAST
+#EXTINF:-1 tvg-id="I411.19596.zap2it.com" tvg-name="ABC East" tvg-logo="" group-title="Entertainment",ABC East
 http://megatv.me:5890/1122334455/1122334455/216423
 
 #EXTINF:-1 tvg-id="" tvg-name="Bravo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bravo_logo.svg/220px-Bravo_logo.svg.png" group-title="Entertainment",Bravo TV
