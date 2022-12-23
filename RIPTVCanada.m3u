@@ -488,3 +488,78 @@ http://megatv.me:5890/1122334455/1122334455/216442
 
 #EXTINF:-1 tvg-id="I509.74041.zap2it.com" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment",Animal Planet
 http://megatv.me:5890/1122334455/1122334455/216447
+
+#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="Entertainment",Adult Swim Aqua Teen Hunger Force (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimBlackJesus.us" tvg-logo="https://i.imgur.com/QWzEK8i.png" group-title="Entertainment",Adult Swim Black Jesus (1080p)
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimChannel5.us" tvg-logo="https://i.imgur.com/G9TyeCN.png" group-title="Entertainment",Adult Swim Channel 5 (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://otakudome.com/wp-content/uploads/2018/08/adult-swim1.jpg" group-title="Entertainment",Adult Swim Daily Animated (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://otakudome.com/wp-content/uploads/2018/08/adult-swim1.jpg" group-title="Entertainment",Adult Swim Daily Live Action (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimDreamCorpLLC.us" tvg-logo="https://i.imgur.com/reEE5HC.png" group-title="Entertainment",Adult Swim Dream Corp LLC (1080p) 
+http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim East (720p)
+https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/12/09/Home%20Movies.png" group-title="Entertainment",Adult Swim Home Movies (1080p)
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimInfomercials.us" tvg-logo="https://i.imgur.com/gu8luP0.png" group-title="Entertainment",Adult Swim Infomercials (1080p) 
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://i.imgur.com/bnZCZD2.png" group-title="Entertainment",Adult Swim Last Stream On The Left (1080p) 
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimMetalocalypse.us" tvg-logo="https://i.imgur.com/Efrbhk4.png" group-title="Entertainment",Adult Swim Metalocalypse (1080p) 
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdn.adultswim.com/uploads/20191113/191113178502-MrPicklesS02_Header_b81a17.png" group-title="Entertainment",Adult Swim Mr. Pickles (1080p) 
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="Entertainment",Adult Swim Off The Air (1080p) 
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/GenndyTartakovskyPrimal.jpg" group-title="Entertainment",Adult Swim Primal (1080p) 
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdn.adultswim.com/uploads/20210428/21428161947-rick-and-morty-logo-png.png" group-title="Entertainment",Adult Swim Rick and Morty (1080p) 
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="Entertainment",Adult Swim Robot Chicken (1080p) 
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="Entertainment",Adult Swim Samurai Jack (1080p) 
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdn.adultswim.com/uploads/20211107/21117198549-squidbillieswebHero.png" group-title="Entertainment",Adult Swim Squidbillies (1080p) 
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/12/09/superjail.png" group-title="Entertainment",Adult Swim Superjail! (1080p) 
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://i.imgur.com/HrMzEnX.png" group-title="Entertainment",Adult Swim The Eric Andre Show (1080p) 
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimTheVentureBros.us" tvg-logo="https://i.imgur.com/ZwNmt8Y.png" group-title="Entertainment",Adult Swim The Venture Bros. (1080p) 
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/07/11/Tim%20and%20Eric.png" group-title="Entertainment",Adult Swim Tim and Eric (1080p) 
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim West (720p)
+https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://otakudome.com/wp-content/uploads/2018/08/adult-swim1.jpg" group-title="Entertainment",Adult Swim Williams Stream (1080p) 
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimYourPrettyFaceIsGoingToHell.us" tvg-logo="https://i.imgur.com/uLoRE4F.png" group-title="Entertainment",Adult Swim Your Pretty Face Is Going To Hell (1080p) 
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
