@@ -33,6 +33,36 @@ http://megatv.me:5890/1122334455/1122334455/216128
 #EXTINF:-1 tvg-id="I613.61742.zap2it.com" tvg-name="Sportsnet West HD" tvg-logo="" group-title="Sports",Sportsnet West HD
 http://megatv.me:5890/1122334455/1122334455/216129
 
+#EXTINF:-1 tvg-id="" tvg-name="UFC | Event 1" tvg-logo="http://xatemo.pro/picons/sport/ufc.png" group-title="Sports",UFC | Event 1
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130822
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC | Event 2" tvg-logo="http://xatemo.pro/picons/sport/ufc.png" group-title="Sports",UFC | Event 2
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130821
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC | Event 3" tvg-logo="http://xatemo.pro/picons/sport/ufc.png" group-title="Sports",UFC | Event 3
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130820
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC | Event 4" tvg-logo="http://xatemo.pro/picons/sport/ufc.png" group-title="Sports",UFC | Event 4
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130819
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC | Event 5" tvg-logo="http://xatemo.pro/picons/sport/ufc.png" group-title="Sports",UFC | Event 5
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130818
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE | Event 1" tvg-logo="http://xatemo.pro/picons/sport/wwe.png" group-title="Sports",WWE | Event 1
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130837
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE | Event 2" tvg-logo="http://xatemo.pro/picons/sport/wwe.png" group-title="Sports",WWE | Event 2
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130836
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE | Event 3" tvg-logo="http://xatemo.pro/picons/sport/wwe.png" group-title="Sports",WWE | Event 3
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130835
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE | Event 4" tvg-logo="http://xatemo.pro/picons/sport/wwe.png" group-title="Sports",WWE | Event 4
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130834
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE | Event 5" tvg-logo="http://xatemo.pro/picons/sport/wwe.png" group-title="Sports",WWE | Event 5
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130833
+
 #EXTINF:-1 tvg-id="I639.48099.zap2it.com" tvg-name="Fight Network HD" tvg-logo="" group-title="Sports",Fight Network HD
 http://megatv.me:5890/1122334455/1122334455/216130
 
