@@ -1,0 +1,937 @@
+#EXTM3U x-tvg-url="https://www.dropbox.com/s/rox0ctv092zgb9r/RIPTV?dl=1"
+
+#EXTINF:-1 tvg-id="I600.34313.zap2it.com" tvg-name="TSN 1 HD" tvg-logo="" ,group-title="Sports",TSN 1 HD
+http://megatv.me:5890/1122334455/1122334455/216118
+
+#EXTINF:-1 tvg-id="I602.61474.zap2it.com" tvg-name="TSN 2 HD" tvg-logo="" ,group-title="Sports",TSN 2 HD
+http://megatv.me:5890/1122334455/1122334455/216119
+
+#EXTINF:-1 tvg-id="I603.90119.zap2it.com" tvg-name="TSN 3 HD" tvg-logo="" ,group-title="Sports",TSN 3 HD
+http://megatv.me:5890/1122334455/1122334455/216120
+
+#EXTINF:-1 tvg-id="I604.90123.zap2it.com" tvg-name="TSN 4 HD" tvg-logo="" ,group-title="Sports",TSN 4 HD
+http://megatv.me:5890/1122334455/1122334455/216121
+
+#EXTINF:-1 tvg-id="I605.90125.zap2it.com" tvg-name="TSN 5 HD" tvg-logo="" ,group-title="Sports",TSN 5 HD
+http://megatv.me:5890/1122334455/1122334455/216122
+
+#EXTINF:-1 tvg-id="I616.68859.zap2it.com" tvg-name="Sportsnet One HD" tvg-logo="" group-title="Sports",Sportsnet One HD
+http://megatv.me:5890/1122334455/1122334455/216124
+
+#EXTINF:-1 tvg-id="I612.62111.zap2it.com" tvg-name="Sportsnet Ontario HD" tvg-logo="" group-title="Sports",Sportsnet Ontario HD
+http://megatv.me:5890/1122334455/1122334455/216125
+
+#EXTINF:-1 tvg-id="I614.61714.zap2it.com" tvg-name="Sportsnet Pacific HD" tvg-logo="" group-title="Sports",Sportsnet Pacific HD
+http://megatv.me:5890/1122334455/1122334455/216126
+
+#EXTINF:-1 tvg-id="I615.49952.zap2it.com" tvg-name="Sportsnet 360 HD" tvg-logo="" group-title="Sports",Sportsnet 360 HD
+http://megatv.me:5890/1122334455/1122334455/216127
+
+#EXTINF:-1 tvg-id="I610.62109.zap2it.com" tvg-name="Sportsnet East HD" tvg-logo="" group-title="Sports",Sportsnet East HD
+http://megatv.me:5890/1122334455/1122334455/216128
+
+#EXTINF:-1 tvg-id="I613.61742.zap2it.com" tvg-name="Sportsnet West HD" tvg-logo="" group-title="Sports",Sportsnet West HD
+http://megatv.me:5890/1122334455/1122334455/216129
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC | Event 1" tvg-logo="http://xatemo.pro/picons/sport/ufc.png" group-title="Sports",UFC | Event 1
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130822
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC | Event 2" tvg-logo="http://xatemo.pro/picons/sport/ufc.png" group-title="Sports",UFC | Event 2
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130821
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC | Event 3" tvg-logo="http://xatemo.pro/picons/sport/ufc.png" group-title="Sports",UFC | Event 3
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130820
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC | Event 4" tvg-logo="http://xatemo.pro/picons/sport/ufc.png" group-title="Sports",UFC | Event 4
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130819
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC | Event 5" tvg-logo="http://xatemo.pro/picons/sport/ufc.png" group-title="Sports",UFC | Event 5
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130818
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE | Event 1" tvg-logo="http://xatemo.pro/picons/sport/wwe.png" group-title="Sports",WWE | Event 1
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130837
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE | Event 2" tvg-logo="http://xatemo.pro/picons/sport/wwe.png" group-title="Sports",WWE | Event 2
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130836
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE | Event 3" tvg-logo="http://xatemo.pro/picons/sport/wwe.png" group-title="Sports",WWE | Event 3
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130835
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE | Event 4" tvg-logo="http://xatemo.pro/picons/sport/wwe.png" group-title="Sports",WWE | Event 4
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130834
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE | Event 5" tvg-logo="http://xatemo.pro/picons/sport/wwe.png" group-title="Sports",WWE | Event 5
+http://ziutek.monster:8880/hbGzA0Sx/nzmUKtDq5J52wT7/130833
+
+#EXTINF:-1 tvg-id="I639.48099.zap2it.com" tvg-name="Fight Network HD" tvg-logo="" group-title="Sports",Fight Network HD
+http://megatv.me:5890/1122334455/1122334455/216130
+
+#EXTINF:-1 tvg-id="I623.76955.zap2it.com" tvg-name="BeIN Sports HD" tvg-logo="" group-title="Sports",BeIN Sports HD
+http://megatv.me:5890/1122334455/1122334455/216131
+
+#EXTINF:-1 tvg-id="I632.53242.zap2it.com" tvg-name="NBA TV HD" tvg-logo="" group-title="Sports",NBA TV HD
+http://megatv.me:5890/1122334455/1122334455/216133
+
+#EXTINF:-1 tvg-id="I620.83116.zap2it.com" tvg-name="NFL Network HD" tvg-logo="" group-title="Sports",NFL Network HD
+http://megatv.me:5890/1122334455/1122334455/216135
+
+#EXTINF:-1 tvg-id="I445.44794.zap2it.com" tvg-name="Discovery Velocity HD" tvg-logo="" group-title="Entertainment",Discovery Velocity HD
+http://megatv.me:5890/1122334455/1122334455/216136
+
+#EXTINF:-1 tvg-id="I540.76799.zap2it.com" tvg-name="Investigation Discovery HD" tvg-logo="" group-title=Entertainment",Investigation Discovery HD
+http://megatv.me:5890/1122334455/1122334455/216137
+
+#EXTINF:-1 tvg-id="I410.20362.zap2it.com" tvg-name="FOX 29 (WUTV) Buffalo" tvg-logo="" group-title="Entertainment",FOX 29 (WUTV) Buffalo
+http://megatv.me:5890/1122334455/1122334455/216139
+
+#EXTINF:-1 tvg-id="I545.81208.zap2it.com" tvg-name="H2 HD" tvg-logo="" group-title="Entertainment",H2 HD
+http://megatv.me:5890/1122334455/1122334455/216141
+
+#EXTINF:-1 tvg-id="I429.65619.zap2it.com" tvg-name="History HD" tvg-logo="" group-title="Entertainment",History HD
+http://megatv.me:5890/1122334455/1122334455/216142
+
+#EXTINF:-1 tvg-id="I446.54743.zap2it.com" tvg-name="Nat Geo HD" tvg-logo="" group-title="Entertainment",Nat Geo HD
+http://megatv.me:5890/1122334455/1122334455/216143
+
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet PPV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SCAS2022.png" group-title="Sports",Sportsnet PPV
+http://megatv.me:5890/1122334455/1122334455/216144
+
+#EXTINF:-1 tvg-id="I455.76792.zap2it.com" tvg-name="E! Entertainment HD" tvg-logo="" group-title="Entertainment",E! Entertainment HD
+http://megatv.me:5890/1122334455/1122334455/216145
+
+#EXTINF:-1 tvg-id="I419.73467.zap2it.com" tvg-name="Food Network HD" tvg-logo="" group-title="Entertainment",Food Network HD
+http://megatv.me:5890/1122334455/1122334455/216146
+
+#EXTINF:-1 tvg-id="I449.52745.zap2it.com" tvg-name="Love Nature HD" tvg-logo="" group-title="Entertainment",Love Nature HD
+http://megatv.me:5890/1122334455/1122334455/216147
+
+#EXTINF:-1 tvg-id="I507.76222.zap2it.com" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Kids",Cartoon Network HD
+http://megatv.me:5890/1122334455/1122334455/216148
+
+#EXTINF:-1 tvg-id="I506.96507.zap2it.com" tvg-name="Disney Channel HD" tvg-logo="" group-title="Kids",Disney Channel HD
+http://megatv.me:5890/1122334455/1122334455/216149
+
+#EXTINF:-1 tvg-id="I511.97312.zap2it.com" tvg-name="Disney Junior HD" tvg-logo="" group-title="Kids",Disney Junior HD
+http://megatv.me:5890/1122334455/1122334455/216150
+
+#EXTINF:-1 tvg-id="I512.97315.zap2it.com" tvg-name="Disney XD HD" tvg-logo="" group-title="Kids",Disney XD HD
+http://megatv.me:5890/1122334455/1122334455/216151
+
+#EXTINF:-1 tvg-id="I503.70520.zap2it.com" tvg-name="Family Jr HD" tvg-logo="" group-title="Kids",Family Jr HD
+http://megatv.me:5890/1122334455/1122334455/216152
+
+#EXTINF:-1 tvg-id="I510.80175.zap2it.com" tvg-name="Nickelodeon HD" tvg-logo="" group-title="Kids",Nickelodeon HD
+http://megatv.me:5890/1122334455/1122334455/216153
+
+#EXTINF:-1 tvg-id="I539.26773.zap2it.com" tvg-name="Crime & Investigation HD" tvg-logo="" group-title="Entertainment",Crime & Investigation HD
+http://megatv.me:5890/1122334455/1122334455/216154
+
+#EXTINF:-1 tvg-id="I430.72638.zap2it.com" tvg-name="Discovery Channel HD" tvg-logo="" group-title="Entertainment",Discovery Channel HD
+http://megatv.me:5890/1122334455/1122334455/216155
+
+#EXTINF:-1 tvg-id="I478.76887.zap2it.com" tvg-name="Discovery Science HD" tvg-logo="" group-title="Entertainment",Discovery Science HD
+http://megatv.me:5890/1122334455/1122334455/216156
+
+#EXTINF:-1 tvg-id="I621.65385.zap2it.com" tvg-name="Golf Channel HD" tvg-logo="" group-title="Sports",Golf Channel HD
+http://megatv.me:5890/1122334455/1122334455/216157
+
+#EXTINF:-1 tvg-id="I425.72484.zap2it.com" tvg-name="CTV SCI-FI" tvg-logo="" group-title="Entertainment",CTV SCI-FI
+http://megatv.me:5890/1122334455/1122334455/216158
+
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Entertainment",Nat Geo Wild HD
+http://megatv.me:5890/1122334455/1122334455/216159
+
+#EXTINF:-1 tvg-id="I415.55097.zap2it.com" tvg-name="A&E HD" tvg-logo="" group-title="Entertainment",A&E HD
+http://megatv.me:5890/1122334455/1122334455/216160
+
+#EXTINF:-1 tvg-id="I501.70827.zap2it.com" tvg-name="YTV E" tvg-logo="" group-title="Kids",YTV E
+http://megatv.me:5890/1122334455/1122334455/216282
+
+#EXTINF:-1 tvg-id="I501.70827.zap2it.com" tvg-name="YTV" tvg-logo="" group-title="Kids",YTV
+http://megatv.me:5890/1122334455/1122334455/216283
+
+#EXTINF:-1 tvg-id="I591.32723.zap2it.com" tvg-name="WSBK" tvg-logo="" group-title="Entertainment",WSBK
+http://megatv.me:5890/1122334455/1122334455/216285
+
+#EXTINF:-1 tvg-id="I580.20455.zap2it.com" tvg-name="WGN" tvg-logo="" group-title="Entertainment",WGN
+http://megatv.me:5890/1122334455/1122334455/216287
+
+#EXTINF:-1 tvg-id="I426.71332.zap2it.com" tvg-name="W Network" tvg-logo="" group-title="Entertainment",W Network
+http://megatv.me:5890/1122334455/1122334455/216289
+
+#EXTINF:-1 tvg-id="I458.102146.zap2it.com" tvg-name="Vision" tvg-logo="" group-title="Entertainment",Vision
+http://megatv.me:5890/1122334455/1122334455/216290
+
+#EXTINF:-1 tvg-id="I518.70583.zap2it.com" tvg-name="TVO" tvg-logo="" group-title="Entertainment",TVO
+http://megatv.me:5890/1122334455/1122334455/216291
+
+#EXTINF:-1 tvg-id="I500.80173.zap2it.com" tvg-name="Treehouse" tvg-logo="" group-title="Kids",Treehouse
+http://megatv.me:5890/1122334455/1122334455/216295
+
+#EXTINF:-1 tvg-id="I470.74863.zap2it.com" tvg-name="Travel Escape" tvg-logo="" group-title="Entertainment",Travel Escape
+http://megatv.me:5890/1122334455/1122334455/216296
+
+#EXTINF:-1 tvg-id="I405.72183.zap2it.com" tvg-name="The Weather Network" tvg-logo="" group-title="Entertainment",The Weather Network
+http://megatv.me:5890/1122334455/1122334455/216297
+
+#EXTINF:-1 tvg-id="I502.75456.zap2it.com" tvg-name="Teletoon East" tvg-logo="" group-title="Kids",Teletoon East
+http://megatv.me:5890/1122334455/1122334455/216302
+
+#EXTINF:-1 tvg-id="I581.67405.zap2it.com" tvg-name="TCM" tvg-logo="" group-title="Entertainment",TCM
+http://megatv.me:5890/1122334455/1122334455/216303
+
+#EXTINF:-1 tvg-id="I584.80167.zap2it.com" tvg-name="Super Channel Vault" tvg-logo="" group-title="Entertainment",Super Channel Vault
+http://megatv.me:5890/1122334455/1122334455/216304
+
+#EXTINF:-1 tvg-id="I583.58890.zap2it.com" tvg-name="Super Channel Heart & Home" tvg-logo="" group-title="Entertainment",Super Channel Heart & Home
+http://megatv.me:5890/1122334455/1122334455/216305
+
+#EXTINF:-1 tvg-id="I582.58882.zap2it.com" tvg-name="Super Channel Fuse HD" tvg-logo="" group-title="Entertainment",Super Channel Fuse HD
+http://megatv.me:5890/1122334455/1122334455/216306
+
+#EXTINF:-1 tvg-id="I642.60399.zap2it.com" tvg-name="Sportsman Channel" tvg-logo="" group-title="Sports",Sportsman Channel
+http://megatv.me:5890/1122334455/1122334455/216309
+
+#EXTINF:-1 tvg-id="I463.81618.zap2it.com" tvg-name="Paramount Channel" tvg-logo="" group-title="Entertainment",Paramount Channel
+http://megatv.me:5890/1122334455/1122334455/216310
+
+#EXTINF:-1 tvg-id="I425.72484.zap2it.com" tvg-name="CTV SCI-FI" tvg-logo="" group-title="Entertainment",CTV SCI-FI
+http://megatv.me:5890/1122334455/1122334455/216311
+
+#EXTINF:-1 tvg-id="I447.53121.zap2it.com" tvg-name="Smithsonian HD" tvg-logo="" group-title="Entertainment",Smithsonian HD
+http://megatv.me:5890/1122334455/1122334455/216312
+
+#EXTINF:-1 tvg-id="I448.81282.zap2it.com" tvg-name="Slice" tvg-logo="" group-title="Entertainment",Slice
+http://megatv.me:5890/1122334455/1122334455/216313
+
+#EXTINF:-1 tvg-id="I586.108684.zap2it.com" tvg-name="Silver Screen Classics" tvg-logo="" group-title="Entertainment",Silver Screen Classics
+http://megatv.me:5890/1122334455/1122334455/216314
+
+#EXTINF:-1 tvg-id="I416.53711.zap2it.com" tvg-name="Showcase East" tvg-logo="" group-title="Entertainment",Showcase East
+http://megatv.me:5890/1122334455/1122334455/216315
+
+#EXTINF:-1 tvg-id="I418.32795.zap2it.com" tvg-name="Peach Tree TV" tvg-logo="" group-title="Entertainment",Peach Tree TV
+http://megatv.me:5890/1122334455/1122334455/216319
+
+#EXTINF:-1 tvg-id="I408.35013.zap2it.com" tvg-name="PBS EAST" tvg-logo="" group-title="Entertainment",PBS East
+http://megatv.me:5890/1122334455/1122334455/216320
+
+#EXTINF:-1 tvg-id="I428.71785.zap2it.com" tvg-name="OWN" tvg-logo="" group-title="Entertainment",OWN
+http://megatv.me:5890/1122334455/1122334455/216321
+
+#EXTINF:-1 tvg-id="I544.78648.zap2it.com" tvg-name="OUTTV" tvg-logo="" group-title="Entertainment",OUTTV
+http://megatv.me:5890/1122334455/1122334455/216322
+
+#EXTINF:-1 tvg-id="I543.102175.zap2it.com" tvg-name="ONE" tvg-logo="" group-title="Entertainment",ONE
+http://megatv.me:5890/1122334455/1122334455/216323
+
+#EXTINF:-1 tvg-id="I622.72517.zap2it.com" tvg-name="OLN" tvg-logo="" group-title="Entertainment",OLN
+http://megatv.me:5890/1122334455/1122334455/216326
+
+#EXTINF:-1 tvg-id="I404.72728.zap2it.com" tvg-name="NTV" tvg-logo="" group-title="Entertainment",NTV
+http://megatv.me:5890/1122334455/1122334455/216327
+
+#EXTINF:-1 tvg-id="I510.80175.zap2it.com" tvg-name="Nick" tvg-logo="" group-title="Kids",Nick
+http://megatv.me:5890/1122334455/1122334455/216328
+
+#EXTINF:-1 tvg-id="I409.91446.zap2it.com" tvg-name="NBC East" tvg-logo="" group-title="Entertainment",NBC East
+http://megatv.me:5890/1122334455/1122334455/216330
+
+#EXTINF:-1 tvg-id="I632.53242.zap2it.com" tvg-name="NBA TV" tvg-logo="" group-title="Sports",NBA TV
+http://megatv.me:5890/1122334455/1122334455/216331
+
+#EXTINF:-1 tvg-id="I446.54743.zap2it.com" tvg-name="NAT GEO" tvg-logo="" group-title="Entertainment",NAT GEO
+http://megatv.me:5890/1122334455/1122334455/216332
+
+#EXTINF:-1 tvg-id="I424.72139.zap2it.com" tvg-name="MuchMusic" tvg-logo="" group-title="Entertainment",MuchMusic
+http://megatv.me:5890/1122334455/1122334455/216333
+
+#EXTINF:-1 tvg-id="I546.106150.zap2it.com" tvg-name="MTV 2" tvg-logo="" group-title="Entertainment",MTV 2
+http://megatv.me:5890/1122334455/1122334455/216334
+
+#EXTINF:-1 tvg-id="I522.67190.zap2it.com" tvg-name="Movietime" tvg-logo="" group-title="Entertainment",Movietime
+http://megatv.me:5890/1122334455/1122334455/216336
+
+#EXTINF:-1 tvg-id="I124.61036.zap2it.com" tvg-name="MAVTV" tvg-logo="" group-title="Sports",MAVTV
+http://megatv.me:5890/1122334455/1122334455/216340
+
+#EXTINF:-1 tvg-id="I457.46217.zap2it.com" tvg-name="Makeful" tvg-logo="" group-title="Entertainment",Makeful
+http://megatv.me:5890/1122334455/1122334455/216341
+
+#EXTINF:-1 tvg-id="I516.81202.zap2it.com" tvg-name="LIFETIME" tvg-logo="" group-title="Entertainment",LIFETIME
+http://megatv.me:5890/1122334455/1122334455/216342
+
+#EXTINF:-1 tvg-id="I592.19515.zap2it.com" tvg-name="KTLA" tvg-logo="" group-title="Entertainment",KTLA
+http://megatv.me:5890/1122334455/1122334455/216343
+
+#EXTINF:-1 tvg-id="" tvg-name="IFC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/1200px-IFC_2018_logo.svg.png" group-title="Entertainment",IFC HD
+http://megatv.me:5890/1122334455/1122334455/216345
+
+#EXTINF:-1 tvg-id="I540.76799.zap2it.com" tvg-name="Investigation Discovery" tvg-logo="" group-title="Entertainment",Investigation Discovery
+http://megatv.me:5890/1122334455/1122334455/216346
+
+#EXTINF:-1 tvg-id="I452.64549.zap2it.com" tvg-name="HLN" tvg-logo="" group-title="Entertainment",HLN
+http://megatv.me:5890/1122334455/1122334455/216347
+
+#EXTINF:-1 tvg-id="I429.65619.zap2it.com" tvg-name="History" tvg-logo="" group-title="Entertainment",History
+http://megatv.me:5890/1122334455/1122334455/216348
+
+#EXTINF:-1 tvg-id="I427.70676.zap2it.com" tvg-name="HGTV" tvg-logo="" group-title="Entertainment",HGTV
+http://megatv.me:5890/1122334455/1122334455/216349
+
+#EXTINF:-1 tvg-id="I573.61777.zap2it.com" tvg-name="HBO 2" tvg-logo="" group-title="Entertainment",HBO 2
+http://megatv.me:5890/1122334455/1122334455/216350
+
+#EXTINF:-1 tvg-id="I572.61568.zap2it.com" tvg-name="HBO 1" tvg-logo="" group-title="Entertainment",HBO 1
+http://megatv.me:5890/1122334455/1122334455/216351
+
+#EXTINF:-1 tvg-id="I545.81208.zap2it.com" tvg-name="H2" tvg-logo="" group-title="Entertainment",H2
+http://megatv.me:5890/1122334455/1122334455/216352
+
+#EXTINF:-1 tvg-id="I520.82984.zap2it.com" tvg-name="CTV Life" tvg-logo="" group-title="Entertainment",CTV Life
+http://megatv.me:5890/1122334455/1122334455/216353
+
+#EXTINF:-1 tvg-id="I469.68827.zap2it.com" tvg-name="GSN" tvg-logo="" group-title="Entertainment",GSN
+http://megatv.me:5890/1122334455/1122334455/216354
+
+#EXTINF:-1 tvg-id="I621.65385.zap2it.com" tvg-name="GOLF" tvg-logo="" group-title="Sports",GOLF
+http://megatv.me:5890/1122334455/1122334455/216355
+
+#EXTINF:-1 tvg-id="I439.60121.zap2it.com" tvg-name="Global BC" tvg-logo="" group-title="Entertainment",Global BC
+http://megatv.me:5890/1122334455/1122334455/216356
+
+#EXTINF:-1 tvg-id="I435.44792.zap2it.com" tvg-name="Global Toronto" tvg-logo="" group-title="Entertainment",Global Toronto
+http://megatv.me:5890/1122334455/1122334455/216357
+
+#EXTINF:-1 tvg-id="I403.72953.zap2it.com" tvg-name="Global Maritimes" tvg-logo="" group-title="Entertainment",Global Maritimes
+http://megatv.me:5890/1122334455/1122334455/216358
+
+#EXTINF:-1 tvg-id="I585.80168.zap2it.com" tvg-name="GINX ESPORTS TV" tvg-logo="" group-title="Sports",GINX ESPORTS TV
+http://megatv.me:5890/1122334455/1122334455/216360
+
+#EXTINF:-1 tvg-id="I480.102147.zap2it.com" tvg-name="Game TV" tvg-logo="" group-title="Entertainment",Game TV
+http://megatv.me:5890/1122334455/1122334455/216361
+
+#EXTINF:-1 tvg-id="I443.21254.zap2it.com" tvg-name="FOX West" tvg-logo="" group-title="Entertainment",FOX West
+http://megatv.me:5890/1122334455/1122334455/216364
+
+#EXTINF:-1 tvg-id="I410.20362.zap2it.com" tvg-name="FOX East" tvg-logo="" group-title="Entertainment",FOX East
+http://megatv.me:5890/1122334455/1122334455/216366
+
+#EXTINF:-1 tvg-id="I419.73467.zap2it.com" tvg-name="Food Network" tvg-logo="" group-title="Entertainment",Food Network
+http://megatv.me:5890/1122334455/1122334455/216367
+
+#EXTINF:-1 tvg-id="I639.48099.zap2it.com" tvg-name="Fight Network" tvg-logo="" group-title="Sports",Fight Network
+http://megatv.me:5890/1122334455/1122334455/216368
+
+#EXTINF:-1 tvg-id="I503.70520.zap2it.com" tvg-name="Family Channel" tvg-logo="" group-title="Kids",Family Channel
+http://megatv.me:5890/1122334455/1122334455/216369
+
+#EXTINF:-1 tvg-id="I504.80695.zap2it.com" tvg-name="Family JR" tvg-logo="" group-title="Kids",Family JR
+http://megatv.me:5890/1122334455/1122334455/216370
+
+#EXTINF:-1 tvg-id="I505.72270.zap2it.com" tvg-name="Wildbrain TV" tvg-logo="" group-title="Kids",Wildbrain TV
+http://megatv.me:5890/1122334455/1122334455/216371
+
+#EXTINF:-1 tvg-id="I455.76792.zap2it.com" tvg-name="E!" tvg-logo="" group-title="Entertainment",E!
+http://megatv.me:5890/1122334455/1122334455/216372
+
+#EXTINF:-1 tvg-id="I462.82747.zap2it.com" tvg-name="DTOUR" tvg-logo="" group-title="Entertainment",DTOUR
+http://megatv.me:5890/1122334455/1122334455/216373
+
+#EXTINF:-1 tvg-id="I459.98654.zap2it.com" tvg-name="Magnolia Network" tvg-logo="" group-title="Entertainment",Magnolia Network
+http://megatv.me:5890/1122334455/1122334455/216374
+
+#EXTINF:-1 tvg-id="I506.96507.zap2it.com" tvg-name="Disney Channel" tvg-logo="" group-title="Kids",Disney Channel
+http://megatv.me:5890/1122334455/1122334455/216376
+
+#EXTINF:-1 tvg-id="I478.76887.zap2it.com" tvg-name="Discovery Science" tvg-logo="" group-title="Entertainment",Discovery Science
+http://megatv.me:5890/1122334455/1122334455/216377
+
+#EXTINF:-1 tvg-id="I430.72638.zap2it.com" tvg-name="Discovery Channel" tvg-logo="" group-title="Entertainment",Discovery Channel
+http://megatv.me:5890/1122334455/1122334455/216378
+
+#EXTINF:-1 tvg-id="" tvg-name="Dejaview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/DejaView_logo.svg/640px-DejaView_logo.svg.png" group-title="Entertainment",Dejaview
+http://megatv.me:5890/1122334455/1122334455/216379
+
+#EXTINF:-1 tvg-id="I590.20373.zap2it.com" tvg-name="CW 11" tvg-logo="" group-title="Entertainment",CW 11
+http://megatv.me:5890/1122334455/1122334455/216381
+
+#EXTINF:-1 tvg-id="I170.44786.zap2it.com" tvg-name="CTV Vancouver" tvg-logo="" group-title="Entertainment",CTV Vancouver
+http://megatv.me:5890/1122334455/1122334455/216383
+
+#EXTINF:-1 tvg-id="I179.44784.zap2it.com" tvg-name="CTV Toronto" tvg-logo="" group-title="Entertainment",CTV Toronto
+http://megatv.me:5890/1122334455/1122334455/216384
+
+#EXTINF:-1 tvg-id="I79.68025.zap2it.com" tvg-name="CTV Ottawa" tvg-logo="" group-title="Entertainment",CTV Ottawa
+http://megatv.me:5890/1122334455/1122334455/216385
+
+#EXTINF:-1 tvg-id="I406.89746.zap2it.com" tvg-name="CTV News Atlantic" tvg-logo="" group-title="Entertainment",CTV News Atlantic
+http://megatv.me:5890/1122334455/1122334455/216386
+
+#EXTINF:-1 tvg-id="I80.65995.zap2it.com" tvg-name="CTV Montreal" tvg-logo="" group-title="Entertainment",CTV Montreal
+http://megatv.me:5890/1122334455/1122334455/216387
+
+#EXTINF:-1 tvg-id="I184.72780.zap2it.com" tvg-name="CTV Halifax" tvg-logo="" group-title="Entertainment",CTV Halifax
+http://megatv.me:5890/1122334455/1122334455/216388
+
+#EXTINF:-1 tvg-id="I87.62890.zap2it.com" tvg-name="CTV Calgary" tvg-logo="" group-title="Entertainment",CTV Calgary
+http://megatv.me:5890/1122334455/1122334455/216389
+
+#EXTINF:-1 tvg-id="I170.44786.zap2it.com" tvg-name="CTV 2 Vancouver" tvg-logo="" group-title="Entertainment",CTV 2 Vancouver
+http://megatv.me:5890/1122334455/1122334455/216390
+
+#EXTINF:-1 tvg-id="I539.26773.zap2it.com" tvg-name="Crime Investigation" tvg-logo="" group-title="Entertainment",Crime Investigation
+http://megatv.me:5890/1122334455/1122334455/216391
+
+#EXTINF:-1 tvg-id="I577.65992.zap2it.com" tvg-name="CRAVE 4" tvg-logo="" group-title="Entertainment",CRAVE 4
+http://megatv.me:5890/1122334455/1122334455/216392
+
+#EXTINF:-1 tvg-id="I576.65990.zap2it.com" tvg-name="CRAVE 3" tvg-logo="" group-title="Entertainment",CRAVE 3
+http://megatv.me:5890/1122334455/1122334455/216393
+
+#EXTINF:-1 tvg-id="I575.65988.zap2it.com" tvg-name="CRAVE 2" tvg-logo="" group-title="Entertainment",CRAVE 2
+http://megatv.me:5890/1122334455/1122334455/216394
+
+#EXTINF:-1 tvg-id="I574.33382.zap2it.com" tvg-name="CRAVE 1" tvg-logo="" group-title="Entertainment",CRAVE 1
+http://megatv.me:5890/1122334455/1122334455/216395
+
+#EXTINF:-1 tvg-id="I63.17608.zap2it.com" tvg-name="CPAC" tvg-logo="" group-title="Entertainment",CPAC
+http://megatv.me:5890/1122334455/1122334455/216396
+
+#EXTINF:-1 tvg-id="I515.68012.zap2it.com" tvg-name="Cottage Life" tvg-logo="" group-title="Entertainment",Cottage Life
+http://megatv.me:5890/1122334455/1122334455/216399
+
+#EXTINF:-1 tvg-id="I521.71348.zap2it.com" tvg-name="Cooking Channel" tvg-logo="" group-title="Entertainment",Cooking Channel
+http://megatv.me:5890/1122334455/1122334455/216400
+
+#EXTINF:-1 tvg-id="I413.58646.zap2it.com" tvg-name="CNN" tvg-logo="" group-title="Entertainment",CNN
+http://megatv.me:5890/1122334455/1122334455/216402
+
+#EXTINF:-1 tvg-id="I465.106080.zap2it.com" tvg-name="CNBC" tvg-logo="" group-title="Entertainment",CNBC
+http://megatv.me:5890/1122334455/1122334455/216403
+
+#EXTINF:-1 tvg-id="I423.80176.zap2it.com" tvg-name="CMT" tvg-logo="" group-title="Entertainment",CMT
+http://megatv.me:5890/1122334455/1122334455/216404
+
+#EXTINF:-1 tvg-id="I468.67476.zap2it.com" tvg-name="CITY Vancouver" tvg-logo="" group-title="Entertainment",CITY Vancouver
+http://megatv.me:5890/1122334455/1122334455/216405
+
+#EXTINF:-1 tvg-id="I433.34200.zap2it.com" tvg-name="CITY Toronto" tvg-logo="" group-title="Entertainment",CITY Toronto
+http://megatv.me:5890/1122334455/1122334455/216406
+
+#EXTINF:-1 tvg-id="I467.72895.zap2it.com" tvg-name="CITY Montreal" tvg-logo="" group-title="Entertainment",CITY Montreal
+http://megatv.me:5890/1122334455/1122334455/216407
+
+#EXTINF:-1 tvg-id="I432.60123.zap2it.com" tvg-name="CHCH" tvg-logo="" group-title="Entertainment",CHCH
+http://megatv.me:5890/1122334455/1122334455/216409
+
+#EXTINF:-1 tvg-id="I440.86816.zap2it.com" tvg-name="CBS West" tvg-logo="" group-title="Entertainment",CBS West
+http://megatv.me:5890/1122334455/1122334455/216410
+
+#EXTINF:-1 tvg-id="I407.20431.zap2it.com" tvg-name="CBS East" tvg-logo="" group-title="Entertainment",CBS East
+http://megatv.me:5890/1122334455/1122334455/216411
+
+#EXTINF:-1 tvg-id="I437.51981.zap2it.com" tvg-name="CBC Vancouver" tvg-logo="" group-title="Entertainment",CBC Vancouver
+http://megatv.me:5890/1122334455/1122334455/216412
+
+#EXTINF:-1 tvg-id="I434.46245.zap2it.com" tvg-name="CBC Toronto" tvg-logo="" group-title="Entertainment",CBC Toronto
+http://megatv.me:5890/1122334455/1122334455/216413
+
+#EXTINF:-1 tvg-id="I400.72723.zap2it.com" tvg-name="CBC Nova Scotia" tvg-logo="" group-title="Entertainment",CBC Nova Scotia
+http://megatv.me:5890/1122334455/1122334455/216415
+
+#EXTINF:-1 tvg-id="I421.75971.zap2it.com" tvg-name="CBC News" tvg-logo="" group-title="Entertainment",CBC News
+http://megatv.me:5890/1122334455/1122334455/216416
+
+#EXTINF:-1 tvg-id="I507.76222.zap2it.com" tvg-name="Cartoon Network" tvg-logo="" group-title="Entertainment",Cartoon Network
+http://megatv.me:5890/1122334455/1122334455/216418
+
+#EXTINF:-1 tvg-id="I453.89690.zap2it.com" tvg-name="BBC World News" tvg-logo="" group-title="Entertainment",BBC World News
+http://megatv.me:5890/1122334455/1122334455/216420
+
+#EXTINF:-1 tvg-id="I450.53120.zap2it.com" tvg-name="BBC" tvg-logo="" group-title="Entertainment",BBC
+http://megatv.me:5890/1122334455/1122334455/216421
+
+#EXTINF:-1 tvg-id="I411.19596.zap2it.com" tvg-name="ABC East" tvg-logo="" group-title="Entertainment",ABC East
+http://megatv.me:5890/1122334455/1122334455/216423
+
+#EXTINF:-1 tvg-id="" tvg-name="Bravo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bravo_logo.svg/220px-Bravo_logo.svg.png" group-title="Entertainment",Bravo TV
+http://megatv.me:5890/1122334455/1122334455/216426
+
+#EXTINF:-1 tvg-id="I514.73963.zap2it.com" tvg-name="BNN Bloomberg" tvg-logo="" group-title="Entertainment",BNN Bloomberg
+http://megatv.me:5890/1122334455/1122334455/216427
+
+#EXTINF:-1 tvg-id="I464.105157.zap2it.com" tvg-name="BET" tvg-logo="" group-title="Entertainment",BET
+http://megatv.me:5890/1122334455/1122334455/216428
+
+#EXTINF:-1 tvg-id="I414.61998.zap2it.com" tvg-name="APTN" tvg-logo="" group-title="Entertainment",APTN
+http://megatv.me:5890/1122334455/1122334455/216429
+
+#EXTINF:-1 tvg-id="I417.64831.zap2it.com" tvg-name="AMC" tvg-logo="" group-title="Entertainment",AMC
+http://megatv.me:5890/1122334455/1122334455/216430
+
+#EXTINF:-1 tvg-id="I444.19629.zap2it.com" tvg-name="ABC West" tvg-logo="" group-title="Entertainment",ABC West
+http://megatv.me:5890/1122334455/1122334455/216434
+
+#EXTINF:-1 tvg-id="I508.75117.zap2it.com" tvg-name="ABC Spark" tvg-logo="" group-title="Entertainment",ABC Spark
+http://megatv.me:5890/1122334455/1122334455/216435
+
+#EXTINF:-1 tvg-id="I415.55097.zap2it.com" tvg-name="A&E HD" tvg-logo="" group-title="Entertainment",A&E HD
+http://megatv.me:5890/1122334455/1122334455/216436
+
+#EXTINF:-1 tvg-id="I412.60645.zap2it.com" tvg-name="TLC" tvg-logo="" group-title="Entertainment",TLC
+http://megatv.me:5890/1122334455/1122334455/216442
+
+#EXTINF:-1 tvg-id="I509.74041.zap2it.com" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment",Animal Planet
+http://megatv.me:5890/1122334455/1122334455/216447
+
+#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="Entertainment",Adult Swim Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimBlackJesus.us" tvg-logo="https://i.imgur.com/QWzEK8i.png" group-title="Entertainment",Adult Swim Black Jesus
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimChannel5.us" tvg-logo="https://i.imgur.com/G9TyeCN.png" group-title="Entertainment",Adult Swim Channel 5
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://otakudome.com/wp-content/uploads/2018/08/adult-swim1.jpg" group-title="Entertainment",Adult Swim Daily Animated
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://otakudome.com/wp-content/uploads/2018/08/adult-swim1.jpg" group-title="Entertainment",Adult Swim Daily Live Action
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimDreamCorpLLC.us" tvg-logo="https://i.imgur.com/reEE5HC.png" group-title="Entertainment",Adult Swim Dream Corp LLC
+http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/12/09/Home%20Movies.png" group-title="Entertainment",Adult Swim Home Movies
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimInfomercials.us" tvg-logo="https://i.imgur.com/gu8luP0.png" group-title="Entertainment",Adult Swim Infomercials
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://i.imgur.com/bnZCZD2.png" group-title="Entertainment",Adult Swim Last Stream On The Left
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimMetalocalypse.us" tvg-logo="https://i.imgur.com/Efrbhk4.png" group-title="Entertainment",Adult Swim Metalocalypse
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdn.adultswim.com/uploads/20191113/191113178502-MrPicklesS02_Header_b81a17.png" group-title="Entertainment",Adult Swim Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="Entertainment",Adult Swim Off The Air
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/GenndyTartakovskyPrimal.jpg" group-title="Entertainment",Adult Swim Primal
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdn.adultswim.com/uploads/20210428/21428161947-rick-and-morty-logo-png.png" group-title="Entertainment",Adult Swim Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="Entertainment",Adult Swim Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="Entertainment",Adult Swim Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdn.adultswim.com/uploads/20211107/21117198549-squidbillieswebHero.png" group-title="Entertainment",Adult Swim Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/12/09/superjail.png" group-title="Entertainment",Adult Swim Superjail!
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://i.imgur.com/HrMzEnX.png" group-title="Entertainment",Adult Swim The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimTheVentureBros.us" tvg-logo="https://i.imgur.com/ZwNmt8Y.png" group-title="Entertainment",Adult Swim The Venture Bros.
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/07/11/Tim%20and%20Eric.png" group-title="Entertainment",Adult Swim Tim and Eric
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://otakudome.com/wp-content/uploads/2018/08/adult-swim1.jpg" group-title="Entertainment",Adult Swim Williams Stream
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimYourPrettyFaceIsGoingToHell.us" tvg-logo="https://i.imgur.com/uLoRE4F.png" group-title="Entertainment",Adult Swim Your Pretty Face Is Going To Hell
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
+
+#EXTINF:-1 tvg-id="I681.51529.zap2it.com" tvg-name="A&E TV HD US" tvg-logo="" group-title="Entertainment",A&E TV HD US
+http://megatv.me:5890/1122334455/1122334455/66595
+
+#EXTINF:-1 tvg-id="I731.59337.zap2it.com" tvg-name="AMC HD US" tvg-logo="" group-title="Entertainment",AMC HD US
+http://megatv.me:5890/1122334455/1122334455/66601
+
+#EXTINF:-1 tvg-id="I731.59337.zap2it.com" tvg-name="AMC US" tvg-logo="" group-title="Entertainment",AMC
+http://megatv.me:5890/1122334455/1122334455/66602
+
+#EXTINF:-1 tvg-id="I630.57394.zap2it.com" tvg-name="Animal Planet US" tvg-logo="" group-title="Entertainment",Animal Planet
+http://megatv.me:5890/1122334455/1122334455/66604
+
+#EXTINF:-1 tvg-id="I596.76950.zap2it.com" tvg-name="beINSports HD US" tvg-logo="" group-title="Sports",beINSports HD
+http://megatv.me:5890/1122334455/1122334455/66605
+
+#EXTINF:-1 tvg-id="I685.58625.zap2it.com" tvg-name="Bravo HD US" tvg-logo="" group-title="Entertainment",Bravo HD US
+http://megatv.me:5890/1122334455/1122334455/66611
+
+#EXTINF:-1 tvg-id="" tvg-name="Bravo US" tvg-logo="" group-title="Entertainment",Bravo US
+http://megatv.me:5890/1122334455/1122334455/66612
+
+#EXTINF:-1 tvg-id="I503.32744.zap2it.com" tvg-name="CW HD US" tvg-logo="" group-title="Entertainment",CW HD US
+http://megatv.me:5890/1122334455/1122334455/66620
+
+#EXTINF:-1 tvg-id="I757.60048.zap2it.com" tvg-name="Cartoon Network US" tvg-logo="" group-title="Kids",Cartoon Network US
+http://megatv.me:5890/1122334455/1122334455/66624
+
+#EXTINF:-1 tvg-id="I930.59961.zap2it.com" tvg-name="CineMax 5 StarMax US" tvg-logo="" group-title="Entertainment",CineMax 5 StarMax US
+http://megatv.me:5890/1122334455/1122334455/66625
+
+#EXTINF:-1 tvg-id="I924.59948.zap2it.com" tvg-name="CineMax ActionMax East US" tvg-logo="" group-title="Entertainment",CineMax ActionMax East US
+http://megatv.me:5890/1122334455/1122334455/66627
+
+#EXTINF:-1 tvg-id="I920.34933.zap2it.com" tvg-name="CineMax East US" tvg-logo="" group-title="Entertainment",CineMax East US
+http://megatv.me:5890/1122334455/1122334455/66628
+
+#EXTINF:-1 tvg-id="I922.59373.zap2it.com" tvg-name="CineMax MoreMax US" tvg-logo="" group-title="Entertainment",CineMax MoreMax US
+http://megatv.me:5890/1122334455/1122334455/66629
+
+#EXTINF:-1 tvg-id="I923.59375.zap2it.com" tvg-name="Cinemax More HD US" tvg-logo="" group-title="Entertainment",Cinemax More HD US
+http://megatv.me:5890/1122334455/1122334455/66631
+
+#EXTINF:-1 tvg-id="I926.59954.zap2it.com" tvg-name="Cinemax ThrillerMax FHD" tvg-logo="" group-title="Entertainment",Cinemax ThrillerMax FHD
+http://megatv.me:5890/1122334455/1122334455/142372
+
+#EXTINF:-1 tvg-id="I690.62420.zap2it.com" tvg-name="Comedy Central FHD US" tvg-logo="" group-title="Entertainment",Comedy Central FHD US
+http://megatv.me:5890/1122334455/1122334455/66632
+
+#EXTINF:-1 tvg-id="I690.62420.zap2it.com" tvg-name="Comedy Central US" tvg-logo="" group-title="Entertainment",Comedy Central US
+http://megatv.me:5890/1122334455/1122334455/66633
+
+#EXTINF:-1 tvg-id="" tvg-name="DIY Network HD US" tvg-logo="" group-title="Entertainment",DIY Network HD US
+http://megatv.me:5890/1122334455/1122334455/66634
+
+#EXTINF:-1 tvg-id="I574.45507.zap2it.com" tvg-name="ESPN 2 FHD US" tvg-logo="" group-title="Sports",ESPN 2 FHD US
+http://megatv.me:5890/1122334455/1122334455/66648
+
+#EXTINF:-1 tvg-id="I574.45507.zap2it.com" tvg-name="ESPN 2 US" tvg-logo="" group-title="Sports",ESPN 2 US
+http://megatv.me:5890/1122334455/1122334455/66649
+
+#EXTINF:-1 tvg-id="I570.32645.zap2it.com" tvg-name="ESPN HD US" tvg-logo="" group-title="Sports",ESPN HD US
+http://megatv.me:5890/1122334455/1122334455/66650
+
+#EXTINF:-1 tvg-id="I699.59615.zap2it.com" tvg-name="Free Form HD US" tvg-logo="" group-title="Entertainment",Free Form HD US
+http://megatv.me:5890/1122334455/1122334455/66673
+
+#EXTINF:-1 tvg-id="I699.59615.zap2it.com" tvg-name="FreeForm HD US" tvg-logo="" group-title="Entertainment",FreeForm HD US
+http://megatv.me:5890/1122334455/1122334455/66674
+
+#EXTINF:-1 tvg-id="I553.58574.zap2it.com" tvg-name="FX HD US" tvg-logo="" group-title="Entertainment",FX HD US
+http://megatv.me:5890/1122334455/1122334455/66653
+
+#EXTINF:-1 tvg-id="I553.58574.zap2it.com" tvg-name="FX US" tvg-logo="" group-title="Entertainment",FX US
+http://megatv.me:5890/1122334455/1122334455/66654
+
+#EXTINF:-1 tvg-id="I553.58574.zap2it.com" tvg-name="FX HD" tvg-logo="" group-title="Entertainment",FX HD
+http://megatv.me:5890/1122334455/1122334455/142415
+
+#EXTINF:-1 tvg-id="I691.66379.zap2it.com" tvg-name="FXX HD" tvg-logo="" group-title="Entertainment",FXX HD
+http://megatv.me:5890/1122334455/1122334455/142416
+
+#EXTINF:-1 tvg-id="I732.70253.zap2it.com" tvg-name="FXM" tvg-logo="" group-title="Entertainment",FXM
+http://megatv.me:5890/1122334455/1122334455/142457
+
+#EXTINF:-1 tvg-id="I908.59839.zap2it.com" tvg-name="HBO Comedy HD US" tvg-logo="" group-title="Entertainment",HBO Comedy HD US
+http://megatv.me:5890/1122334455/1122334455/66677
+
+#EXTINF:-1 tvg-id="I899.19548.zap2it.com" tvg-name="HBO East US" tvg-logo="" group-title="Entertainment",HBO East US
+http://megatv.me:5890/1122334455/1122334455/66678
+
+#EXTINF:-1 tvg-id="I906.59357.zap2it.com" tvg-name="HBO Family HD US" tvg-logo="" group-title="Entertainment",HBO Family HD US
+http://megatv.me:5890/1122334455/1122334455/66679
+
+#EXTINF:-1 tvg-id="I899.19548.zap2it.com" tvg-name="HBO HD US" tvg-logo="" group-title="Entertainment",HBO HD US
+http://megatv.me:5890/1122334455/1122334455/66680
+
+#EXTINF:-1 tvg-id="I904.59363.zap2it.com" tvg-name="HBO Signature HD US" tvg-logo="" group-title="Entertainment",HBO Signature HD US
+http://megatv.me:5890/1122334455/1122334455/66681
+
+#EXTINF:-1 tvg-id="I904.59363.zap2it.com" tvg-name="HBO Signature US" tvg-logo="" group-title="Entertainment",HBO Signature US
+http://megatv.me:5890/1122334455/1122334455/66682
+
+#EXTINF:-1 tvg-id="I899.19548.zap2it.com" tvg-name="HBO US" tvg-logo="" group-title="Entertainment",HBO US
+http://megatv.me:5890/1122334455/1122334455/66683
+
+#EXTINF:-1 tvg-id="I910.59845.zap2it.com" tvg-name="HBO Zone HD US" tvg-logo="" group-title="Entertainment",HBO Zone HD US
+http://megatv.me:5890/1122334455/1122334455/66684
+
+#EXTINF:-1 tvg-id="I740.66268.zap2it.com" tvg-name="Hallmark Channel HD US" tvg-logo="" group-title="Entertainment",Hallmark Channel HD US
+http://megatv.me:5890/1122334455/1122334455/66687
+
+#EXTINF:-1 tvg-id="I740.66268.zap2it.com" tvg-name="Hallmark US" tvg-logo="" group-title="Entertainment",Hallmark US
+http://megatv.me:5890/1122334455/1122334455/66688
+
+#EXTINF:-1 tvg-id="I739.46710.zap2it.com" tvg-name="Hallmark Movies & Mysteries HD US" tvg-logo="" group-title="Entertainment",Hallmark Movies & Mysteries HD US
+http://megatv.me:5890/1122334455/1122334455/66689
+
+#EXTINF:-1 tvg-id="I628.57708.zap2it.com" tvg-name="History HD US" tvg-logo="" group-title="Entertainment",History HD US
+http://megatv.me:5890/1122334455/1122334455/66690
+
+#EXTINF:-1 tvg-id="I628.57708.zap2it.com" tvg-name="History US" tvg-logo="" group-title="Entertainment",History US
+http://megatv.me:5890/1122334455/1122334455/66691
+
+#EXTINF:-1 tvg-id="I734.59444.zap2it.com" tvg-name="IFC HD US" tvg-logo="" group-title="Entertainment",IFC HD US
+http://megatv.me:5890/1122334455/1122334455/66692
+
+#EXTINF:-1 tvg-id="I623.65342.zap2it.com" tvg-name="Investigation Discovery HD US" tvg-logo="" group-title="Entertainment",Investigation Discovery HD US
+http://megatv.me:5890/1122334455/1122334455/66693
+
+#EXTINF:-1 tvg-id="I640.60150.zap2it.com" tvg-name="Lifetime HD US" tvg-logo="" group-title="Entertainment",Lifetime HD US
+http://megatv.me:5890/1122334455/1122334455/66694
+
+#EXTINF:-1 tvg-id="I586.62081.zap2it.com" tvg-name="MLB Network HD US" tvg-logo="" group-title="Sports",MLB Network HD US
+http://megatv.me:5890/1122334455/1122334455/66696
+
+#EXTINF:-1 tvg-id="I586.62081.zap2it.com" tvg-name="MLB Network US" tvg-logo="" group-title="Sports",MLB Network US
+http://megatv.me:5890/1122334455/1122334455/66697
+
+#EXTINF:-1 tvg-id="I589.45526.zap2it.com" tvg-name="NBA HD US" tvg-logo="" group-title="Sports",NBA HD US
+http://megatv.me:5890/1122334455/1122334455/66701
+
+#EXTINF:-1 tvg-id="I588.45399.zap2it.com" tvg-name="NFL Network FHD US" tvg-logo="" group-title="Sports",NFL Network FHD US
+http://megatv.me:5890/1122334455/1122334455/66710
+
+#EXTINF:-1 tvg-id="I588.45399.zap2it.com" tvg-name="NFL Network HD US" tvg-logo="" group-title="Sports",NFL Network HD US
+http://megatv.me:5890/1122334455/1122334455/66711
+
+#EXTINF:-1 tvg-id="I632.67331.zap2it.com" tvg-name="Nat Geo Wild HD US" tvg-logo="" group-title="Entertainment",Nat Geo Wild HD US
+http://megatv.me:5890/1122334455/1122334455/66716
+
+#EXTINF:-1 tvg-id="I692.68385.zap2it.com" tvg-name="Reelz HD US" tvg-logo="" group-title="Entertainment",Reelz HD US
+http://megatv.me:5890/1122334455/1122334455/66726
+
+#EXTINF:-1 tvg-id="I622.57390.zap2it.com" tvg-name="Science HD US" tvg-logo="" group-title="Entertainment",Science HD US
+http://megatv.me:5890/1122334455/1122334455/66728
+
+#EXTINF:-1 tvg-id="I869.58533.zap2it.com" tvg-name="Showtime 2 HD US" tvg-logo="" group-title="Entertainment",Showtime 2 HD US
+http://megatv.me:5890/1122334455/1122334455/66729
+
+#EXTINF:-1 tvg-id="I869.58533.zap2it.com" tvg-name="Showtime 2 US" tvg-logo="" group-title="Entertainment",Showtime 2 US
+http://megatv.me:5890/1122334455/1122334455/66730
+
+#EXTINF:-1 tvg-id="I869.58533.zap2it.com" tvg-name="Showtime East HD US" tvg-logo="" group-title="Entertainment",Showtime East HD US
+http://megatv.me:5890/1122334455/1122334455/66731
+
+#EXTINF:-1 tvg-id="I867.61001.zap2it.com" tvg-name="Showtime Showcase HD US" tvg-logo="" group-title="Entertainment",Showtime Showcase HD US
+http://megatv.me:5890/1122334455/1122334455/66733
+
+#EXTINF:-1 tvg-id="I554.59186.zap2it.com" tvg-name="Paramount Network HD US" tvg-logo="" group-title="Entertainment",Paramount Network HD US
+http://megatv.me:5890/1122334455/1122334455/66736
+
+#EXTINF:-1 tvg-id="I554.59186.zap2it.com" tvg-name="Paramount Network US" tvg-logo="" group-title="Entertainment",Paramount Network US
+http://megatv.me:5890/1122334455/1122334455/66737
+
+#EXTINF:-1 tvg-id="I846.67236.zap2it.com" tvg-name="Starz Cinema US" tvg-logo="" group-title="Entertainment",Starz Cinema US
+http://megatv.me:5890/1122334455/1122334455/66738
+
+#EXTINF:-1 tvg-id="I847.57569.zap2it.com" tvg-name="Starz Comedy US" tvg-logo="" group-title="Entertainment",Starz Comedy US
+http://megatv.me:5890/1122334455/1122334455/66739
+
+#EXTINF:-1 tvg-id="I842.57573.zap2it.com" tvg-name="Starz Edge HD US" tvg-logo="" group-title="Entertainment",Starz Edge HD US
+http://megatv.me:5890/1122334455/1122334455/66740
+
+#EXTINF:-1 tvg-id="I842.57573.zap2it.com" tvg-name="Starz Edge US" tvg-logo="" group-title="Entertainment",Starz Edge US
+http://megatv.me:5890/1122334455/1122334455/66741
+
+#EXTINF:-1 tvg-id="I850.36225.zap2it.com" tvg-name="Starz Encore HD US" tvg-logo="" group-title="Entertainment",Starz Encore HD US
+http://megatv.me:5890/1122334455/1122334455/66742
+
+#EXTINF:-1 tvg-id="I850.36225.zap2it.com" tvg-name="Starz Encore US" tvg-logo="" group-title="Entertainment",Starz Encore US
+http://megatv.me:5890/1122334455/1122334455/66743
+
+#EXTINF:-1 tvg-id="I680.58623.zap2it.com" tvg-name="SyFy HD US" tvg-logo="" group-title="Entertainment",SyFy HD US
+http://megatv.me:5890/1122334455/1122334455/66744
+
+#EXTINF:-1 tvg-id="I680.58623.zap2it.com" tvg-name="SyFy US" tvg-logo="" group-title="Entertainment",SyFy US
+http://megatv.me:5890/1122334455/1122334455/66745
+
+#EXTINF:-1 tvg-id="I552.58515.zap2it.com" tvg-name="TBS HD US" tvg-logo="" group-title="Entertainment",TBS HD US
+http://megatv.me:5890/1122334455/1122334455/66746
+
+#EXTINF:-1 tvg-id="I551.42642.zap2it.com" tvg-name="TNT HD US" tvg-logo="" group-title="Entertainment",TNT HD US
+http://megatv.me:5890/1122334455/1122334455/66747
+
+#EXTINF:-1 tvg-id="I683.64490.zap2it.com" tvg-name="truTV HD US" tvg-logo="" group-title="Entertainment",truTV HD US
+http://megatv.me:5890/1122334455/1122334455/66749
+
+#EXTINF:-1 tvg-id="I550.58452.zap2it.com" tvg-name="USA HD US" tvg-logo="" group-title="Entertainment",USA HD US
+http://megatv.me:5890/1122334455/1122334455/66752
+
+#EXTINF:-1 tvg-id="I550.58452.zap2it.com" tvg-name="USA Network HD US" tvg-logo="" group-title="Entertainment",USA Network HD US
+http://megatv.me:5890/1122334455/1122334455/66753
+
+#EXTINF:-1 tvg-id="I668.60468.zap2it.com" tvg-name="Destination America HD" tvg-logo="" group-title="Entertainment",Destination America HD
+http://megatv.me:5890/1122334455/1122334455/142313
+
+#EXTINF:-1 tvg-id="EPIX2HD" tvg-name=" EPIX 2 HD" tvg-logo="" group-title="Entertainment", EPIX 2 HD
+http://megatv.me:5890/1122334455/1122334455/142393
+
+#EXTINF:-1 tvg-id="EPIXHD" tvg-name="EPIX Hits" tvg-logo="" group-title="Entertainment",EPIX Hits
+http://megatv.me:5890/1122334455/1122334455/142394
+
+#EXTINF:-1 tvg-id="I639.57391.zap2it.com" tvg-name="TLC HD" tvg-logo="" group-title="Entertainment",TLC HD
+http://megatv.me:5890/1122334455/1122334455/142407
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Action 1 HD" tvg-logo="https://i.ibb.co/Jp6MbNZ/43c540b.png" group-title="Entertainment",PPV Action 1 HD
+http://megatv.me:5890/1122334455/1122334455/142497
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Action 2 HD" tvg-logo="https://i.ibb.co/Jp6MbNZ/43c540b.png" group-title="Entertainment",PPV Action 2 HD
+http://megatv.me:5890/1122334455/1122334455/142498
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Action 3 HD" tvg-logo="https://i.ibb.co/Jp6MbNZ/43c540b.png" group-title="Entertainment",PPV Action 3 HD
+http://megatv.me:5890/1122334455/1122334455/142499
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Action 4 HD" tvg-logo="https://i.ibb.co/Jp6MbNZ/43c540b.png" group-title="Entertainment",PPV Action 4 HD
+http://megatv.me:5890/1122334455/1122334455/142500
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Action 5 HD" tvg-logo="https://i.ibb.co/Jp6MbNZ/43c540b.png" group-title="Entertainment",PPV Action 5 HD
+http://megatv.me:5890/1122334455/1122334455/142501
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Action 7 HD" tvg-logo="https://i.ibb.co/Jp6MbNZ/43c540b.png" group-title="Entertainment",PPV Action 7 HD
+http://megatv.me:5890/1122334455/1122334455/142502
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Action 8 HD" tvg-logo="https://i.ibb.co/Jp6MbNZ/43c540b.png" group-title="Entertainment",PPV Action 8 HD
+http://megatv.me:5890/1122334455/1122334455/142503
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Action 9 HD" tvg-logo="https://i.ibb.co/Jp6MbNZ/43c540b.png" group-title="Entertainment",PPV Action 9 HD
+http://megatv.me:5890/1122334455/1122334455/142504
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Action 10 HD" tvg-logo="https://i.ibb.co/Jp6MbNZ/43c540b.png" group-title="Entertainment",PPV Action 10 HD
+http://megatv.me:5890/1122334455/1122334455/142505
+
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 1 HD" tvg-logo="https://i.ibb.co/nfBRQ2t/The-Bo33-Office.png" group-title="Entertainment",Box Office 1 HD
+http://megatv.me:5890/1122334455/1122334455/142506
+
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 2 HD" tvg-logo="https://i.ibb.co/nfBRQ2t/The-Bo33-Office.png" group-title="Entertainment",Box Office 2 HD
+http://megatv.me:5890/1122334455/1122334455/142507
+
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 3 HD" tvg-logo="https://i.ibb.co/nfBRQ2t/The-Bo33-Office.png" group-title="Entertainment",Box Office 3 HD
+http://megatv.me:5890/1122334455/1122334455/142508
+
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 4 HD" tvg-logo="https://i.ibb.co/nfBRQ2t/The-Bo33-Office.png" group-title="Entertainment",Box Office 4 HD
+http://megatv.me:5890/1122334455/1122334455/142509
+
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 5 HD" tvg-logo="https://i.ibb.co/nfBRQ2t/The-Bo33-Office.png" group-title="Entertainment",Box Office 5 HD
+http://megatv.me:5890/1122334455/1122334455/142510
+
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 6 HD" tvg-logo="https://i.ibb.co/nfBRQ2t/The-Bo33-Office.png" group-title="Entertainment",Box Office 6 HD
+http://megatv.me:5890/1122334455/1122334455/142511
+
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 7 HD" tvg-logo="https://i.ibb.co/nfBRQ2t/The-Bo33-Office.png" group-title="Entertainment",Box Office 7 HD
+http://megatv.me:5890/1122334455/1122334455/142512
+
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 8 HD" tvg-logo="https://i.ibb.co/nfBRQ2t/The-Bo33-Office.png" group-title="Entertainment",Box Office 8 HD
+http://megatv.me:5890/1122334455/1122334455/142513
+
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 9 HD" tvg-logo="https://i.ibb.co/nfBRQ2t/The-Bo33-Office.png" group-title="Entertainment",Box Office 9 HD
+http://megatv.me:5890/1122334455/1122334455/142514
+
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 10 HD" tvg-logo="https://i.ibb.co/nfBRQ2t/The-Bo33-Office.png" group-title="Entertainment",Box Office 10 HD
+http://megatv.me:5890/1122334455/1122334455/142515
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 03 PPV" tvg-logo="https://i.ibb.co/1shwhgk/shoxbet.png" group-title="Entertainment",Cinema 03 PPV
+http://megatv.me:5890/1122334455/1122334455/142516
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Prime 1 HD" tvg-logo="https://i.ibb.co/NrFzG9w/Aud-Za3-REf.png" group-title="Entertainment",Cinema Prime 1 HD
+http://megatv.me:5890/1122334455/1122334455/142517
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Prime 2 HD" tvg-logo="https://i.ibb.co/NrFzG9w/Aud-Za3-REf.png" group-title="Entertainment",Cinema Prime 2 HD
+http://megatv.me:5890/1122334455/1122334455/142518
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Prime 3 HD" tvg-logo="https://i.ibb.co/NrFzG9w/Aud-Za3-REf.png" group-title="Entertainment",Cinema Prime 3 HD
+http://megatv.me:5890/1122334455/1122334455/142519
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Prime 4 HD" tvg-logo="https://i.ibb.co/NrFzG9w/Aud-Za3-REf.png" group-title="Entertainment",Cinema Prime 4 HD
+http://megatv.me:5890/1122334455/1122334455/142520
+
+#EXTINF:-1 tvg-id="" tvg-name="USA Cinema Prime 5 HD" tvg-logo="https://i.ibb.co/NrFzG9w/Aud-Za3-REf.png" group-title="Entertainment",USA Cinema Prime 5 HD
+http://megatv.me:5890/1122334455/1122334455/142521
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Prime 6 HD" tvg-logo="https://i.ibb.co/NrFzG9w/Aud-Za3-REf.png" group-title="Entertainment",Cinema Prime 6 HD
+http://megatv.me:5890/1122334455/1122334455/142522
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Prime 7 HD" tvg-logo="https://i.ibb.co/NrFzG9w/Aud-Za3-REf.png" group-title="Entertainment",Cinema Prime 7 HD
+http://megatv.me:5890/1122334455/1122334455/142523
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Prime 8 HD" tvg-logo="https://i.ibb.co/NrFzG9w/Aud-Za3-REf.png" group-title="Entertainment",Cinema Prime 8 HD
+http://megatv.me:5890/1122334455/1122334455/142524
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Prime 9 HD" tvg-logo="https://i.ibb.co/NrFzG9w/Aud-Za3-REf.png" group-title="Entertainment",Cinema Prime 9 HD
+http://megatv.me:5890/1122334455/1122334455/142525
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Prime 10 HD" tvg-logo="https://i.ibb.co/NrFzG9w/Aud-Za3-REf.png" group-title="Entertainment",Cinema Prime 10 HD
+http://megatv.me:5890/1122334455/1122334455/142526
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Comedy 1 HD" tvg-logo="https://i.ibb.co/6bx4Dpc/2321.png" group-title="Entertainment",PPV Comedy 1 HD
+http://megatv.me:5890/1122334455/1122334455/142527
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Comedy 2 HD" tvg-logo="https://i.ibb.co/6bx4Dpc/2321.png" group-title="Entertainment",PPV Comedy 2 HD
+http://megatv.me:5890/1122334455/1122334455/142528
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Comedy 3 HD" tvg-logo="https://i.ibb.co/6bx4Dpc/2321.png" group-title="Entertainment",PPV Comedy 3 HD
+http://megatv.me:5890/1122334455/1122334455/142529
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Comedy 4 HD" tvg-logo="https://i.ibb.co/6bx4Dpc/2321.png" group-title="Entertainment",PPV Comedy 4 HD
+http://megatv.me:5890/1122334455/1122334455/142530
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Comedy 5 HD" tvg-logo="https://i.ibb.co/6bx4Dpc/2321.png" group-title="Entertainment",PPV Comedy 5 HD
+http://megatv.me:5890/1122334455/1122334455/142531
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Comedy 6 HD" tvg-logo="https://i.ibb.co/6bx4Dpc/2321.png" group-title="Entertainment",PPV Comedy 6 HD
+http://megatv.me:5890/1122334455/1122334455/142532
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Comedy 7 HD" tvg-logo="https://i.ibb.co/6bx4Dpc/2321.png" group-title="Entertainment",PPV Comedy 7 HD
+http://megatv.me:5890/1122334455/1122334455/142533
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Comedy 8 HD" tvg-logo="https://i.ibb.co/6bx4Dpc/2321.png" group-title="Entertainment",PPV Comedy 8 HD
+http://megatv.me:5890/1122334455/1122334455/142534
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Comedy 9 HD" tvg-logo="https://i.ibb.co/6bx4Dpc/2321.png" group-title="Entertainment",PPV Comedy 9 HD
+http://megatv.me:5890/1122334455/1122334455/142535
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV Comedy 10 HD" tvg-logo="https://i.ibb.co/6bx4Dpc/2321.png" group-title="Entertainment",PPV Comedy 10 HD
+http://megatv.me:5890/1122334455/1122334455/142536
+
+#EXTINF:-1 tvg-id="" tvg-name="Prime Classic 1 HD" tvg-logo="https://i.ibb.co/c3SyX3V/2-510x510-1.jpg" group-title="Entertainment",Prime Classic 1 HD
+http://megatv.me:5890/1122334455/1122334455/142537
+
+#EXTINF:-1 tvg-id="" tvg-name="Prime Classic 2 HD" tvg-logo="https://i.ibb.co/c3SyX3V/2-510x510-1.jpg" group-title="Entertainment",Prime Classic 2 HD
+http://megatv.me:5890/1122334455/1122334455/142538
+
+#EXTINF:-1 tvg-id="" tvg-name="Prime Classic 3 HD" tvg-logo="https://i.ibb.co/c3SyX3V/2-510x510-1.jpg" group-title="Entertainment",Prime Classic 3 HD
+http://megatv.me:5890/1122334455/1122334455/142539
+
+#EXTINF:-1 tvg-id="" tvg-name="Prime Classic 4 HD" tvg-logo="https://i.ibb.co/c3SyX3V/2-510x510-1.jpg" group-title="Entertainment",Prime Classic 4 HD
+http://megatv.me:5890/1122334455/1122334455/142540
+
+#EXTINF:-1 tvg-id="" tvg-name="Prime Classic 5 HD" tvg-logo="https://i.ibb.co/c3SyX3V/2-510x510-1.jpg" group-title="Entertainment",Prime Classic 5 HD
+http://megatv.me:5890/1122334455/1122334455/142541
+
+#EXTINF:-1 tvg-id="" tvg-name="Prime Classic 6 HD" tvg-logo="https://i.ibb.co/c3SyX3V/2-510x510-1.jpg" group-title="Entertainment",Prime Classic 6 HD
+http://megatv.me:5890/1122334455/1122334455/142542
+
+#EXTINF:-1 tvg-id="" tvg-name="Prime Classic 7 HD" tvg-logo="https://i.ibb.co/c3SyX3V/2-510x510-1.jpg" group-title="Entertainment",Prime Classic 7 HD
+http://megatv.me:5890/1122334455/1122334455/142543
+
+#EXTINF:-1 tvg-id="" tvg-name="Prime Classic 8 HD" tvg-logo="https://i.ibb.co/c3SyX3V/2-510x510-1.jpg" group-title="Entertainment",Prime Classic 8 HD
+http://megatv.me:5890/1122334455/1122334455/142544
+
+#EXTINF:-1 tvg-id="" tvg-name="Prime Classic 9 HD" tvg-logo="https://i.ibb.co/c3SyX3V/2-510x510-1.jpg" group-title="Entertainment",Prime Classic 9 HD
+http://megatv.me:5890/1122334455/1122334455/142545
+
+#EXTINF:-1 tvg-id="" tvg-name="Prime Classic 10 HD" tvg-logo="http://showflix.art:5890/images/09fe00192dd5d3c86d7b31a8add5f808.jpg" group-title="Entertainment",Prime Classic 10 HD
+http://megatv.me:5890/1122334455/1122334455/142546
